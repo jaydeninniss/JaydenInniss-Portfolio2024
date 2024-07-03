@@ -28,6 +28,7 @@ h3 {
 p {
   font-family: "Anybody", sans-serif;
   font-size: 2rem;
+  color: var(--jiwhite);
   font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;

@@ -1,4 +1,12 @@
+@import url("normalize.css");
+@import url("variables.css");
+@import url("fonts.css");
+
 h1 {
-    color: var(--jidarkgreen);
+    color: var(--jilightgreen);
     font-size: 3rem;
+}
+
+body {
+    background-color: var(--jigrey);
 }
