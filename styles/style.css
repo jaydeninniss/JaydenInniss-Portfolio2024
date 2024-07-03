@@ -1,2 +1,4 @@
-@import url("variables.css");
-@import url("fonts.css");
+h1 {
+    color: var(--jidarkgreen);
+    font-size: 3rem;
+}

@@ -7,7 +7,16 @@ h1 {
     "wdth" 100;
 }
 
-p {
+h2 {
+  font-family: "Anybody", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+h3 {
   font-family: "Anybody", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -15,4 +24,16 @@ p {
   font-variation-settings:
     "wdth" 100;
 }
+
+p {
+  font-family: "Anybody", sans-serif;
+  font-size: 2rem;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
 
