@@ -18,23 +18,29 @@ h2 {
 
 h3 {
   font-family: "Anybody", sans-serif;
+  font-size: 32px;
   font-optical-sizing: auto;
-  font-weight: 500;
+  font-weight: 700;
   font-style: normal;
   font-variation-settings:
     "wdth" 100;
+  color: var(--jiwhite);
 }
 
 p {
-  font-family: "Anybody", sans-serif;
+  font-family: "Be Vietnam Pro", sans-serif;
   font-size: 2rem;
-  color: var(--jiwhite);
-  font-optical-sizing: auto;
   font-weight: 500;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
+  color: white;
 }
 
+
+.nav-links a {
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-size: 28px;
+  color: var(--jiwhite);
+  font-weight: 600;
+}
 
 
