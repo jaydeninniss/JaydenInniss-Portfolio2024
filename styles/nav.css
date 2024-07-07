@@ -4,6 +4,8 @@
     display: flex;
     background-color: #222922;
     justify-content: start;
+    position: fixed;
+    z-index: 6;
 }
 
 #nav-logo {
@@ -47,4 +49,8 @@
 
 .nav-links a:hover {
     color: var(--jilightgreen);
+}
+
+#youarehere {
+    text-decoration: underline;
 }
