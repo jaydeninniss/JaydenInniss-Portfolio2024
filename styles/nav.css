@@ -1,10 +1,10 @@
 #global-nav {
-    height: 100px;
+    height: 60px;
     width: 100vw;
     display: flex;
     background-color: #222922;
     justify-content: start;
-    position:fixed;
+    position: fixed;
     z-index: 6;
 }
 
@@ -12,7 +12,6 @@
     height: 100%;
     justify-content: flex-start;
     transition: all 0.1s ease;
-    
 }
 
 #nav-logo:hover {
@@ -38,13 +37,13 @@
     display: flex;
     margin: 0;
     padding: 0;
-    gap: 8vw;
+    gap: 5vw;
 }
 
 .nav-links a {
     text-decoration: none;
     transition: all 0.2s ease;
-    font-size: 28px;
+    font-size: 22px;
 }
 
 #reach-out {
@@ -54,8 +53,4 @@
 
 .nav-links a:hover {
     color: var(--jilightgreen);
-}
-
-#youarehere {
-    text-decoration: underline;
 }

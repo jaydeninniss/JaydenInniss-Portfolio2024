@@ -8,7 +8,7 @@
                 <li><a href="../html/photo.php">PHOTO</a></li>
                 <li><a href="../html/video.php">VIDEO</a></li>
                 <li><a href="../html/newmedia.php">NEW MEDIA</a></li>
-                <li><a href="../html/about.html">ABOUT</a></li>
+                <li><a href="../html/about.php">ABOUT</a></li>
                 <li><a href="../html/contact.php" id="reach-out">REACH OUT</a></li>
             </ul>
         </div>

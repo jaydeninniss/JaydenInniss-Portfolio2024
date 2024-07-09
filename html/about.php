@@ -22,26 +22,12 @@
     <meta property="og:title" content="About Photographer & Videographer Jayden Inniss" />
     <meta name="description" content="Jayden Inniss is a photographer and videographer proudly based in Whistler, BC.">
     <meta name="keywords" content="Photography, Videography, Jayden Inniss, Whistler, Camera, Photography Services in Whistler, Filmer in Whistler, Biking, Skiing, Hiking, Camping, Whistler British Columbia Photo/Video, Sport Photographer, Landscape Photography, Action Sport Photography and Videography" \>
+        <!-- End of SEO -->
 
 </head>
 <body>
 
-<!-- HEADER --> 
-    <nav id="global-nav">
-        <a href="../index.html" id="nav-logo">
-            <img src="../media/img/JaydenInniss_Logo.png" alt="Jayden Inniss Logo">
-        </a>
-        <div id="nav-links-container">
-            <ul class="nav-links">
-                <li><a href="../html/photo.html">PHOTO</a></li>
-                <li><a href="../html/video.html">VIDEO</a></li>
-                <li><a href="../html/newmedia.html">NEW MEDIA</a></li>
-                <li><a href="../html/about.html">ABOUT</a></li>
-                <li><a href="../html/contact.html" id="reach-out">REACH OUT</a></li>
-            </ul>
-        </div>
-    </nav>
-<!-- END OF HEADER -->
+    <?php include "../parts/header.php" ?>
 
     <main>
 
@@ -114,7 +100,7 @@
                             <div class="skill-bubble">
                                 <p class="education-title">Adobe CC</p>
                             </div>
-                            <!-- HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
+                            <!-- Dear future Jayden: HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
                         </div>
                     </div>
                 </div>
@@ -162,18 +148,11 @@
             </div>
         </div>
 
-        <footer>
-            <div class="leftfoot">
-                <p>Jayden Inniss</p>
-            </div>
-            <div class="rightfoot">
-                <p>Reach out!<br>Jayden.inniss@gmail.com<br>778.793.5323</p>
-            </div>
-        </footer>
+        <?php include "../parts/footer.php" ?>
 
     </main>
 
-    <script src="../js/parallaxhero.js"></script>
+    <script src="../js/parallaxhero/parallaxhero_about.js"></script>
 
 </body>
 </html>

@@ -17,22 +17,7 @@
 </head>
 <body>
 
-<!-- HEADER --> 
-    <nav id="global-nav">
-        <a href="../index.php" id="nav-logo">
-            <img src="../media/img/JaydenInniss_Logo.png" alt="Jayden Inniss Logo">
-        </a>
-        <div id="nav-links-container">
-            <ul class="nav-links">
-                <li><a href="../html/photo.php">PHOTO</a></li>
-                <li><a href="../html/video.php">VIDEO</a></li>
-                <li><a href="../html/newmedia.php">NEW MEDIA</a></li>
-                <li><a href="../html/about.html">ABOUT</a></li>
-                <li><a href="../html/contact.php" id="reach-out">REACH OUT</a></li>
-            </ul>
-        </div>
-    </nav>
-<!-- END OF HEADER -->
+    <?php include "parts/header.php" ?>
 
     <div class="content">
         <h1>HOME Jayden Inniss</h1>
@@ -40,5 +25,8 @@
         Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
         </p>
     </div>  
+
+
+    <?php include "parts/footer.php" ?>
 </body>
 </html>
