@@ -23,11 +23,9 @@
         scale: 120%;
     }
 
-    #about-hero-text {
+    #newmedia-hero-mom {
         position: absolute;
-        top: 10vw;
-        left: 10vw;
-        z-index: 3;
+        transform: translateY(-90px);
 
         p {
             color: var(--jidarkgreen);
@@ -40,6 +38,42 @@
                 "wdth" 100;
         }
     }
+}
 
+
+.content-container {
+    text-align: center;
+    background-color: var(--jigrey);
+
+    #grey-cover  {
+        position: absolute;
+        z-index: 1;
+        background-color: var(--jigrey);
+        width: 100vw;
+        height: 250px;
+    }
+
+    .project-banner-container {
+        margin-top: 3000px;
+        display: flex;
+        flex-direction: column;
+
+        background-color: red;
+
+        .project {
+            width: 100%;
+            border: 6px solid white;
+            height: 666px;
+            
+        }
+
+
+            
+        }
+
+        #project1 {
+            background-image: url("../media/img/projects/alpinearmourcover.png");
+            background-size: cover;
+    }
 
 }

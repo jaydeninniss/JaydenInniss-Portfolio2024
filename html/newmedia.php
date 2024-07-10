@@ -33,11 +33,24 @@
 
     <!-- HERO IMAGE -->
     <div id="newmedia-hero">
-            <div id="newmedia-hero-text"><p>NEW MEDIA</p></div>
-            <div id="newmedia-hero-bg"></div>
-            <div id="newmedia-hero-foreground"></div>
+
+        <div id="newmedia-hero-bg"></div>
+        <div id="newmedia-hero-mom"><p>NEW MEDIA PROJECTS</p></div>
+        <div id="newmedia-hero-foreground"></div>
+
     </div>
     <!-- END HERO IMAGE -->
+
+    <div class="content-container">
+        <div id="grey-cover">        <h1>Hello</h1></div>
+
+
+        <div class="project-banner-container">
+            <div class="project" id="project1">Project 1</div>
+            <div class="project" id="project2">Project 2</div>
+            <div class="project" id="project3">Project 3</div>
+        </div>
+    </div>
 
 
         <?php include "../parts/footer.php" ?>
