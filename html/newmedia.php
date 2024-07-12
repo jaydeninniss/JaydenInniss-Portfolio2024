@@ -27,15 +27,19 @@
 </head>
 <body>
 
+
+
     <?php include "../parts/header.php" ?>
 
     <main>
+
+
 
     <!-- HERO IMAGE -->
     <div id="newmedia-hero">
 
         <div id="newmedia-hero-bg"></div>
-        <div id="newmedia-hero-mom"><p>NEW MEDIA PROJECTS</p></div>
+        <div id="newmedia-hero-text"><p id='hero'>NEW MEDIA PROJECTS</p></div>
         <div id="newmedia-hero-foreground"></div>
 
     </div>
@@ -44,13 +48,32 @@
     <div class="content-container">
         <div id="grey-cover">        <h1>Hello</h1></div>
 
-
         <div class="project-banner-container">
-            <div class="project" id="project1">Project 1</div>
+            <div class="project" id="project1">
+                <div class="project-info" id="project-info1">
+                    <div class="left-side-info">
+                        <h3>SEA TO SKY STUDENT SHORT FILM FESTIVAL</h3>
+                        <h3>Community Fundraising Event</h3>
+                        <p class="project-type">Self-Directed</p>
+                        <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                        <button class="cta-button">
+                            <div class="cta">
+                                <p>Read more</p>
+                                <img src="../media/icons/button-arrow.svg" alt="">
+                            </div>
+                        </button>
+                    </div>
+                    <div class="right-side-blank">hey babes</div>
+
+                </div>
+            </div>
+
             <div class="project" id="project2">Project 2</div>
             <div class="project" id="project3">Project 3</div>
         </div>
     </div>
+
+
 
 
         <?php include "../parts/footer.php" ?>

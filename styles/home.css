@@ -1,3 +1,78 @@
+#home-hero {
+    display: flex;
+    height: 2000px;
+    overflow:visible;
+    align-items: center;
+
+    #home-hero-4 {
+        background-image: url("../media/img/parallax/home/Home-4b.png");
+        background-size: cover;
+        position: absolute;
+        width: 100%;
+        height: 2000px;
+        scale: 100%;
+        transform: translateY(-20px);
+    }
+
+    #home-hero-3 {
+        background-image: url("../media/img/parallax/home/Home-3b.png");
+        background-size: cover;
+        position: absolute;
+        width: 100%;
+        height: 2000px; 
+        scale: 100%;    
+        transform: translateY(20px);
+    }
+
+    #home-hero-2 {
+        background-image: url("../media/img/parallax/home/Home-2b.png");
+        background-size: cover;
+        position: absolute;
+        width: 100%;
+        height: 2000px;
+        scale: 100%;
+        transform: translateY(180px);
+    }
+
+    #home-hero-1 {
+        background-image: url("../media/img/parallax/home/Home-1b.png");
+        background-size: cover;
+        position: absolute;
+        width: 100%;
+        height: 2000px; 
+        scale: 100%; 
+        transform: translateY(500px);
+    }
+
+    #home-hero-text {
+        position: absolute;
+        width: 100vw;
+        width: 70vw;
+        left: 20vw;
+        transform: translateY(-750px);
+
+
+        p {
+            color: var(--jidarkgreen);
+            font-family: "Anybody", sans-serif;
+            font-optical-sizing: auto;
+            font-size: 80px;
+            font-weight: 800;
+            font-style: normal;
+            font-variation-settings:
+                "wdth" 100;
+        }
+    }
+}
+
 .content {
-    padding-top: 130px;
+    padding-top: 600px;
+}
+
+#grey-cover  {
+    position: absolute;
+    z-index: 9;
+    background-color: var(--jigrey);
+    width: 100vw;
+    height: 500px;
 }

@@ -15,17 +15,14 @@ footer {
 
     .leftfoot {
         width: 48%;
-
         vertical-align: middle;
-
         background-size: 100%;
         background-repeat: no-repeat;
-
-
 
         p {
             font-family: "Anybody", sans-serif;
             font-size: 64px;
+            color: white;
             font-optical-sizing: auto;
             font-weight: 800;
             font-style: normal;
@@ -41,6 +38,7 @@ footer {
         p {
             line-height: 1.6;
             font-weight: 300;
+            color: white;
         }
     }
 }

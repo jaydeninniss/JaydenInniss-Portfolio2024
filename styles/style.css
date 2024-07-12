@@ -1,13 +1,10 @@
 @import url("normalize.css");
 @import url("variables.css");
 @import url("fonts.css");
+@import url("ctaButton.css");
 @import url("nav.css");
 @import url("footer.css");
 
-h1 {
-    color: var(--jilightgreen);
-    font-size: 3rem;
-}
 
 body {
     background-color: var(--jigrey);
