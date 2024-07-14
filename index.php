@@ -16,7 +16,7 @@
 
 
     <!-- CSS -->
-    <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/style.css">    
     <link rel="stylesheet" href="styles/home.css">
 
 </head>
@@ -40,7 +40,7 @@
 
     <div class="content">
         <div id="grey-cover">
-        <h1>HOME Jayden Inniss</h1>
+        <h1>Jayden Inniss</h1>
         <p>Hi David! <br>Please head over to the about page in the global nav to see my Assignment 1! <br><br>
         Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
         </p>

@@ -4,18 +4,18 @@ document.addEventListener("DOMContentLoaded", (event) => {
     gsap.registerPlugin(ScrollTrigger)
 
         gsap.to("#home-hero-text", {
-            yPercent: 1100,
+            yPercent: 760,
             ease: "none",
             scrollTrigger: {
                 trigger: "#home-hero",
                 start: "0%",
-                end: "140%",
+                end: "130%",
                 scrub: true
             }, 
         });
 
         gsap.to("#home-hero-4", {
-            yPercent: 80,
+            yPercent: 70,
             ease: "none",
             scrollTrigger: {
                 trigger: "#home-hero",
@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
             scrollTrigger: {
                 trigger: "#home-hero",
                 start: "0%", 
-                end: "115%",
+                end: "125%",
                 scrub: true
             }, 
         });
@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
             scrollTrigger: {
                 trigger: "#home-hero",
                 start: "0%", 
-                end: "125%",
+                end: "134%",
                 scrub: true
             }, 
         });

@@ -1,6 +1,6 @@
 #home-hero {
     display: flex;
-    height: 2000px;
+    height: 1500px;
     overflow:visible;
     align-items: center;
 
@@ -21,7 +21,7 @@
         width: 100%;
         height: 2000px; 
         scale: 100%;    
-        transform: translateY(20px);
+        transform: translateY(-60px);
     }
 
     #home-hero-2 {
@@ -31,7 +31,7 @@
         width: 100%;
         height: 2000px;
         scale: 100%;
-        transform: translateY(180px);
+        transform: translateY(120px);
     }
 
     #home-hero-1 {
@@ -41,7 +41,7 @@
         width: 100%;
         height: 2000px; 
         scale: 100%; 
-        transform: translateY(500px);
+        transform: translateY(450px);
     }
 
     #home-hero-text {
@@ -49,7 +49,7 @@
         width: 100vw;
         width: 70vw;
         left: 20vw;
-        transform: translateY(-750px);
+        transform: translateY(-550px);
 
 
         p {
@@ -67,6 +67,7 @@
 
 .content {
     padding-top: 600px;
+    background-color: blue;
 }
 
 #grey-cover  {

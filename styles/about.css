@@ -9,7 +9,7 @@ h1 {
 }
 /* The H1 here /\ is below the hero image in green */
 
-#contact-hero {
+#about-hero {
     display: flex;
     height: 900px;
     overflow: hidden;
@@ -179,7 +179,16 @@ h1 {
         color: var(--jilightgreen);
     }
 
-    #contact-insertimg {
+    .image-container {
+        max-width: 1340px;
+        max-height: 778px;
+        overflow: hidden;
+        border-radius: 40px;
+        margin: auto;
+        display: flex;
+    }
+    
+    #about-insertimg {
         max-width: 1340px;
         max-height: 778px;
         overflow: hidden;

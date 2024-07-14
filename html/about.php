@@ -27,12 +27,17 @@
 </head>
 <body>
 
+<!-- TODO
+    1. Responsive
+    2. Replace images at bottom?
+-->
+
     <?php include "../parts/header.php" ?>
 
     <main>
 
 <!-- HERO IMAGE -->
-        <div id="contact-hero">
+        <div id="about-hero">
             <div id="about-hero-text"><p>ABOUT</p></div>
             <div id="about-hero-bg"></div>
             <div id="about-hero-jayden"></div>
@@ -50,7 +55,8 @@
                 <p>Growing up in Whistler, I have had the unique opportunity to collaborate with the world's top athletes and participate in incredible events! <br><br> Over the past five years, I have worked with Whistler businesses, community organizations and athletes to produce photo/video marketing content. Recently, I have been working in television broadcast events as a camera operator.</p>
             </div>
 
-            <img src="../media/img/jaydenthumbsup.JPG" id="contact-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand">
+            <div class="image-container"><img src="../media/img/jaydenthumbsup.JPG" id="about-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand"></div>
+            
             <h3>I bring to the team a <span id="green-highlight"> high-energy infectious positivity!</span></h3>
         
 
