@@ -1,3 +1,4 @@
+/* HERO IMAGE SETUP */
 #newmedia-hero {
     display: flex;
     height: 900px;
@@ -39,8 +40,10 @@
         }
     }
 }
+/* HERO IMAGE SETUP END */
 
 
+/* ON TO THE GOOD STUFF */
 .content-container {
     text-align: center;
     background-color: var(--jigrey);
@@ -51,6 +54,15 @@
         background-color: var(--jigrey);
         width: 100vw;
         height: 250px;
+        background-image: url("../media/topo/footer/left.png"), url("../media/topo/footer/right.png");
+        background-position: top left, top right;
+        background-repeat: no-repeat;
+    }
+
+    h1 {
+        color: white;
+        font-size: 48px;
+        padding: 60px;
     }
 
     .project-banner-container {
@@ -58,11 +70,10 @@
         flex-direction: column;
         padding-top: 250px;
 
-        background-color: red;
-
         .project {
             width: 100%;
             height: 566px;
+            transition: all 0.3s ease;
 
             .project-info {
                 position: absolute;
@@ -73,19 +84,65 @@
                 flex-wrap: nowrap;
                 overflow: hidden;
 
-
                 .left-side-info {
                     flex-grow: 0;
                     flex-shrink: 1;
-                    flex-basis: 750px;
-                    background-color: var(--jigrey);
+                    flex-basis: 500px;
+                    padding-left: 60px;
+                    padding-right: 80px;
+                    padding-top: 20px;
+                    padding-bottom: 20px;
+                    background-color: var(--jiolive);
+                    text-align: left;
+
+                    h2 {
+                        color: #FFF;
+                        font-family: Anybody;
+                        font-size: 36px;
+                        font-style: normal;
+                        font-weight: 600;
+                        line-height: 0.9;
+                    }
+
+                    h3 {
+                        color: #FFF;
+                        font-family: "Be Vietnam Pro";
+                        font-size: 28px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 0.2;
+                    }
+
+                    .project-type {
+                        color: #3B6842;
+                        font-family: "Be Vietnam Pro";
+                        font-size: 20px;
+                        font-style: normal;
+                        font-weight: 700;
+                        line-height: 0.3;
+                    }
+
+                    .project-desc {
+                        color: #FFF;
+                        font-family: "Be Vietnam Pro";
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: normal;
+                        padding-top: 60px;
+                    }
                 }
             }
+        }
+
+        .project:hover {
+            background-color: rgba(0,0,0,0.4);
+            background-blend-mode: overlay;
         }
     }
 
 
-    /* LINKING THE BACKGROUND IMAGES FOR THE PROJECTS */
+    /* LINKING THE BACKGROUND IMAGES FOR THE PROJECT BANNERS */
     #project1 {
         background-image: url("../media/img/projects/stsfilmfestprojectcover.png");
         background-size: cover;
@@ -104,6 +161,3 @@
         background-position: center;
     }
 }
-
-
-

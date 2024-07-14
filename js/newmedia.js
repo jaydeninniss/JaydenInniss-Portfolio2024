@@ -2,9 +2,9 @@ const project1 = document.querySelector("#project1")
 const project2 = document.querySelector("#project2")
 const project3 = document.querySelector("#project3")
 
-gsap.set("#project-info1", { x: -750 });
-gsap.set("#project-info2", { x: -750 });
-gsap.set("#project-info3", { x: -750 });
+gsap.set("#project-info1", { x: -900 });
+gsap.set("#project-info2", { x: -900 });
+gsap.set("#project-info3", { x: -900 });
 
 let revealInfo1 = gsap.to("#project-info1", {
     paused: true,

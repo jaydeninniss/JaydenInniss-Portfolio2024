@@ -28,10 +28,11 @@
 <body>
 
 <!-- TODO
-    1. Finish bringing over copy
-    2. Design Button
+    DONE 1. Finish bringing over copy
+    DONE 2. Design Button
     3. Move project 2 image over
     4. Add h1 above projects and topographic textures
+    5. Make the whole banner a link?
     4. Responsive
     5. Link buttons?
 -->
@@ -49,14 +50,18 @@
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
-        <div id="grey-cover">        <h1>Hello</h1></div>
-        <!-- Put something here - probably featured projects -->
+        <div id="grey-cover">        
+            <h1>Featured Projects</h1>
+        </div>
+
+
+        <!-- I THINK MAKE ALL THE WHOLE SLIDE A LINK -->
 
         <div class="project-banner-container">
             <div class="project" id="project1">
                 <div class="project-info" id="project-info1">
                     <div class="left-side-info">
-                        <h3>SEA TO SKY STUDENT SHORT FILM FESTIVAL</h3>
+                        <h2>SEA TO SKY STUDENT SHORT FILM FESTIVAL</h2>
                         <h3>Community Fundraising Event</h3>
                         <p class="project-type">Self-Directed</p>
                         <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
@@ -73,10 +78,10 @@
             <div class="project" id="project2">
                 <div class="project-info" id="project-info2">
                     <div class="left-side-info">
-                        <h3>Alpine Armour</h3>
-                        <h3>Community Fundraising Event</h3>
-                        <p class="project-type">Self-Directed</p>
-                        <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                        <h2>Alpine Armour</h2>
+                        <h3>Marketing Campaign Pitch</h3>
+                        <p class="project-type">New Media, BCIT</p>
+                        <p class="project-desc">In a group of four, we designed a full marketing campaign to promote an event for a fictional outdoor apparel company. The final deliverables were presented as a marketing pitch to peers.<br><br>Role: Project Manager</p>
                         <button class="cta-button">
                             <div class="cta">
                                 <p>Read more</p>
@@ -91,14 +96,14 @@
             <div class="project" id="project3">
                 <div class="project-info" id="project-info3">
                     <div class="left-side-info">
-                        <h3>SEA TO SKY STUDENT SHORT FILM FESTIVAL</h3>
-                        <h3>Community Fundraising Event</h3>
-                        <p class="project-type">Self-Directed</p>
-                        <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                        <h2>UI/UX</h2>
+                        <h3>Interface Design + User Testing</h3>
+                        <p class="project-type">New Media, BCIT</p>
+                        <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
                         <button class="cta-button">
                             <div class="cta">
                                 <p>Read more</p>
-                                <img src="../media/icons/button-arrow.svg" alt="">
+                                <img class="cta-arrow" src="../media/icons/button-arrow.svg" alt="Right Facing Arrow">
                             </div>
                         </button>
                     </div> 
