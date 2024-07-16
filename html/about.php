@@ -127,7 +127,7 @@
                     </div>
                     <div class="values">
                         <p class="value-title">Constant Learning</p>
-                        <p class="value-desc">I thrive when I can constantly continue learning new things. I appreciate when a safe space or dedicated time is set aside for growth in a job. I believe that you can finish learning, whether it be a new perspective or technique, the process of learning and honing your craft is never complete. </p>
+                        <p class="value-desc">I thrive when I can constantly continue learning new things. I appreciate when a safe space or dedicated time is set aside for growth in a job. I believe that you can never finish learning, whether it be a new perspective or technique, the process of learning and honing your craft is never complete!</p>
                     </div>
                 </div>    
             </div>
@@ -137,7 +137,7 @@
                     <h2>My Days Off</h2>
                 </div>
                 <div class="answer">
-                    <p>I definitely fit the stereotype of a “Whistler Kid”. Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping somewhere! <br><br> The natural beauty of my backyard (the Sea to Sky corridor) is a large inspiration for me, so I am drawn out to adventure again and again!<br><br>Of course, I don’t have any photos of myself because I am always taking the photos, but heres a few shots of me in front of the lens!</p>
+                    <p>I definitely fit the stereotype of a “Whistler Kid”. <br><br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping somewhere! <br><br> The natural beauty of my backyard (the Sea to Sky corridor) is a large inspiration for me, so I am drawn out to adventure again and again!<br><br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
                     
                     <div class="image-holder">
                         <div id="img1">

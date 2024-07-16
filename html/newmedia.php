@@ -31,7 +31,7 @@
     DONE 1. Finish bringing over copy
     DONE 2. Design Button
     3. Move project 2 image over
-    4. Add h1 above projects and topographic textures
+    DONE 4. Add h1 above projects and topographic textures
     5. Make the whole banner a link?
     4. Responsive
     5. Link buttons?
@@ -111,8 +111,6 @@
             </div>
         </div>
     </div>
-
-
 
 
         <?php include "../parts/footer.php" ?>

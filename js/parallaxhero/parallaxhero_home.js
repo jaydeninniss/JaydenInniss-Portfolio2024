@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     gsap.registerPlugin(ScrollTrigger)
 
         gsap.to("#home-hero-text", {
-            yPercent: 760,
+            yPercent: 855,
             ease: "none",
             scrollTrigger: {
                 trigger: "#home-hero",

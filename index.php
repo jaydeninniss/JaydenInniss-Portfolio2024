@@ -28,7 +28,8 @@
     <div id="home-hero">
 
         <div id="home-hero-4"></div>
-        <div id="home-hero-text"><p>TAGLINE WILL GO HERE</p></div>
+        <div id="home-hero-text"><p>JAYDEN INNISS</p>
+        <h1>Photography | Videography | Multimedia Design</h1></div>
         <div id="home-hero-3"></div>
         <div id="home-hero-2"></div>
         <div id="home-hero-1"></div>
@@ -40,29 +41,16 @@
 
     <div class="content">
         <div id="grey-cover">
-        <h1>Jayden Inniss</h1>
-        <p>Hi David! <br>Please head over to the about page in the global nav to see my Assignment 1! <br><br>
-        Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
-        </p>
-        <h1>HOME Jayden Inniss</h1>
-        <p>Hi David! <br>Please head over to the about page in the global nav to see my Assignment 1! <br><br>
-        Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
-        </p>        <h1>HOME Jayden Inniss</h1>
-        <p>Hi David! <br>Please head over to the about page in the global nav to see my Assignment 1! <br><br>
-        Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
-        </p>        <h1>HOME Jayden Inniss</h1>
-        <p>Hi David! <br>Please head over to the about page in the global nav to see my Assignment 1! <br><br>
-        Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
-        </p>        <h1>HOME Jayden Inniss</h1>
-        <p>Hi David! <br>Please head over to the about page in the global nav to see my Assignment 1! <br><br>
-        Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
-        </p>        <h1>HOME Jayden Inniss</h1>
-        <p>Hi David! <br>Please head over to the about page in the global nav to see my Assignment 1! <br><br>
-        Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
-        </p>        <h1>HOME Jayden Inniss</h1>
-        <p>Hi David! <br>Please head over to the about page in the global nav to see my Assignment 1! <br><br>
-        Sorry about this mess of files, this is the beginning stages of my portfolio, so I need to give you everything to ensure the stylesheet are linked properly! <br>Thanks so much!
-        </p>
+            <div class="about">
+                <div class="about-profilepic">
+                    <img src="media/img/jayden24profilepic.JPEG" alt="Jayden Inniss" id="profile-pic">
+                </div>
+                <div class="about-right">
+                    <h1>Jayden Inniss<span id='jaydenstitle'>Photographer, Videographer, Multimedia Designer</span></h1>
+                    <p>Growing up in Whistler, I have had the unique opportunity to collaborate with the world's top athletes and participate in incredible events!<br><br>Over the past five years, I have worked with Whistler businesses, community organizations and athletes to produce photo/video marketing content. Recently, I have been working in television broadcast events as a camera operator.</p>
+                </div>
+            </div>
+        </div>
     </div>  
 
 
