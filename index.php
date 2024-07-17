@@ -40,21 +40,45 @@
 
 
     <div class="content">
-        <div id="grey-cover">
+
             <div class="about">
-                <div class="about-profilepic">
-                    <img src="media/img/jayden24profilepic.JPEG" alt="Jayden Inniss" id="profile-pic">
-                </div>
+                    <div class="about-profile">
+                        <img src="media/img/jayden24profilepic.JPEG" alt="Jayden Inniss" id="profile-pic">
+                    </div>
                 <div class="about-right">
-                    <h1>Jayden Inniss<span id='jaydenstitle'>Photographer, Videographer, Multimedia Designer</span></h1>
+                    <h1>Jayden Inniss<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
                     <p>Growing up in Whistler, I have had the unique opportunity to collaborate with the world's top athletes and participate in incredible events!<br><br>Over the past five years, I have worked with Whistler businesses, community organizations and athletes to produce photo/video marketing content. Recently, I have been working in television broadcast events as a camera operator.</p>
                 </div>
             </div>
+            
+
+
+        <div class="photography">
+            <div class="photo-header">
+                <h2>PHOTOGRAPHY</h2>
+            </div>
+            <div class="photo-banner-section">
+                <a href="#"><div class="photo-banners" id="adventure"><p>ADVENTURE</p></div></a>
+                <a href="#"><div class="photo-banners" id="landscape"><p>LANDSCAPE</p></div></a>
+                <a href="#"><div class="photo-banners" id="commercial"><p>COMMERCIAL</p></div></a>
+            </div>
         </div>
+
+        <div class="clients">
+            <div class="client-header">
+                <h2>HAPPY CLIENTS & COLLABORATIONS</h2>
+            </div>
+            <div class="logo-slider">
+                
+                <!-- GSAP GOES HERE -->
+            </div>
+        </div>
+
+        <?php include "parts/footer.php" ?>
     </div>  
 
 
-    <?php include "parts/footer.php" ?>
+
 
     <script src=" js/parallaxhero/parallaxhero_home.js"></script>
 

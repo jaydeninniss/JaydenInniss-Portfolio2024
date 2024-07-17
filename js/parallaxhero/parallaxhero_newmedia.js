@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
     gsap.registerPlugin(ScrollTrigger)
 
         gsap.to("#newmedia-hero-text", {
-            yPercent: 80,
+            yPercent: 120,
             ease: "none",
             scrollTrigger: {
                 trigger: "#newmedia-hero",

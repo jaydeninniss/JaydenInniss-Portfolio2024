@@ -1,3 +1,12 @@
+h2 {
+    color: #FFF;
+    font-family: Anybody;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
 #home-hero {
     display: flex;
     height: 1500px;
@@ -71,17 +80,15 @@
     }
 }
 
-.content {
-    padding-top: 600px;
-    background-color: blue;
+#global-nav {
+    background-color: transparent;
 }
 
-#grey-cover  {
+.content {
+    margin-top: 600px;
     position: absolute;
-    z-index: 9;
-    background-color: var(--jigrey);
-    width: 100vw;
-    height: 500px;
+    display: flex;
+    flex-direction: column;
 }
 
 .about {
@@ -89,19 +96,152 @@
     flex-wrap: nowrap;
     flex-direction: row;
     align-items: center;
-    z-index: 20;
+    background-color: var(--jiolive);
+    background-image: url("../media/topo/tall-left.png"), url("../media/topo/rightside.png");
+    background-position: bottom left, bottom right;
+    background-repeat: no-repeat;
 
-    .about-profilepic {
-        flex: 0 0 50%;
-        background-color: brown;
+    .about-profile {
+        flex: 1 0 50%;
+        overflow: hidden;
+        height: 575px;
+        width: 40vw;
+        margin-left: 80px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        border-radius: 40px;
+        max-width: 600px;
+
 
         #profile-pic {
-            width: 650px;
-            height: 575px;
+            width: 700px;
+            align-items: center;
+            transform: translate(-80px,-240px);
         }
     }
 
     .about-right {
-        padding: 170px;
+        padding-left: 60px;
+        flex: 1 0 50%;
+
+
+        h1 {
+            color: #FFF;
+            font-family: Anybody;
+            font-size: 64px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 0.8;
+
+            #jaydenstitle {
+                font-family: "Be Vietnam Pro";
+                font-size: 26px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;
+            }
+        }
+
+        p {
+            color: #FFF;
+            font-family: "Be Vietnam Pro";
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            width: 700px;
+            padding-top: 40px;
+        }
+
+    }
+}
+
+.photography {
+    display: flex;
+    flex-direction: column;
+
+    .photo-header {
+        background-color: var(--jigrey);
+        width: 100vw;
+        height: 160px;
+        text-align: center;
+
+    }
+
+    .photo-banner-section {
+        display: flex;
+        flex-direction: column;
+
+        .photo-banners {
+            height: 350px;
+            display: flex;
+            flex-direction: column;
+            width: 100vw;
+
+            p {
+                color: #FFF;
+                font-family: Anybody;
+                font-size: 96px;
+                font-style: normal;
+                font-weight: 900;
+                line-height: normal;
+                padding-top: 40px;
+                margin-left: 60px;
+            }
+        }
+
+
+
+        #adventure {
+            background-image: url("../media/img/adventure-banner.jpeg");
+            background-position: center;
+            background-size: cover;
+            background-color: rgba(0,0,0,0.6);
+            background-blend-mode: darken;
+            transition: all 0.2s ease;
+        }
+
+        #landscape {
+            background-image: url("../media/img/landscape-banner.png");
+            background-position: center;
+            background-size: cover;
+            background-color: rgba(0,0,0,0.6);
+            background-blend-mode: darken;
+            transition: all 0.2s ease;
+        }
+
+        #commercial {
+            background-image: url("../media/img/commercial-banner.png");
+            background-position: center;
+            background-size: cover;
+            background-color: rgba(0,0,0,0.6);
+            background-blend-mode: darken;
+            transition: all 0.2s ease;
+        }
+    }
+
+    #adventure:hover {
+        background-color: transparent;
+        background-blend-mode: darken;
+    }
+
+    #landscape:hover {
+        background-color: transparent;
+        background-blend-mode: darken;
+    }
+
+    #commercial:hover {
+        background-color: transparent;
+        background-blend-mode: darken;
+    }
+}
+
+.clients {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+
+    .client-header {
+        text-align: center;
     }
 }

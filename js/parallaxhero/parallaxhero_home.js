@@ -1,10 +1,12 @@
-
+const navLinks = document.querySelectorAll(".nav-links a")
 
 document.addEventListener("DOMContentLoaded", (event) => {
     gsap.registerPlugin(ScrollTrigger)
 
+        gsap.set(navLinks, { color: '#253527' });
+
         gsap.to("#home-hero-text", {
-            yPercent: 855,
+            yPercent: 910,
             ease: "none",
             scrollTrigger: {
                 trigger: "#home-hero",
@@ -57,4 +59,37 @@ document.addEventListener("DOMContentLoaded", (event) => {
                 scrub: true
             }, 
         });
+
+
+        var fontChange = gsap.timeline({
+        scrollTrigger: {
+            trigger: 'body',
+            start: "110%",
+            end: "120%",
+            scrub:true,
+            once: false,
+            // markers: true
+        },
+        defaults:{duration:1}
+        })
+        .to('#global-nav', {
+            backgroundColor: '#253527'
+        })
+
+        var fontChangelinks = gsap.timeline({
+            scrollTrigger: {
+                trigger: 'body',
+                start: "110%",
+                end: "120%",
+                scrub:true,
+                once: false,
+                markers: false
+            },
+            defaults:{duration:1}
+            })
+
+        .to(navLinks, {
+            color:"#fff"
+        })
     });
+

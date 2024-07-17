@@ -5,7 +5,7 @@
     background-color: #222922;
     justify-content: start;
     position: fixed;
-    z-index: 12;
+    z-index: 2;
 }
 
 #nav-logo {
@@ -38,12 +38,14 @@
     margin: 0;
     padding: 0;
     gap: 5vw;
+
 }
 
 .nav-links a {
     text-decoration: none;
     transition: all 0.2s ease;
     font-size: 22px;
+    transition: 0.2s all ease;
 }
 
 #reach-out {
@@ -53,4 +55,5 @@
 
 .nav-links a:hover {
     color: var(--jilightgreen);
+    text-decoration: underline;
 }
