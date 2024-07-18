@@ -58,29 +58,77 @@
                 <h2>PHOTOGRAPHY</h2>
             </div>
             <div class="photo-banner-section">
-                <a href="#"><div class="photo-banners" id="adventure"><p>ADVENTURE</p></div></a>
-                <a href="#"><div class="photo-banners" id="landscape"><p>LANDSCAPE</p></div></a>
-                <a href="#"><div class="photo-banners" id="commercial"><p>COMMERCIAL</p></div></a>
+                <a href="#">
+                    <div class="photo-banners" id="adventure">
+                        <h3>ADVENTURE</h3>
+                        <div class="seemore-container">
+                            <p class="seemore-text">See More -></p>
+                        </div>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="photo-banners" id="landscape">
+                        <h3>LANDSCAPE</h3>
+                        <div class="seemore-container">
+                            <p class="seemore-text">See More -></p>
+                        </div>
+                    </div>
+                </a>
+                <a href="#">
+                    <div class="photo-banners" id="commercial">
+                        <h3>COMMERCIAL</h3>
+                        <div class="seemore-container">
+                            <p class="seemore-text">See More -></p>
+                        </div>
+                    </div>
+                </a>
             </div>
         </div>
 
+        <!-- for the see more - I think you should make a div absolute and chuck it where it is (exact size of the text) and then overflow hidden, move the text above and then on hover move it down and into the div -->
+            
         <div class="clients">
             <div class="client-header">
                 <h2>HAPPY CLIENTS & COLLABORATIONS</h2>
             </div>
-            <div class="logo-slider">
-                
-                <!-- GSAP GOES HERE -->
+            <div id="logo-slider">
+                <div id="logo-container">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                    <img src="/media/img/logos/logo1.png" alt="">
+                </div>
             </div>
+        </div>
+
+        <div class="videography">
+            <h3>VIDEOGRAPHY</h3>
+        </div>
+
+        <div class="newmedia">
+            <h3>NEW MEDIA PROJECTS</h3>
         </div>
 
         <?php include "parts/footer.php" ?>
     </div>  
 
 
-
-
     <script src=" js/parallaxhero/parallaxhero_home.js"></script>
+    <script src="js/home.js"></script>
 
 </body>
 </html>
