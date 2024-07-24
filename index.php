@@ -119,13 +119,16 @@
             <h3>VIDEOGRAPHY</h3>
         </div>
 
-        <div class="newmedia">
-            <h3>NEW MEDIA PROJECTS</h3>
-        </div>
-
+        <a href="html/newmedia.php">
+            <div class="newmedia">
+                <h3>NEW MEDIA PROJECTS</h3>
+                <div class="seemore-container">
+                    <p class="seemore-text">See More -></p>
+                </div>
+            </div>
+        </a>
         <?php include "parts/footer.php" ?>
     </div>  
-
 
     <script src=" js/parallaxhero/parallaxhero_home.js"></script>
     <script src="js/home.js"></script>

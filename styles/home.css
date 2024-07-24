@@ -292,11 +292,45 @@ h3 {
 .newmedia {
     height: 800px;
     background-image: url("/media/img/newmedia-banner.png");
-    background-size: cover;
+    background-size: 100%;
+    background-position: center;
+    display: flex;
+    flex-direction: row-reverse;
+    transition: all 0.6s;
 
     h3 {
-        width: 400px;
-
+        width: 1100px;
+        text-align: right;
+        margin-right: 60px;
     }
+
+    .seemore-container {
+        height: 80px;
+        position: absolute;
+        margin-top: 310px;
+        margin-right: 60px; 
+        overflow: hidden;
+        align-items: start;
+        text-align: start;
+
+        .seemore-text {
+            transform: translateY(-80px);
+            transition: all 0.2s ease;
+            color: #FFF;
+            font-family: "Be Vietnam Pro";
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 800;
+            line-height: normal;
+        }
+    }
+
 }
 
+.newmedia:hover {
+    background-size: 110%;
+    background-position: center;
+}
+.newmedia:hover > .seemore-container > .seemore-text {
+    transform: translateY(-15px);
+}
