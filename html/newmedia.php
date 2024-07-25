@@ -83,10 +83,10 @@
                         <p class="project-type">New Media, BCIT</p>
                         <p class="project-desc">In a group of four, we designed a full marketing campaign to promote an event for a fictional outdoor apparel company. The final deliverables were presented as a marketing pitch to peers.<br><br>Role: Project Manager</p>
                         <button class="cta-button">
-                            <div class="cta">
+                            <a class="cta" href="./project-alpinearmour.php">
                                 <p>Read more</p>
                                 <img src="../media/icons/button-arrow.svg" alt="">
-                            </div>
+                            </a>
                         </button>
                     </div> 
                 </div>

@@ -1,5 +1,5 @@
 #global-nav {
-    height: 60px;
+    height: 90px;
     width: 100vw;
     display: flex;
     background-color: #222922;
@@ -44,7 +44,7 @@
 .nav-links a {
     text-decoration: none;
     transition: all 0.2s ease;
-    font-size: 22px;
+    font-size: 18px;
     transition: 0.2s all ease;
 }
 

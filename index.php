@@ -3,7 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="./media/img/JaydenInniss_Logo.png">
     <title>Jayden Inniss</title>
+
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -54,15 +56,15 @@
 
 
         <div class="photography">
-            <div class="photo-header">
+            <!-- <div class="photo-header">
                 <h2>PHOTOGRAPHY</h2>
-            </div>
+            </div> -->
             <div class="photo-banner-section">
                 <a href="#">
                     <div class="photo-banners" id="adventure">
                         <h3>ADVENTURE</h3>
                         <div class="seemore-container">
-                            <p class="seemore-text">See More -></p>
+                            <p class="seemore-text">See More →</p>
                         </div>
                     </div>
                 </a>
@@ -70,7 +72,7 @@
                     <div class="photo-banners" id="landscape">
                         <h3>LANDSCAPE</h3>
                         <div class="seemore-container">
-                            <p class="seemore-text">See More -></p>
+                            <p class="seemore-text">See More →</p>
                         </div>
                     </div>
                 </a>
@@ -78,7 +80,7 @@
                     <div class="photo-banners" id="commercial">
                         <h3>COMMERCIAL</h3>
                         <div class="seemore-container">
-                            <p class="seemore-text">See More -></p>
+                            <p class="seemore-text">See More →</p>
                         </div>
                     </div>
                 </a>
@@ -123,7 +125,7 @@
             <div class="newmedia">
                 <h3>NEW MEDIA PROJECTS</h3>
                 <div class="seemore-container">
-                    <p class="seemore-text">See More -></p>
+                    <p class="seemore-text">See More →</p>
                 </div>
             </div>
         </a>
