@@ -14,4 +14,3 @@ jobs:
         server: ftp.innissjayden.com
         username: jaydeninniss@jaydeninniss.com
         password: ${{ secrets.ftp_password }}
-        server-dir: /test-push
