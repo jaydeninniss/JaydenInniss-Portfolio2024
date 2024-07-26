@@ -41,7 +41,7 @@
                 <img src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss" id="profile-pic">
             </div>
             <div class="about-right">
-                <h1>Jayden Inniss<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
+                <h1>Jayden Inniss hello<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
                 <p>Growing up in Whistler, I have had the unique opportunity to collaborate with the world's top athletes and participate in incredible events!<br><br>Over the past five years, I have worked with Whistler businesses, community organizations and athletes to produce photo/video marketing content. Recently, I have been working in television broadcast events as a camera operator.</p>
             </div>
         </div>
