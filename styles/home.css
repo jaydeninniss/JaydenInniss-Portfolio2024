@@ -107,17 +107,19 @@ h3 {
     flex-wrap: nowrap;
     flex-direction: row;
     align-items: center;
+    justify-content: center;
     background-color: var(--jiolive);
     background-image: url("../media/topo/tall-left.png"), url("../media/topo/rightside.png");
     background-position: bottom left, bottom right;
     background-repeat: no-repeat;
 
+
+
     .about-profile {
-        flex: 1 0 50%;
+        flex: 0 1 50%;
         overflow: hidden;
         height: 575px;
         width: 40vw;
-        margin-left: 80px;
         margin-top: 60px;
         margin-bottom: 60px;
         border-radius: 40px;
@@ -133,9 +135,7 @@ h3 {
 
     .about-right {
         padding-left: 60px;
-        flex: 1 0 50%;
-
-
+        
         h1 {
             color: #FFF;
             font-family: Anybody;
@@ -222,8 +222,8 @@ h3 {
         .seemore-container {
             height: 80px;
             position: absolute;
-            margin-top: 210px;
-            margin-left: 300px;
+            margin-top: 185px;
+            margin-left: 340px;
             overflow: hidden;
             align-items: start;
             text-align: start;
@@ -238,6 +238,12 @@ h3 {
                 font-weight: 800;
                 line-height: normal;
             }
+
+
+        }
+
+        #commercial-seemore {
+            margin-left: 390px;
         }
     }
 
@@ -307,7 +313,7 @@ h3 {
     .seemore-container {
         height: 80px;
         position: absolute;
-        margin-top: 310px;
+        margin-top: 197px;
         margin-right: 60px; 
         overflow: hidden;
         align-items: start;

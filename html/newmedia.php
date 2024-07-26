@@ -66,10 +66,10 @@
                         <p class="project-type">Self-Directed</p>
                         <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
                         <button class="cta-button">
-                            <div class="cta">
-                                <p>Read more</p>
+                            <a class="cta" href="./project-alpinearmour.php">
+                                Read more
                                 <img src="../media/icons/button-arrow.svg" alt="">
-                            </div>
+                            </a>
                         </button>
                     </div> 
                 </div>
@@ -82,9 +82,10 @@
                         <h3>Marketing Campaign Pitch</h3>
                         <p class="project-type">New Media, BCIT</p>
                         <p class="project-desc">In a group of four, we designed a full marketing campaign to promote an event for a fictional outdoor apparel company. The final deliverables were presented as a marketing pitch to peers.<br><br>Role: Project Manager</p>
+                        
                         <button class="cta-button">
                             <a class="cta" href="./project-alpinearmour.php">
-                                <p>Read more</p>
+                                Read more
                                 <img src="../media/icons/button-arrow.svg" alt="">
                             </a>
                         </button>
@@ -101,10 +102,10 @@
                         <p class="project-type">New Media, BCIT</p>
                         <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
                         <button class="cta-button">
-                            <div class="cta">
-                                <p>Read more</p>
-                                <img class="cta-arrow" src="../media/icons/button-arrow.svg" alt="Right Facing Arrow">
-                            </div>
+                            <a class="cta" href="./project-alpinearmour.php">
+                                Read more
+                                <img src="../media/icons/button-arrow.svg" alt="">
+                            </a>
                         </button>
                     </div> 
                 </div>

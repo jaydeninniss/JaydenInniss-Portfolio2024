@@ -21,6 +21,7 @@ footer {
         p {
             font-family: "Anybody", sans-serif;
             font-size: 64px;
+            margin-top: -10px;
             color: white;
             font-optical-sizing: auto;
             font-weight: 800;
@@ -39,5 +40,13 @@ footer {
             font-weight: 300;
             color: white;
         }
+    }
+
+    .socials {
+        margin-top: -55px;
+    }
+    .social-icon {
+        width: 32px;
+        margin: 8px;
     }
 }
