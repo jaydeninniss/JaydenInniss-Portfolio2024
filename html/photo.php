@@ -51,43 +51,67 @@
 
             <div class="grid">
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
             </div>
         </div>
 
-        <div class="adventure">
+        <div class="landscape">
             <div class="header-banner">        
                 <h2>Landscape</h2>
             </div>
 
             <div class="grid">
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+            </div>
+        </div>
+
+        <div class="commercial">
+            <div class="header-banner">
+                <h2>Commercial</h2>
+            </div>
+
+            <div class="grid">
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
                 <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
             </div>
         </div>
@@ -95,16 +119,9 @@
 
     </div>
 
-
-
     <?php include "../parts/footer.php" ?>
 
-
     </main>
-
-        <!-- MASONRY -->
-        <!-- <script src="../node_modules/masonry-layout/dist/masonry.pkgd.min.js"></script>
-        <script src="../js/masonry.js"></script> -->
 
 </body>
 </html>

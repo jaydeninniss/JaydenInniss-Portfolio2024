@@ -102,7 +102,7 @@
                         <p class="project-type">New Media, BCIT</p>
                         <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
                         <button class="cta-button">
-                            <a class="cta" href="./project-alpinearmour.php">
+                            <a class="cta" href="./project-uiux.php">
                                 Read more
                                 <img src="../media/icons/button-arrow.svg" alt="">
                             </a>

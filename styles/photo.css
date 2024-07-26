@@ -9,7 +9,7 @@ main {
     align-items: center;
 
     #newmedia-hero-bg {
-        background-image: url("../media/img/parallax/newmedia/newmedia-Sky.png");
+        background-image: url("../media/img/photo-hero.jpg");
         background-size: cover;
         position: relative;
         width: 100%;
@@ -52,4 +52,3 @@ main {
         }
     }
 }
-
