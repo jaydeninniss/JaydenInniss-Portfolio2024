@@ -6,7 +6,6 @@
     <link rel="icon" type="image/x-icon" href="./media/img/JaydenInniss_Logo.png">
     <title>Jayden Inniss</title>
 
-
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -15,7 +14,6 @@
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
-
 
     <!-- CSS -->
     <link rel="stylesheet" href="styles/style.css">    
@@ -28,23 +26,19 @@
 
     <!-- HERO IMAGE -->
     <div id="home-hero">
-
         <div id="home-hero-4"></div>
         <div id="home-hero-text"><p>JAYDEN INNISS</p>
         <h1>Photography | Videography | Multimedia Design</h1></div>
         <div id="home-hero-3"></div>
         <div id="home-hero-2"></div>
         <div id="home-hero-1"></div>
-
     </div>
     <!-- END HERO IMAGE -->
-
-
 
     <div class="content">
         <div class="about">
             <div class="about-profile">
-                <img src="media/img/jayden24profilepic.JPEG" alt="Jayden Inniss" id="profile-pic">
+                <img src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss" id="profile-pic">
             </div>
             <div class="about-right">
                 <h1>Jayden Inniss<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
@@ -85,8 +79,6 @@
                 </a>
             </div>
         </div>
-
-        <!-- for the see more - I think you should make a div absolute and chuck it where it is (exact size of the text) and then overflow hidden, move the text above and then on hover move it down and into the div -->
             
         <div class="clients">
             <div class="client-header">

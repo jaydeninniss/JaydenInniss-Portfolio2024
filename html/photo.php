@@ -18,6 +18,7 @@
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
+
     <!-- SEO -->
     <meta property="og:title" content="New Media Projects - Jayden Inniss" />
     <meta name="description" content="Jayden Inniss is a photographer and videographer proudly based in Whistler, BC.">
@@ -28,13 +29,7 @@
 <body>
 
 <!-- TODO
-    DONE 1. Finish bringing over copy
-    DONE 2. Design Button
-    3. Move project 2 image over
-    DONE 4. Add h1 above projects and topographic textures
-    5. Make the whole banner a link?
     4. Responsive
-    5. Link buttons?
 -->
 
     <?php include "../parts/header.php" ?>
@@ -44,24 +39,72 @@
     <!-- HERO IMAGE -->
     <div id="newmedia-hero">
         <div id="newmedia-hero-bg"></div>
-        <div id="newmedia-hero-text"><p id='hero'>NEW MEDIA PROJECTS</p></div>
-        <div id="newmedia-hero-foreground"></div>
     </div>
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
 
+        <div class="adventure">
+            <div class="header-banner">        
+                <h2>Adventure</h2>
+            </div>
+
+            <div class="grid">
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+            </div>
+        </div>
+
+        <div class="adventure">
+            <div class="header-banner">        
+                <h2>Landscape</h2>
+            </div>
+
+            <div class="grid">
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
+                <div class="grid-item grid-item--width2"><img src="../media/img/aboutpage3.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+            </div>
+        </div>
+
+
     </div>
 
 
-        
 
+    <?php include "../parts/footer.php" ?>
 
-        <?php include "../parts/footer.php" ?>
 
     </main>
 
-    <script src="../js/masonry.js"></script>
+        <!-- MASONRY -->
+        <!-- <script src="../node_modules/masonry-layout/dist/masonry.pkgd.min.js"></script>
+        <script src="../js/masonry.js"></script> -->
 
 </body>
 </html>
