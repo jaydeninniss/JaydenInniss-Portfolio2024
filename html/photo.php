@@ -56,45 +56,44 @@
             </div>
 
             <div class="grid">
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery1.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery2.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery3.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery4.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery5.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery6.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery7.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery8.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery9.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery10.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery11.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery12.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery13.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery14.jpeg" alt=""></div>
+                
+                </div>
             </div>
-        </div>
-
+            
         <div class="landscape">
             <div class="header-banner">        
                 <h2>Landscape</h2>
             </div>
 
             <div class="grid">
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+            <div class="grid-item"><img src="../media/img/gallery/gallery15.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery16.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery17.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery18.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery19.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery20.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery21.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery22.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery23.jpeg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery24.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery25.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery26.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery27.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery28.jpg" alt=""></div>
             </div>
         </div>
 
@@ -104,21 +103,10 @@
             </div>
 
             <div class="grid">
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage1.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage3.png" alt=""></div>
-                <div class="grid-item"><img src="../media/img/aboutpage2.png" alt=""></div>
+            <div class="grid-item"><img src="../media/img/gallery/gallery29.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery30.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery31.jpg" alt=""></div>
+                <div class="grid-item"><img src="../media/img/gallery/gallery32.jpeg" alt=""></div>
             </div>
         </div>
 

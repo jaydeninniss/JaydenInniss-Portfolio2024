@@ -298,6 +298,7 @@ h3 {
     background-image: url("/media/img/video-banner.jpeg");
     background-size: cover;
     background-position: center;
+    transition: all 0.4s ease;
 
 
     .seemore-container {
@@ -324,6 +325,7 @@ h3 {
 
 .videography:hover {
     background-size: 106%;
+    transition: all 0.4s ease;
     background-position: center;
 }
 .videography:hover > .seemore-container > .seemore-text {
