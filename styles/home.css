@@ -284,6 +284,11 @@ h3 {
         flex-direction: row;
         margin-top: 30px;
         gap: 50px;
+        
+
+        img {
+            height: 100px;
+        }
     }
 
 }
@@ -339,4 +344,12 @@ h3 {
 }
 .newmedia:hover > .seemore-container > .seemore-text {
     transform: translateY(-15px);
+}
+
+.bio-video {
+    height: 900px;
+
+    video {
+        width: 100%;
+    }
 }

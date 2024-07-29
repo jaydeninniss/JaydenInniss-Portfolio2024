@@ -124,7 +124,12 @@ main {
             padding-top: 60px;
             margin: 0 auto;
             width: 80vw;
-            max-width: 1400px;
+            max-width: 1200px;
+        }
+        #usertestphoto {
+            max-width: 700px;
+            border-radius: 36px;
+            padding-top: 0;
         }
     }
 

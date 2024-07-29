@@ -38,8 +38,8 @@
         <div class="project-description">
             <div class="left-col">
                 <button class="cta-button">
-                    <a class="cta" href="./project-alpinearmour.php">
-                        Read more
+                    <a class="cta" target="_blank"href="https://drive.google.com/file/d/1jtJcgPaza9EKMnu3ez6jTLYaS6qkeVkd/view?usp=sharing">
+                        Final Report
                         <img src="../media/icons/button-arrow.svg" alt="">
                     </a>
                 </button>
@@ -151,18 +151,14 @@
             </div>
 
             <button class="cta-button">
-                <a class="cta" href="./project-alpinearmour.php">
-                Read more
-                <img src="../media/icons/button-arrow.svg" alt="">
-                </a>
-            </button>
+                    <a class="cta" target="_blank"href="https://drive.google.com/file/d/1jtJcgPaza9EKMnu3ez6jTLYaS6qkeVkd/view?usp=sharing">
+                        Final Report
+                        <img src="../media/icons/button-arrow.svg" alt="">
+                    </a>
+                </button>
         </div>
 
         <?php include "../parts/footer.php" ?>
-
-
-
-
 
     </main>
 

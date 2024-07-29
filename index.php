@@ -86,24 +86,29 @@
             </div>
             <div id="logo-slider">
                 <div id="logo-container">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
-                    <img src="/media/img/logos/logo1.png" alt="">
+                <img src="/media/icons/logos/ubcsnb.png" alt="">
+                    <img src="/media/icons/logos/worca.png" alt="">
+                    <img src="/media/icons/logos/ibsf.png" alt="">
+                    <img src="/media/icons/logos/sscs.png" alt="">
+                    <img src="/media/icons/logos/knolly.png" alt="">
+                    <img src="/media/icons/logos/nicknorth.png" alt="">
+                    <img src="/media/icons/logos/helijet.png" alt="">
+                    <img src="/media/icons/logos/fis.png" alt="">
+                    <img src="/media/icons/logos/dome.png" alt="">
+                    <img src="/media/icons/logos/crystal Medium.png" alt="">
+                    <img src="/media/icons/logos/pit.png" alt="">
+                    <img src="/media/icons/logos/mesh.png" alt="">
+                    <img src="/media/icons/logos/wsc.png" alt="">
+                    <img src="/media/icons/logos/wrec.png" alt="">
+                    <img src="/media/icons/logos/ubcsnb.png" alt="">
+                    <img src="/media/icons/logos/worca.png" alt="">
+                    <img src="/media/icons/logos/ibsf.png" alt="">
+                    <img src="/media/icons/logos/sscs.png" alt="">
+                    <img src="/media/icons/logos/knolly.png" alt="">
+                    <img src="/media/icons/logos/nicknorth.png" alt="">
+                    <img src="/media/icons/logos/helijet.png" alt="">
+
+
                 </div>
             </div>
         </div>
@@ -120,6 +125,15 @@
                 </div>
             </div>
         </a>
+
+        <a href="html/about.php">
+            <div class="bio-video">
+                <video autoplay muted loop>
+                    <source src="./media/video/jaydeninnissbumper.mp4" type="video/mp4" />
+                </video>
+            </div>
+        </a>
+
         <?php include "parts/footer.php" ?>
     </div>  
 

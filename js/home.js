@@ -1,10 +1,10 @@
 document.addEventListener("DOMContentLoaded", (event) => {
     gsap.registerPlugin(ScrollTrigger)
 
-    gsap.set('#logo-container', { x: 500 });
+    gsap.set('#logo-container', { x: 0 });
 
     gsap.to("#logo-container", {
-        x: -2500,
+        x: -2200,
         ease: "none",
         scrollTrigger: {
             trigger: ".clients",
