@@ -57,7 +57,7 @@
             <div class="qa-container">
                 <h3 class="question" id="first">The Goal</h3>
                 <p class="answer">This project aims to design an interface following UI/UX principles, and then improve the interface by identifying issues through user testing.</p>
-                <p class="question">This project consisted of three phases:</p>
+                <p class="answer"><strong>This project consisted of three phases:</strong></p>
                 <ul class="answer">
                     <li>Phase 1: User research & designing the initial interface (Low-fidelity wireframes).</li>
                     <li>Phase 2: Design high-fidelity interactive mockups. Then conduct User Testing to identify issues/weaknesses in the design.</li>
