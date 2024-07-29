@@ -1,7 +1,7 @@
 <!-- HEADER --> 
 <nav id="global-nav">
     <a href="../index.php" id="nav-logo">
-        <img src="../media/img/JaydenInniss_Logo.png" alt="Jayden Inniss Logo">
+        <img src="../media/logo/jaydeninniss_logo.svg" alt="Jayden Inniss Logo">
     </a>
     <div id="nav-links-container">
         <ul class="nav-links">

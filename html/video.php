@@ -19,10 +19,17 @@
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
     <!-- SEO -->
-    <meta property="og:title" content="New Media Projects - Jayden Inniss" />
-    <meta name="description" content="Jayden Inniss is a photographer and videographer proudly based in Whistler, BC.">
-    <meta name="keywords" content="Photography, Videography, Jayden Inniss, Whistler, Camera, Photography Services in Whistler, Filmer in Whistler, Biking, Skiing, Hiking, Camping, Whistler British Columbia Photo/Video, Sport Photographer, Landscape Photography, Action Sport Photography and Videography" \>
-        <!-- End of SEO -->
+    <meta property="og:title" content="Video - Jayden Inniss">
+    <meta property="og:type" content="website">
+    <meta property="og:URL" content="https://www.jaydeninniss.com/video">
+    <meta property="og:image" content="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
+    <meta property="og:description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
+    <meta name="robots" content="all"> 
+    <meta name="author" content="Jayden Inniss">
+    <meta name="description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
+    <meta name="keywords" content="Photography, Videography, Jayden Inniss, Whistler, Camera, Photography Services in Whistler, Filmer in Whistler, Biking, Skiing, Hiking, Camping, Whistler British Columbia Photo/Video, Sport Photographer, Landscape Photography, Action Sport Photography and Videography">
+    <link rel="icon" type="image/x-icon" href="./media/logo/jaydeninniss_logo.svg">
+    <!-- End of SEO -->
 
 </head>
 <body>

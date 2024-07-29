@@ -17,6 +17,19 @@
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">    
     <link rel="stylesheet" href="../styles/project-alpinearmour.css">
+
+    <!-- SEO -->
+    <meta property="og:title" content="Alpine Armour - Jayden Inniss">
+    <meta property="og:type" content="website">
+    <meta property="og:URL" content="https://www.jaydeninniss.com/project-alpinearmour">
+    <meta property="og:image" content="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
+    <meta property="og:description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
+    <meta name="robots" content="all"> 
+    <meta name="author" content="Jayden Inniss">
+    <meta name="description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
+    <meta name="keywords" content="Photography, Videography, Jayden Inniss, Whistler, Camera, Photography Services in Whistler, Filmer in Whistler, Biking, Skiing, Hiking, Camping, Whistler British Columbia Photo/Video, Sport Photographer, Landscape Photography, Action Sport Photography and Videography">
+    <link rel="icon" type="image/x-icon" href="./media/logo/jaydeninniss_logo.svg">
+    <!-- End of SEO -->
 </head>
 <body>
 
