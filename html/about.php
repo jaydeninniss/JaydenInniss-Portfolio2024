@@ -55,7 +55,7 @@
             <div id="grey-cover"></div>
 
             <div class="header-container">
-                <h1>Photographer and videographer proudly based in Whistler, BC.</h1>
+                <h1>Jayden Inniss</h1>
             </div>
 
             <div class="description-container">
@@ -147,21 +147,22 @@
                     <p>I definitely fit the stereotype of a “Whistler Kid”. <br><br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping somewhere! <br><br> The natural beauty of my backyard (the Sea to Sky corridor) is a large inspiration for me, so I am drawn out to adventure again and again!<br><br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
                     
                     <div class="image-holder">
-                        <div id="img1">
-                            <img src="../media/img/aboutpage1.png" alt="">
+                        <div class="images" id="img1">
+                            <!-- <img src="../media/img/about1.jpeg" alt=""> -->
                         </div>
-                        <div id="img2">
-                            <img src="../media/img/aboutpage2.png" alt="">
+                        <div class="images" id="img2">
+                            <!-- <img src="../media/img/about2.jpeg" alt=""> -->
                         </div>
-                        <div id="img3">
-                            <img src="../media/img/aboutpage3.png" alt="">
+                        <div class="images" id="img3">
+                            <!-- <img src="../media/img/about3.jpeg" alt=""> -->
                         </div>
                     </div>
-                </div>    
+                </div> 
             </div>
         </div>
+        <?php include "../parts/footer.php" ?>  
 
-        <?php include "../parts/footer.php" ?>
+        
 
     </main>
 

@@ -271,7 +271,7 @@ h3 {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-    height: 400px;
+    height: 350px;
     width: 100vw;
     overflow: hidden;
 
@@ -303,8 +303,8 @@ h3 {
     .seemore-container {
         height: 80px;
         position: absolute;
-        margin-top: 197px;
-        margin-right: 60px; 
+        margin-top: -75px;
+        margin-left: 410px;
         overflow: hidden;
         align-items: start;
         text-align: start;
@@ -320,6 +320,14 @@ h3 {
             line-height: normal;
         }
     }
+}
+
+.videography:hover {
+    background-size: 106%;
+    background-position: center;
+}
+.videography:hover > .seemore-container > .seemore-text {
+    transform: translateY(-15px);
 }
 
 .newmedia {

@@ -51,7 +51,7 @@
             </div>
             <div class="about-right">
                 <h1>Reach out!<span id='jaydenstitle'><br>Contact me:</span></h1>
-                <p>Email: tbd</p>
+                <p>Email: contact@jaydeninniss.com</p>
             </div>
         </div>
 
