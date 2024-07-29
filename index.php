@@ -51,7 +51,7 @@
     <div class="content">
         <div class="about">
             <div class="about-profile">
-                <img src="./media/img/jayden24profilepic.png" alt="Jayden Inniss" id="profile-pic">
+                <img src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss" id="profile-pic">
             </div>
             <div class="about-right">
                 <h1>Jayden Inniss<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
@@ -129,6 +129,9 @@
 
         <div class="videography">
             <h3>VIDEOGRAPHY</h3>
+            <div class="seemore-container">
+                    <p class="seemore-text">See More →</p>
+                </div>
         </div>
 
         <a href="html/newmedia.php">

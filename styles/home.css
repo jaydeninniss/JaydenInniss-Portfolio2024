@@ -25,7 +25,7 @@ h3 {
     align-items: center;
 
     #home-hero-4 {
-        background-image: url("../media/img/parallax/home/Home-4b.png");
+        background-image: url("../media/img/parallax/home/Home-4.png");
         background-size: cover;
         position: absolute;
         width: 100%;
@@ -35,7 +35,7 @@ h3 {
     }
 
     #home-hero-3 {
-        background-image: url("../media/img/parallax/home/Home-3b.png");
+        background-image: url("../media/img/parallax/home/Home-3.png");
         background-size: cover;
         position: absolute;
         width: 100%;
@@ -45,7 +45,7 @@ h3 {
     }
 
     #home-hero-2 {
-        background-image: url("../media/img/parallax/home/Home-2b.png");
+        background-image: url("../media/img/parallax/home/Home-2.png");
         background-size: cover;
         position: absolute;
         width: 100%;
@@ -55,7 +55,7 @@ h3 {
     }
 
     #home-hero-1 {
-        background-image: url("../media/img/parallax/home/Home-1b.png");
+        background-image: url("../media/img/parallax/home/Home-1.png");
         background-size: cover;
         position: absolute;
         width: 100%;
@@ -202,7 +202,7 @@ h3 {
         }
 
         #landscape {
-            background-image: url("../media/img/landscape-banner.png");
+            background-image: url("../media/img/landscape-banner.jpeg");
             background-position: center;
             background-size: cover;
             background-color: rgba(0,0,0,0.6);
@@ -211,7 +211,7 @@ h3 {
         }
 
         #commercial {
-            background-image: url("../media/img/commercial-banner.png");
+            background-image: url("../media/img/commercial-banner.jpeg");
             background-position: center;
             background-size: cover;
             background-color: rgba(0,0,0,0.6);
@@ -295,14 +295,36 @@ h3 {
 
 .videography {
     height: 800px;
-    background-image: url("/media/img/video-banner.png");
+    background-image: url("/media/img/video-banner.jpeg");
     background-size: cover;
     background-position: center;
+
+
+    .seemore-container {
+        height: 80px;
+        position: absolute;
+        margin-top: 197px;
+        margin-right: 60px; 
+        overflow: hidden;
+        align-items: start;
+        text-align: start;
+
+        .seemore-text {
+            transform: translateY(-80px);
+            transition: all 0.2s ease;
+            color: #FFF;
+            font-family: "Be Vietnam Pro";
+            font-size: 32px;
+            font-style: normal;
+            font-weight: 800;
+            line-height: normal;
+        }
+    }
 }
 
 .newmedia {
     height: 800px;
-    background-image: url("/media/img/newmediabanner.jpg");
+    background-image: url("/media/img/newmediabanner.jpeg");
     background-size: 100%;
     background-position: bottom;
     display: flex;
