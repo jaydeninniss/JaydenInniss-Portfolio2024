@@ -38,7 +38,7 @@
     <div class="content">
         <div class="about">
             <div class="about-profile">
-                <img src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss" id="profile-pic">
+                <img src="./media/img/jayden24profilepic.png" alt="Jayden Inniss" id="profile-pic">
             </div>
             <div class="about-right">
                 <h1>Jayden Inniss<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
@@ -98,6 +98,7 @@
                     <img src="/media/icons/logos/crystal Medium.png" alt="">
                     <img src="/media/icons/logos/pit.png" alt="">
                     <img src="/media/icons/logos/mesh.png" alt="">
+                    <img src="/media/icons/logos/crankworx.png" alt="">
                     <img src="/media/icons/logos/wsc.png" alt="">
                     <img src="/media/icons/logos/wrec.png" alt="">
                     <img src="/media/icons/logos/ubcsnb.png" alt="">
