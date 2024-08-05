@@ -62,9 +62,6 @@
 
 
         <div class="photography">
-            <!-- <div class="photo-header">
-                <h2>PHOTOGRAPHY</h2>
-            </div> -->
             <div class="photo-banner-section">
                 <a href="#">
                     <div class="photo-banners" id="adventure">

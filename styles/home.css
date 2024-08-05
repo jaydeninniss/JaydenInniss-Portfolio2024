@@ -1,28 +1,43 @@
 h2 {
     color: #FFF;
     font-family: Anybody;
-    font-size: 48px;
+    font-size: 23px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
+    padding: 5px;
+    
+    @media screen and (min-width: 1200px) {
+        font-size: 48px;
+    }
 }
 
 h3 {
     color: #FFF;
     font-family: Anybody;
-    font-size: 64px;
     font-style: normal;
     font-weight: 900;
     line-height: normal;
-    padding-top: 80px;
-    margin-left: 120px;
+    padding-top: 45px;
+    font-size: 32px;
+    margin-left: 20px;
+
+    @media screen and (min-width: 1200px) {
+        font-size: 64px;
+        padding-top: 80px;
+        margin-left: 120px;
+    }
 }
 
 #home-hero {
     display: flex;
-    height: 1500px;
-    overflow:visible;
+    height: 800px;
+    overflow: visible;
     align-items: center;
+
+    @media screen and (min-width: 1200px) {
+        height: 1500px;
+    }
 
     #home-hero-4 {
         background-image: url("../media/img/parallax/home/Home-4.png");
@@ -32,6 +47,13 @@ h3 {
         height: 2000px;
         scale: 100%;
         transform: translateY(-20px);
+
+        @media screen and (min-width: 1200px) {
+            width: 100%;
+            height: 2000px;
+            scale: 100%;
+            transform: translateY(-20px);
+        }
     }
 
     #home-hero-3 {
@@ -42,6 +64,13 @@ h3 {
         height: 2000px; 
         scale: 100%;    
         transform: translateY(-60px);
+
+        @media screen and (min-width: 1200px) {
+            width: 100%;
+            height: 2000px;
+            scale: 100%;
+            transform: translateY(-60px);
+        }
     }
 
     #home-hero-2 {
@@ -52,6 +81,13 @@ h3 {
         height: 2000px;
         scale: 100%;
         transform: translateY(120px);
+
+        @media screen and (min-width: 1200px) {
+            width: 100%;
+            height: 2000px;
+            scale: 100%;
+            transform: translateY(120px);
+        }
     }
 
     #home-hero-1 {
@@ -62,31 +98,51 @@ h3 {
         height: 2000px; 
         scale: 100%; 
         transform: translateY(450px);
+
+        @media screen and (min-width: 1200px) {
+            width: 100%;
+            height: 2000px;
+            scale: 100%;
+            transform: translateY(450px);
+        }
     }
 
     #home-hero-text {
         position: absolute;
-        width: 100vw;
-        width: 70vw;
+        width: 90vw;
         left: 14vw;
         transform: translateY(-590px);
 
+        @media screen and (min-width: 1200px) {
+            width: 70vw;
+            left: 14vw;
+            transform: translateY(-590px);
+        }
 
         p {
             color: var(--jidarkgreen);
             font-family: "Anybody", sans-serif;
             font-optical-sizing: auto;
-            font-size: 80px;
+            font-size: 40px;
             font-weight: 800;
             font-style: normal;
             font-variation-settings:
                 "wdth" 100;
+
+                @media screen and (min-width: 1200px) {
+                    font-size: 80px;
+                }
         }
 
         h1 {
-            margin-top: -85px ;
+            margin-top: -40px ;
             font-weight: 700;
-            font-size: 26px;
+            font-size: 18px;
+
+            @media screen and (min-width: 1200px) {
+                font-size: 26px;
+                margin-top: -85px ;
+            }
         }
     }
 }
@@ -119,11 +175,20 @@ h3 {
         flex: 0 1 50%;
         overflow: hidden;
         height: 575px;
-        width: 40vw;
+        width: 50px;
         margin-top: 60px;
         margin-bottom: 60px;
         border-radius: 40px;
-        max-width: 600px;
+        max-width: 200px;
+
+        @media screen and (min-width: 1200px) {
+            height: 575px;
+            width: 40vw;
+            margin-top: 60px;
+            margin-bottom: 60px;
+            border-radius: 40px;
+            max-width: 600px;
+        }
 
 
         #profile-pic {
@@ -171,55 +236,60 @@ h3 {
     display: flex;
     flex-direction: column;
 
-    .photo-header {
-        background-color: var(--jigrey);
-        width: 100vw;
-        height: 160px;
-        text-align: center;
-
-    }
-
     .photo-banner-section {
         display: flex;
         flex-direction: column;
 
         .photo-banners {
-            height: 350px;
             display: flex;
             flex-direction: column;
+            height: 200px;
             width: 100vw;
+
+            @media screen and (min-width: 1200px) {
+                width: 100vw;
+                height: 350px;
+            }
         }
-
-
 
         #adventure {
             background-image: url("../media/img/adventure-banner.jpeg");
             background-position: center;
             background-size: cover;
-            background-color: rgba(0,0,0,0.6);
             background-blend-mode: darken;
             transition: all 0.2s ease;
+
+            @media screen and (min-width: 1200px) {
+                background-color: rgba(0,0,0,0.6);
+            }
         }
 
         #landscape {
             background-image: url("../media/img/landscape-banner.jpeg");
             background-position: center;
             background-size: cover;
-            background-color: rgba(0,0,0,0.6);
             background-blend-mode: darken;
             transition: all 0.2s ease;
+
+            @media screen and (min-width: 1200px) {
+                background-color: rgba(0,0,0,0.6);
+            }
         }
 
         #commercial {
             background-image: url("../media/img/commercial-banner.jpeg");
             background-position: center;
             background-size: cover;
-            background-color: rgba(0,0,0,0.6);
             background-blend-mode: darken;
             transition: all 0.2s ease;
+
+            @media screen and (min-width: 1200px) {
+                background-color: rgba(0,0,0,0.6);
+            }
         }
 
         .seemore-container {
+            display: none;
             height: 80px;
             position: absolute;
             margin-top: 185px;
@@ -227,6 +297,10 @@ h3 {
             overflow: hidden;
             align-items: start;
             text-align: start;
+
+            @media screen and (min-width: 1200px) {
+                display: inline;
+            }
 
             .seemore-text {
                 transform: translateY(-80px);
@@ -238,8 +312,6 @@ h3 {
                 font-weight: 800;
                 line-height: normal;
             }
-
-
         }
 
         #commercial-seemore {
