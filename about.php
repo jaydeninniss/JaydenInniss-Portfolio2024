@@ -39,7 +39,7 @@
     2. Replace images at bottom?
 -->
 
-    <?php include "../parts/header.php" ?>
+    <?php include "./parts/header.php" ?>
 
     <main>
 
@@ -160,13 +160,13 @@
                 </div> 
             </div>
         </div>
-        <?php include "../parts/footer.php" ?>  
+        <?php include "./parts/footer.php" ?>  
 
         
 
     </main>
 
-    <script src="../js/parallaxhero/parallaxhero_about.js"></script>
+    <script src="./js/parallaxhero/parallaxhero_about.js"></script>
 
 </body>
 </html>

@@ -44,7 +44,7 @@
     5. Link buttons?
 -->
 
-    <?php include "../parts/header.php" ?>
+    <?php include "./parts/header.php" ?>
 
     <main>
 
@@ -73,7 +73,7 @@
                         <p class="project-type">Self-Directed</p>
                         <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
                         <button class="cta-button">
-                            <a class="cta" href="./project-alpinearmour.php">
+                            <a class="cta" href="#">
                                 Read more
                                 <img src="../media/icons/button-arrow.svg" alt="">
                             </a>
@@ -91,7 +91,7 @@
                         <p class="project-desc">In a group of four, we designed a full marketing campaign to promote an event for a fictional outdoor apparel company. The final deliverables were presented as a marketing pitch to peers.<br><br>Role: Project Manager</p>
                         
                         <button class="cta-button">
-                            <a class="cta" href="./project-alpinearmour.php">
+                            <a class="cta" href="./projects/alpinearmour">
                                 Read more
                                 <img src="../media/icons/button-arrow.svg" alt="">
                             </a>
@@ -109,7 +109,7 @@
                         <p class="project-type">New Media, BCIT</p>
                         <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
                         <button class="cta-button">
-                            <a class="cta" href="./project-uiux.php">
+                            <a class="cta" href="./projects/uiux">
                                 Read more
                                 <img src="../media/icons/button-arrow.svg" alt="">
                             </a>
@@ -121,12 +121,12 @@
     </div>
 
 
-        <?php include "../parts/footer.php" ?>
+        <?php include "./parts/footer.php" ?>
 
     </main>
 
-    <script src="../js/parallaxhero/parallaxhero_newmedia.js"></script>
-    <script src="../js/newmedia.js"></script>
+    <script src="./js/parallaxhero/parallaxhero_newmedia.js"></script>
+    <script src="./js/newmedia.js"></script>
 
 </body>
 </html>

@@ -5,11 +5,11 @@
     </a>
     <div id="nav-links-container">
         <ul class="nav-links">
-            <li><a href="../html/photo">PHOTO</a></li>
-            <li><a href="../html/video">VIDEO</a></li>
-            <li><a href="../html/newmedia">NEW MEDIA</a></li>
-            <li><a href="../html/about">ABOUT</a></li>
-            <li><a href="../html/contact" id="reach-out">REACH OUT</a></li>
+            <li><a href="../photo">PHOTO</a></li>
+            <li><a href="../video">VIDEO</a></li>
+            <li><a href="../newmedia">NEW MEDIA</a></li>
+            <li><a href="../about">ABOUT</a></li>
+            <li><a href="../contact" id="reach-out">REACH OUT</a></li>
         </ul>
     </div>
 </nav>

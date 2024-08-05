@@ -38,7 +38,7 @@
     4. Responsive
 -->
 
-    <?php include "../parts/header.php" ?>
+    <?php include "./parts/header.php" ?>
 
     <main>
 
@@ -113,7 +113,7 @@
 
     </div>
 
-    <?php include "../parts/footer.php" ?>
+    <?php include "./parts/footer.php" ?>
 
     </main>
 

@@ -44,7 +44,7 @@
     5. Link buttons?
 -->
 
-    <?php include "../parts/header.php" ?>
+    <?php include "./parts/header.php" ?>
 
     <main>
 
@@ -64,11 +64,9 @@
         
 
 
-        <?php include "../parts/footer.php" ?>
+        <?php include "./parts/footer.php" ?>
 
     </main>
-
-    <script src="../js/masonry.js"></script>
 
 </body>
 </html>

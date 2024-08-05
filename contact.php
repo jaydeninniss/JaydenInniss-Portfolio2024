@@ -16,8 +16,8 @@
 
 
     <!-- CSS -->
-    <link rel="stylesheet" href="../styles/style.css">    
-    <link rel="stylesheet" href="../styles/contact.css">
+    <link rel="stylesheet" href="./styles/style.css">    
+    <link rel="stylesheet" href="./styles/contact.css">
 
     <!-- SEO -->
     <meta property="og:title" content="Contact Jayden Inniss">
@@ -34,7 +34,7 @@
 </head>
 <body>
     
-    <?php include "../parts/header.php" ?>
+    <?php include "./parts/header.php" ?>
 
     <!-- HERO IMAGE -->
     <div id="about-hero">
@@ -55,11 +55,11 @@
             </div>
         </div>
 
-        <?php include "../parts/footer.php" ?>
+        <?php include "./parts/footer.php" ?>
 
     </main>
 
-    <script src="../js/parallaxhero/parallaxhero_contact.js"></script>
+    <script src="./js/parallaxhero/parallaxhero_contact.js"></script>
 
 </body>
 </html>
