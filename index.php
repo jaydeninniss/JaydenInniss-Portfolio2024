@@ -134,7 +134,7 @@
                 </div>
         </div>
 
-        <a href="html/newmedia.php">
+        <a href="newmedia">
             <div class="newmedia">
                 <h3>NEW MEDIA PROJECTS</h3>
                 <div class="seemore-container">
@@ -143,7 +143,7 @@
             </div>
         </a>
 
-        <a href="html/about.php">
+        <a href="about">
             <div class="bio-video">
                 <video autoplay muted loop>
                     <source src="./media/video/jaydeninnissbumper.mp4" type="video/mp4" />
