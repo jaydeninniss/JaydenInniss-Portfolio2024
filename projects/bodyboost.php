@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>UI/UX - Jayden Inniss</title>
+    <title>Body Boost - Jayden Inniss</title>
 
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,12 +15,13 @@
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
     <!-- CSS -->
-    <link rel="stylesheet" href="../styles/style.css">    
+    <link rel="stylesheet" href="../styles/style.css">
     <link rel="stylesheet" href="../styles/project-master.css">
-    <link rel="stylesheet" href="../styles/project-uiux.css">
+    <link rel="stylesheet" href="../styles/project-bodyboost.css">
+
 
     <!-- SEO -->
-    <meta property="og:title" content="UIUX Project - Jayden Inniss">
+    <meta property="og:title" content="Body Boost Project - Jayden Inniss">
     <meta property="og:type" content="website">
     <meta property="og:URL" content="https://www.jaydeninniss.com/project-uiux">
     <meta property="og:image" content="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
@@ -41,30 +42,19 @@
         <div class="hero">
             <img src="../media/img/projects/uiuxprojectcover.png" alt="">
             <div class="project-title">
-                <h1>UI/UX</h1>
+                <h1>Body Boost</h1>
             </div>
         </div>
         <!-- END Header Img -->
 
         <div class="project-description">
             <div class="left-col">
-                <button class="cta-button">
-                    <a class="cta" href="https://drive.google.com/file/d/1xteQcFC9ixnHZZlICdYbnTDwHzegpeLa/view?usp=sharing" target="_blank">
-                        Final Report
-                        <img src="../media/icons/button-arrow.svg" alt="">
-                    </a>
-                </button>
-                <button class="cta-button">
-                    <a class="cta" target="_blank" href="https://www.figma.com/file/8kine4f3VewD7X5HHf794g/Jayden-Inniss---UIUX-Phase-3---Final?type=design&node-id=2029%3A856&mode=design&t=zx3nnFA1V12LmJND-1">
-                        High-Fidelity Mockups
-                        <img src="../media/icons/button-arrow.svg" alt="">
-                    </a>
-                </button>
             </div>
-            
+
             <div class="right-col">
-                <h2>Interface Design & User Testing - Outdoor Adventure Planning Tool</h2>
-                <p>UI/UX Designer<br>April 2, 2024 - 42 Hours</p>
+                <h2>Project Manager for a Linear Methodology
+                Application Design Project</h2>
+                <p>April 12, 2024</p>
             </div>
         </div>
         <div class="content-container">

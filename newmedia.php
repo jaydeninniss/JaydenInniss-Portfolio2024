@@ -70,7 +70,7 @@
                         <p class="project-type">Self-Directed</p>
                         <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
                         <button class="cta-button">
-                            <a class="cta" href="#">
+                            <a class="cta" href="projects/stsfilmfest">
                                 Read more
                                 <img src="../media/icons/button-arrow.svg" alt="">
                             </a>
@@ -97,7 +97,6 @@
                 </div>
             </div>
 
-
             <div class="project" id="project3">
                 <div class="project-info" id="project-info3">
                     <div class="left-side-info">
@@ -115,7 +114,6 @@
                 </div>
             </div>
             
-
             <div class="project-banner-container">
             <div class="project" id="project4">
                 <div class="project-info" id="project-info4">
@@ -125,7 +123,7 @@
                         <p class="project-type">New Media, BCIT</p>
                         <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
                         <button class="cta-button">
-                            <a class="cta" href="#">
+                            <a class="cta" href="projects/bodyboost">
                                 Read more
                                 <img src="../media/icons/button-arrow.svg" alt="">
                             </a>
