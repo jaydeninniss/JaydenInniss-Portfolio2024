@@ -45,7 +45,7 @@
     <!-- END HERO IMAGE -->
 
     <main>
-        <div class="about">
+        <!-- <div class="about">
             <div class="about-profile">
                 <img src="../media/img/jayden24profilepic.JPEG" alt="Jayden Inniss" id="profile-pic">
             </div>
@@ -53,7 +53,21 @@
                 <h1>Reach out!<span id='jaydenstitle'><br>Contact me:</span></h1>
                 <p>Email: contact@jaydeninniss.com</p>
             </div>
-        </div>
+        </div> -->
+
+
+        <section class="about">
+            <div class="about-profile">
+                <img id="profile-pic" src="./media/img/jayden24profilepic.jpeg" alt="Profile Picture">
+            </div>
+            <div class="about-right">
+                <h1>Reach out!</h1>
+                <p>Jayden Inniss</p>
+                <p>Email: contact@jaydeninniss.com</p>
+                <p>Phone: 778 793 5323</p>
+                <p>Can't wait to hear from you! Thank you!</p>
+            </div>
+        </section>
 
         <?php include "./parts/footer.php" ?>
 
