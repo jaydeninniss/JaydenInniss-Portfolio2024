@@ -57,12 +57,9 @@
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
-        <div id="grey-cover">        
+        <div id="title-holder">
             <h1>Featured Projects</h1>
         </div>
-
-
-        <!-- I THINK MAKE ALL THE WHOLE SLIDE A LINK -->
 
         <div class="project-banner-container">
             <div class="project" id="project1">
@@ -117,11 +114,31 @@
                     </div> 
                 </div>
             </div>
+            
+
+            <div class="project-banner-container">
+            <div class="project" id="project4">
+                <div class="project-info" id="project-info4">
+                    <div class="left-side-info">
+                        <h2>Body Boost</h2>
+                        <h3>Project Managment</h3>
+                        <p class="project-type">New Media, BCIT</p>
+                        <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                        <button class="cta-button">
+                            <a class="cta" href="#">
+                                Read more
+                                <img src="../media/icons/button-arrow.svg" alt="">
+                            </a>
+                        </button>
+                    </div> 
+                </div>
+            </div>
         </div>
+        <?php include "./parts/footer.php" ?>
     </div>
 
 
-        <?php include "./parts/footer.php" ?>
+
 
     </main>
 

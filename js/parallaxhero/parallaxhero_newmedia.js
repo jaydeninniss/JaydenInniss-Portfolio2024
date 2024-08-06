@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
             ease: "none",
             scrollTrigger: {
                 trigger: "#newmedia-hero",
-                start: "-100%", 
+                start: "0%", 
 
                 scrub: true
             }, 

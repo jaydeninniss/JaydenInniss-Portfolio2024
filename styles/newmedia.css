@@ -19,7 +19,6 @@
         position: absolute;
         width: 100%;
         height: 100%;
-        transform: translateY(3px);
     }
 
     #newmedia-hero-text {
@@ -47,14 +46,15 @@
 /* ON TO THE GOOD STUFF */
 .content-container {
     text-align: center;
+    position: absolute;
     background-color: var(--jigrey);
+    margin-top: -70px;
 
     #grey-cover  {
-        position: absolute;
-        z-index: 1;
+        position: relative;
         background-color: var(--jigrey);
         width: 100vw;
-        height: 250px;
+        height: 50px;
         background-image: url("../media/topo/footer/left.png"), url("../media/topo/footer/right.png");
         background-position: top left, top right;
         background-repeat: no-repeat;
@@ -69,7 +69,8 @@
     .project-banner-container {
         display: flex;
         flex-direction: column;
-        padding-top: 250px;
+        padding-top: 0px;
+        position: relative;
 
         .project {
             width: 100%;
@@ -157,6 +158,12 @@
     }
 
     #project3 {
+        background-image: url("../media/img/projects/uiuxprojectcover.png");
+        background-size: cover;
+        background-position: center;
+    }
+
+    #project4 {
         background-image: url("../media/img/projects/uiuxprojectcover.png");
         background-size: cover;
         background-position: center;

@@ -124,12 +124,14 @@
             </div>
         </div>
 
-        <div class="videography">
-            <h3>VIDEOGRAPHY</h3>
-            <div class="seemore-container">
-                    <p class="seemore-text">See More →</p>
-                </div>
-        </div>
+        <a href="video">
+            <div class="videography">
+                <h3>VIDEOGRAPHY</h3>
+                <div class="seemore-container">
+                        <p class="seemore-text">See More →</p>
+                    </div>
+            </div>
+        </a>
 
         <a href="newmedia">
             <div class="newmedia">
