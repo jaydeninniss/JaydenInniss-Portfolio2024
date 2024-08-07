@@ -1,0 +1,36 @@
+:host([fx="tornado"]) {
+    //  Hamburger
+    .bar {
+        &--top {
+            transition-delay: calc(var(--mb-animation-delay) + (var(--mb-animation-duration) * 0.6));
+        }
+
+        &--middle {
+            transition-property: opacity, transform;
+            transition-delay: calc(var(--mb-animation-delay) + (var(--mb-animation-duration) * 0.3));
+        }
+
+        &--bottom {
+            transition-delay: var(--mb-animation-delay);
+        }
+    }
+
+    // Cross
+    .is-cross .bar {
+        &--top {
+            transform: rotate(-135deg);
+            transition-delay: var(--mb-animation-delay);
+        }
+
+        &--middle {
+            opacity: 0;
+            transform: rotate(-135deg);
+            transition-delay: calc(var(--mb-animation-delay) + (var(--mb-animation-duration) * 0.3));
+        }
+
+        &--bottom {
+            transform: rotate(-225deg);
+            transition-delay: calc(var(--mb-animation-delay) + (var(--mb-animation-duration) * 0.6));
+        }
+    }
+}

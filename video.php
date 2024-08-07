@@ -13,6 +13,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">
     <link rel="stylesheet" href="../styles/photo.css">
+    <link rel="stylesheet" href="../styles/hamburger.css">
 
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
@@ -44,7 +45,24 @@
     5. Link buttons?
 -->
 
-    <?php include "./parts/header.php" ?>
+
+
+    <nav class="menu--right" role="navigation">
+        <div class="menuToggle">
+            <input type="checkbox"/>
+            <span></span>
+            <span></span>
+            <span></span>
+            <ul class="menuItem">
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Photo</a></li>
+                <li><a href="#">Video</a></li>
+                <li><a href="#">New Media</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Reach Out</a></li>
+            </ul>
+        </div>
+    </nav>
 
     <main>
 

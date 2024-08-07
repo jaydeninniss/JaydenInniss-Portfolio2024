@@ -40,10 +40,10 @@
     <main>
         <!-- Header Img -->
         <div class="hero">
-            <img src="../media/img/projects/uiuxprojectcover.png" alt="">
-            <div class="project-title">
+            <img src="../media/img/projects/stsfilmfestprojectcover.png" alt="">
+            <!-- <div class="project-title">
                 <h1>Sea to Sky Student Short Film Festival</h1>
-            </div>
+            </div> -->
         </div>
         <!-- END Header Img -->
 

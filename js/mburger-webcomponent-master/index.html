@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="author" content="www.frebsite.nl" />
+        <meta name="viewport" content="width=device-width user-scalable=no" />
+        <meta name="robots" content="noindex, nofollow" />
+
+        <title>mburger, animated hamburgers!</title>
+
+        <link
+            type="text/css"
+            rel="stylesheet"
+            href="http://fonts.googleapis.com/css?family=Pacifico"
+        />
+        <link type="text/css" rel="stylesheet" href="demo.css" />
+
+        <script src="./dist/mburger/index.js" type="module"></script>
+    </head>
+    <body>
+        <div id="page">
+            <h1>mburger</h1>
+            <p>
+                A webcomponent for animated hamburgers. All set up to work out
+                of the box with the mmenu.js and mmenu-light plugins. Click a
+                hamburger to see the animation. More info
+                <a href="https://www.mmenujs.com/mburger" target="_blank"
+                    >here</a
+                >.
+            </p>
+
+            <p>
+                Note: If you want to run these examples locally, you need to run
+                them through a local web server. Otherwise the
+                <code>&lt;script type=&quot;module&quot;&gt;</code> will be
+                blocked by CORS policy.
+            </p>
+
+            <br />
+            <p>Choose an animation for the examples:</p>
+            <select id="ease">
+                <option value="ease">Ease (default)</option>
+                <option value="elastic">Elastic</option>
+                <option value="funky">Funky</option>
+                <option value="shaky">Shaky</option>
+            </select>
+
+            <div class="xmpls">
+                <div class="xmpl">
+                    <mm-burger
+                        fx="collapse"
+                        title="Toggle state"
+                        role="button"
+                        tabindex="0"
+                    ></mm-burger>
+                    <span>collapse</span>
+                </div>
+                <div class="xmpl">
+                    <mm-burger
+                        fx="spin"
+                        title="Toggle state"
+                        role="button"
+                        tabindex="0"
+                    ></mm-burger>
+                    <span>spin</span>
+                </div>
+                <div class="xmpl">
+                    <mm-burger
+                        fx="squeeze"
+                        title="Toggle state"
+                        role="button"
+                        tabindex="0"
+                    ></mm-burger>
+                    <span>squeeze</span>
+                </div>
+                <div class="xmpl">
+                    <mm-burger
+                        fx="tornado"
+                        title="Toggle state"
+                        role="button"
+                        tabindex="0"
+                    ></mm-burger>
+                    <span>tornado</span>
+                </div>
+            </div>
+
+            <pre>
+&lt;html&gt;
+    &lt;head&gt;
+        &lt;script type="module" src="dist/mburger.js"&gt;&lt;/script&gt;
+    &lt;/heady&gt;
+    &lt;body&gt;
+        &lt;mm-burger fx="spin"&gt;&lt;/mm-burger&gt;
+    &lt;/body&gt;
+&lt;/html&gt;
+</pre
+            >
+
+            <p>
+                For more examples and the full documentation, please visit:
+                <a href="https://www.mmenujs.com/mburger" target="_blank"
+                    >mmenujs.com/mburger</a
+                >
+            </p>
+        </div>
+
+        <script>
+            const toggle = (event) => {
+                const burger = event.target
+                    ?.closest(".xmpl")
+                    ?.querySelector("mm-burger");
+
+                if (burger) {
+                    burger.state = burger.state === "cross" ? "bars" : "cross";
+                }
+            };
+            document.addEventListener("click", toggle);
+            document.addEventListener("keyup", (event) => {
+                if (event.key === "Enter") {
+                    toggle(event);
+                }
+            });
+        </script>
+
+        <script>
+            const burgers = document.querySelectorAll("mm-burger");
+            const select = document.querySelector("#ease");
+            select.addEventListener("change", () => {
+                burgers.forEach((burger) => {
+                    burger.setAttribute("ease", select.value);
+                });
+            });
+        </script>
+    </body>
+</html>
