@@ -35,6 +35,7 @@
 <body>
     
     <?php include "./parts/header.php" ?>
+    <?php include "parts/hamburger.php" ?>
 
     <!-- HERO IMAGE -->
     <div id="about-hero">

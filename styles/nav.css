@@ -57,3 +57,24 @@
     color: var(--jilightgreen);
     text-decoration: underline;
 }
+
+
+/* THIS TOGGLES THE HAMBURGER */
+
+#global-nav {
+    display: none;
+
+    @media screen and (min-width: 1200px){
+        display: flex;
+        
+    }
+}
+
+#hamburger {
+    display: block;
+
+    @media screen and (min-width: 1200px){
+        display: none;
+        
+    }
+}

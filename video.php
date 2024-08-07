@@ -12,7 +12,7 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">
-    <link rel="stylesheet" href="../styles/photo.css">
+    <link rel="stylesheet" href="../styles/video.css">
     <link rel="stylesheet" href="../styles/hamburger.css">
 
     <!-- GSAP -->
@@ -46,25 +46,10 @@
 -->
 
 
-
-    <nav class="menu--right" role="navigation">
-        <div class="menuToggle">
-            <input type="checkbox"/>
-            <span></span>
-            <span></span>
-            <span></span>
-            <ul class="menuItem">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Photo</a></li>
-                <li><a href="#">Video</a></li>
-                <li><a href="#">New Media</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Reach Out</a></li>
-            </ul>
-        </div>
-    </nav>
-
     <main>
+
+    <?php include "./parts/header.php" ?>
+    <?php include "./parts/hamburger.php" ?>
 
     <!-- HERO IMAGE -->
     <div id="newmedia-hero">
@@ -75,14 +60,17 @@
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
-
+    <p>hello there</p>
+    <?php include "./parts/footer.php" ?>
     </div>
+
+
 
 
         
 
 
-        <?php include "./parts/footer.php" ?>
+
 
     </main>
 
