@@ -114,6 +114,20 @@
 
                 <p class="answer">It took over 7 hours of planning to ensure teammates had enough time to complete their tasks while ensuring they weren't working on two items simultaneously, and watching for dependencies.<br><br>Dependencies are items that must be completed before another begins. Dependencies must be addressed effectively to avoid designers sitting idle waiting for another task to finish. It was fun to come up with unique solutions to fix this problem! My teammates thought I was a little crazy when I presented the Gantt to them! For example, I planned to begin wireframes for both the website and email template before we had determined the brand colours or logo. I made this decision because designers only need the final colours very late in the design process for things like email templates, so this work can happen simultaneously, keeping our project efficient, dynamic and a little fun too!<br><br>This was a daunting challenge to look ahead for all issues that could come up before we had even touched the project’s deliverables. I really enjoyed the critical thinking and collaboration that is required.<br><br><br>In addition to these two documents, I set up a change log, and budget tracking documents to help us with the final report and retrospective project analysis.</p>
                 
+                <button class="cta-button">
+                    <a class="cta" target="_blank" href="https://docs.google.com/document/d/1LdOCagpwQt0vaBTGCICWyTX-3ccbMul4kpANg5EdqTQ/edit?usp=sharing">
+                        Work Breakdown Structure
+                        <img src="../media/icons/button-arrow.svg" alt="">
+                    </a>
+                </button>
+
+                <button class="cta-button">
+                    <a class="cta" target="_blank" href="https://docs.google.com/spreadsheets/d/1qAeil-M4dJIVpsZF98nob9NqT2180aRHqvy3iba6g-Q/edit?usp=sharing">
+                        Gantt Chart
+                        <img src="../media/icons/button-arrow.svg" alt="">
+                    </a>
+                </button>
+                
                 <h3 class="question">Production</h3>
                 <p class="answer">The Gantt Chart became the team's home for knowing what to work on and when it is due.<br><br>My role now shifted to assisting my teammates with anything they needed. A big focus for this project was open communication. I would check in with teammates at least three times each week to see if they needed help. Due to the success of the planning phase, the communication could be brief and concise as there were few questions.</p>
                 
@@ -142,6 +156,34 @@
                 
             </div>
         </div>
+
+        <button class="cta-button">
+            <a class="cta" target="_blank" href="https://docs.google.com/document/d/1DFZHwD6zzjIu05iDbAjbaW-zSqOjx0imoUnsT9CkGTM/edit?usp=sharing">
+                Final Report
+                <img src="../media/icons/button-arrow.svg" alt="">
+            </a>
+        </button>
+
+        <button class="cta-button">
+            <a class="cta" target="_blank" href="https://www.canva.com/design/DAGBgBM_cuA/0n6_t2GBP4XoUnynEBKh2A/view?utm_content=DAGBgBM_cuA&utm_campaign=designshare&utm_medium=link&utm_source=viewer">
+                Final Presentation
+                <img src="../media/icons/button-arrow.svg" alt="">
+            </a>
+        </button>
+
+        <button class="cta-button">
+            <a class="cta" target="_blank" href="https://docs.google.com/document/d/1LdOCagpwQt0vaBTGCICWyTX-3ccbMul4kpANg5EdqTQ/edit?usp=sharing">
+                Work Breakdown Structure
+                <img src="../media/icons/button-arrow.svg" alt="">
+            </a>
+        </button>
+
+        <button class="cta-button">
+            <a class="cta" target="_blank" href="https://docs.google.com/spreadsheets/d/1qAeil-M4dJIVpsZF98nob9NqT2180aRHqvy3iba6g-Q/edit?usp=sharing">
+                Gantt Chart
+                <img src="../media/icons/button-arrow.svg" alt="">
+            </a>
+        </button>
     </div>
 
         <?php include "../parts/footer.php" ?>
