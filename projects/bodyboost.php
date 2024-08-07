@@ -40,7 +40,7 @@
     <main>
         <!-- Header Img -->
         <div class="hero">
-            <img src="../media/img/projects/uiuxprojectcover.png" alt="">
+            <img src="../media/img/projects/bodyboost/bodyboost1.jpeg" alt="">
             <div class="project-title">
                 <h1>Body Boost</h1>
             </div>
@@ -101,7 +101,7 @@
                 
                 <p class="answer"><strong>Work Breakdown Structure</strong></p>
                 <p class="answer">A Work Breakdown Structure (WBS) is an exhaustive list of every task or item that must be completed within the project's scope. I had to put myself in the shoes of each role and speak the language of each designer to ensure I included every step of the process.</p>
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_02.png" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost5.jpeg" class="project-img" alt="">
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_03.png" class="project-img" alt="">
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_04.png" class="project-img" alt="">
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_05.png" class="project-img" alt="">
@@ -127,7 +127,7 @@
                         <img src="../media/icons/button-arrow.svg" alt="">
                     </a>
                 </button>
-                
+
                 <h3 class="question">Production</h3>
                 <p class="answer">The Gantt Chart became the team's home for knowing what to work on and when it is due.<br><br>My role now shifted to assisting my teammates with anything they needed. A big focus for this project was open communication. I would check in with teammates at least three times each week to see if they needed help. Due to the success of the planning phase, the communication could be brief and concise as there were few questions.</p>
                 

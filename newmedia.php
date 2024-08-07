@@ -121,7 +121,7 @@
                         <h2>Body Boost</h2>
                         <h3>Project Managment</h3>
                         <p class="project-type">New Media, BCIT</p>
-                        <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                        <p class="project-desc">In a group of four , we designed high-fidelity mockups for a mobile application to gain experience with linear (waterfall) projects.<br><br>As the project manager , I planned out what tasks needed to be completed when and by who, based on each designer’s strengths/preferences.<br><br>Role: Project Manager</p>
                         <button class="cta-button">
                             <a class="cta" href="projects/bodyboost">
                                 Read more
