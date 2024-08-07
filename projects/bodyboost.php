@@ -96,21 +96,24 @@
                     <li>Final Presentation Design</li>
                 </ul>
 
+                <img src="../media/img/projects/bodyboost/bodyboost2.jpeg" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost3.jpeg" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost4.jpeg" class="project-img" alt="">
+
+
                 <h3 class="question">Pre-Production</h3>
                 <p class="answer">Before the designers opened their laptops, we had to sit down as a team and determine what needed to be done to complete the deliverables, who wanted to focus on what, and how long we had to complete tasks. This process took two meetings before we understood the outlook for the project. With this team consultation complete, I had to put the plan down on paper and set up a Work Breakdown Structure.</p>
                 
                 <p class="answer"><strong>Work Breakdown Structure</strong></p>
                 <p class="answer">A Work Breakdown Structure (WBS) is an exhaustive list of every task or item that must be completed within the project's scope. I had to put myself in the shoes of each role and speak the language of each designer to ensure I included every step of the process.</p>
                 <img src="../media/img/projects/bodyboost/bodyboost5.jpeg" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_03.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_04.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_05.png" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost6.jpeg" class="project-img" alt="">
+
                 
                 <p class="answer"><strong>Gantt Chart</strong></p>
                 <p class="answer">After the Work Breakdown Structure had been finalized, I reinterpreted the list into a Gantt Chart where the items are displayed based on when they will be completed. The items are listed along the left y-axis and their start/end dates are plotted on the x-axis. On this chart, the tasks are grouped by assignee and colour-coded accordingly. Each task/item occupies cells in the graph which denotes when this task will be worked on and completed.</p>
 
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_06.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_07.png" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost7.jpeg" class="project-img" alt="">
 
                 <p class="answer">It took over 7 hours of planning to ensure teammates had enough time to complete their tasks while ensuring they weren't working on two items simultaneously, and watching for dependencies.<br><br>Dependencies are items that must be completed before another begins. Dependencies must be addressed effectively to avoid designers sitting idle waiting for another task to finish. It was fun to come up with unique solutions to fix this problem! My teammates thought I was a little crazy when I presented the Gantt to them! For example, I planned to begin wireframes for both the website and email template before we had determined the brand colours or logo. I made this decision because designers only need the final colours very late in the design process for things like email templates, so this work can happen simultaneously, keeping our project efficient, dynamic and a little fun too!<br><br>This was a daunting challenge to look ahead for all issues that could come up before we had even touched the project’s deliverables. I really enjoyed the critical thinking and collaboration that is required.<br><br><br>In addition to these two documents, I set up a change log, and budget tracking documents to help us with the final report and retrospective project analysis.</p>
                 
@@ -138,11 +141,22 @@
                         <p class="answer"><strong>Change Log Entry 1:</strong></p> 
                         <p class="answer">As we moved through the first week of production, our instructor added another deliverable to the requirements. This mid-project addition was intended to mimic realistic client projects. The deliverable was two additional marketing cards to design. These marketing cards were assigned to Ronalene, our graphic designer and to free time, her existing workload was shuffled around.</p>
                     </li>
+                <img src="../media/img/projects/bodyboost/bodyboost13.jpeg" class="project-img" alt="">
+
                     <li>
                         <p class="answer"><strong>Change Log Entry 2:</strong></p> 
                         <p class="answer">After completing the Email Template, Christian discovered that the code should have been written using the table tag instead of a div. This required two additional days for Christian to develop a fixed version, but thankfully he had already completed his Website Mockup, so the implications to the timeline were limited.</p>
                     </li>
                 </ul>
+                <img src="../media/img/projects/bodyboost/bodyboost14.jpeg" class="project-img" alt="">
+
+
+                <img src="../media/img/projects/bodyboost/bodyboost8.jpeg" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost9.jpeg" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost10.jpeg" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost11.jpeg" class="project-img" alt="">
+                <img src="../media/img/projects/bodyboost/bodyboost12.jpeg" class="project-img" alt="">
+
 
                 <h3 class="question">Post Production</h3>
                 <p class="answer">The designs and deliverables from the team are incredible! Overall this project went incredibly smoothly with only minor hiccups, but the initial planning enabled us to get back on track quickly!</p>
@@ -153,6 +167,7 @@
             <div class="qa-container">
                 <h3 class="question">Conclusion</h3>
                 <p class="answer">We presented the final presentation to our peers on the final day of class. </p>
+                <img src="../media/img/projects/bodyboost/bodyboost15.jpeg" class="project-img" alt="">
                 
             </div>
         </div>
