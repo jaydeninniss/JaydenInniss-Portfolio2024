@@ -8,7 +8,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100..900;1,100..900&family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100..900;1,100..900&family=Be+Vietnam+Pro:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
 
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
@@ -49,6 +49,18 @@
 
         <div class="project-description">
             <div class="left-col">
+                <button class="cta-button">
+                    <a class="cta" href="https://drive.google.com/file/d/1xteQcFC9ixnHZZlICdYbnTDwHzegpeLa/view?usp=sharing" target="_blank">
+                        Final Report
+                        <img src="../media/icons/button-arrow.svg" alt="">
+                    </a>
+                </button>
+                <button class="cta-button">
+                    <a class="cta" target="_blank" href="https://www.figma.com/file/8kine4f3VewD7X5HHf794g/Jayden-Inniss---UIUX-Phase-3---Final?type=design&node-id=2029%3A856&mode=design&t=zx3nnFA1V12LmJND-1">
+                        Final Presentation
+                        <img src="../media/icons/button-arrow.svg" alt="">
+                    </a>
+                </button>
             </div>
 
             <div class="right-col">
@@ -60,113 +72,77 @@
         <div class="content-container">
             <div class="qa-container">
                 <h3 class="question" id="first">The Goal</h3>
-                <p class="answer">This project aims to design an interface following UI/UX principles, and then improve the interface by identifying issues through user testing.</p>
-                <p class="answer"><strong>This project consisted of three phases:</strong></p>
-                <ul class="answer">
-                    <li>Phase 1: User research & designing the initial interface (Low-fidelity wireframes).</li>
-                    <li>Phase 2: Design high-fidelity interactive mockups. Then conduct User Testing to identify issues/weaknesses in the design.</li>
-                    <li>Phase 3: Edit the interface to address issues identified in user testing.</li>
-                </ul>
-                <p class="answer"><em>Phases 1 & 3 have accompanying reports.</em></p>
+                <p class="answer">In a group of four, we designed high-fidelity mockups for a mobile application to gain experience with linear (waterfall) projects.<br><br>As project manager, I planned out what tasks needed to be completed when and by who, based on each designer's strengths/preferences.</p>
             </div>
 
             <div class="qa-container">
-                <h3 class="question">Phase 1</h3>
-                <p class="answer">Phase 1 began with establishing the topic of the website interface. I landed on an outdoor adventure planning tool as I use similar tools frequently planning my own adventures, so I understand what I like and what could be improved with existing websites.<br><br>Before design work could begin, the target audience and user goals had to be identified. To define the target user I created a detailed user persona, a user scenario, an empathy map and a journey map for an expected user.</p>
+                <h3 class="question">Overview</h3>
+                <p class="answer">Before this project even began, I had hours of work to lay out the entire process! As the project manager, I was not directly involved in the designs or development but had control of everything surrounding the design work to support my teammates.</p>
+
+                <p>My Deliverables:</p>
+                <ul class="answer">
+                    <li>Final Report</li>
+                    <li>Work Breakdown Structure</li>
+                    <li>Gantt Chart</li>
+                </ul>
+
+                <p>My Teammates:</p>
+                <ul class="answer">
+                    <li>High-Fidelity Mobile App Mockups</li>
+                    <li>Website Mockup</li>
+                    <li>Hand-Coded HTML Email Template</li>
+                    <li>2x Double-Sided Marketing Cards</li>
+                    <li>Style Guide</li>
+                    <li>Final Presentation Design</li>
+                </ul>
+
+                <h3 class="question">Pre-Production</h3>
+                <p class="answer">Before the designers opened their laptops, we had to sit down as a team and determine what needed to be done to complete the deliverables, who wanted to focus on what, and how long we had to complete tasks. This process took two meetings before we understood the outlook for the project. With this team consultation complete, I had to put the plan down on paper and set up a Work Breakdown Structure.</p>
                 
+                <p class="answer"><strong>Work Breakdown Structure</strong></p>
+                <p class="answer">A Work Breakdown Structure (WBS) is an exhaustive list of every task or item that must be completed within the project's scope. I had to put myself in the shoes of each role and speak the language of each designer to ensure I included every step of the process.</p>
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_02.png" class="project-img" alt="">
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_03.png" class="project-img" alt="">
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_04.png" class="project-img" alt="">
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_05.png" class="project-img" alt="">
                 
-                <p class="answer">Now that user goals and tasks have been identified, a detailed flow chart lays out the basic information architecture.<br><br>Finally, I moved over to Figma to design the initial wireframes for the interface. The initial wireframes lay out ten pages, including the feature set of pages: the interactive map. Users can zoom in and out, change the map layers, and select trails to view more information on this map. This functionality is quite complicated and will be the main focus of user testing!</p>
+                <p class="answer"><strong>Gantt Chart</strong></p>
+                <p class="answer">After the Work Breakdown Structure had been finalized, I reinterpreted the list into a Gantt Chart where the items are displayed based on when they will be completed. The items are listed along the left y-axis and their start/end dates are plotted on the x-axis. On this chart, the tasks are grouped by assignee and colour-coded accordingly. Each task/item occupies cells in the graph which denotes when this task will be worked on and completed.</p>
 
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_06.png" class="project-img" alt="">
                 <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_07.png" class="project-img" alt="">
 
-                <button class="cta-button">
-                    <a class="cta" target="_blank" href="https://www.figma.com/file/R0upK2bT1p2e6PvFMgfyxt/UI_UX-Phase-1---Wireframes?type=design&node-id=0%3A1&mode=design&t=mXk1zJ6ZMG2hACEd-1">
-                        Phase 1 Wireframes
-                        <img src="../media/icons/button-arrow.svg" alt="">
-                    </a>
-                </button>
-                <button class="cta-button">
-                    <a class="cta" target="_blank" href="https://drive.google.com/file/d/183djmgvRWC3E0r5-YdDUg67KNCxf-eoF/view?usp=sharing">
-                        Phase 1 Report
-                        <img src="../media/icons/button-arrow.svg" alt="">
-                    </a>
-                </button>
-            </div>
-
-            <div class="qa-container">
-                <h3 class="question">Phase 2 - User Testing</h3>
-                <p class="answer">This phase began with adding interactivity and finalizing all design elements within the interface, going from wireframes to high-fidelity mockups.</p>
+                <p class="answer">It took over 7 hours of planning to ensure teammates had enough time to complete their tasks while ensuring they weren't working on two items simultaneously, and watching for dependencies.<br><br>Dependencies are items that must be completed before another begins. Dependencies must be addressed effectively to avoid designers sitting idle waiting for another task to finish. It was fun to come up with unique solutions to fix this problem! My teammates thought I was a little crazy when I presented the Gantt to them! For example, I planned to begin wireframes for both the website and email template before we had determined the brand colours or logo. I made this decision because designers only need the final colours very late in the design process for things like email templates, so this work can happen simultaneously, keeping our project efficient, dynamic and a little fun too!<br><br>This was a daunting challenge to look ahead for all issues that could come up before we had even touched the project’s deliverables. I really enjoyed the critical thinking and collaboration that is required.<br><br><br>In addition to these two documents, I set up a change log, and budget tracking documents to help us with the final report and retrospective project analysis.</p>
                 
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_09.png" class="project-img" alt="">
+                <h3 class="question">Production</h3>
+                <p class="answer">The Gantt Chart became the team's home for knowing what to work on and when it is due.<br><br>My role now shifted to assisting my teammates with anything they needed. A big focus for this project was open communication. I would check in with teammates at least three times each week to see if they needed help. Due to the success of the planning phase, the communication could be brief and concise as there were few questions.</p>
                 
-                <p class="answer">Next, I conducted user testing on my peers where they could work through 4 missions I had set up to test various interface aspects. </p>
+                <p class="answer"><strong>It wouldn't be a full project without a few snags:</strong></p>
 
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_10.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_11.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_12.png" class="project-img" alt="">
+                <ul>
+                    <li>
+                        <p class="answer"><strong>Change Log Entry 1:</strong></p> 
+                        <p class="answer">As we moved through the first week of production, our instructor added another deliverable to the requirements. This mid-project addition was intended to mimic realistic client projects. The deliverable was two additional marketing cards to design. These marketing cards were assigned to Ronalene, our graphic designer and to free time, her existing workload was shuffled around.</p>
+                    </li>
+                    <li>
+                        <p class="answer"><strong>Change Log Entry 2:</strong></p> 
+                        <p class="answer">After completing the Email Template, Christian discovered that the code should have been written using the table tag instead of a div. This required two additional days for Christian to develop a fixed version, but thankfully he had already completed his Website Mockup, so the implications to the timeline were limited.</p>
+                    </li>
+                </ul>
+
+                <h3 class="question">Post Production</h3>
+                <p class="answer">The designs and deliverables from the team are incredible! Overall this project went incredibly smoothly with only minor hiccups, but the initial planning enabled us to get back on track quickly!</p>
+                <p class="answer">I was very happy that the Gantt Chart worked to ensure all three designers were able to work uninterrupted, meaning all dependencies had been accounted for in the planning phase. Throughout the whole project, no designer had to wait for a teammate to begin their work!</p>
+                <p class="answer">Our team's experience with Linear (Waterfall) projects was very positive and agreed that we preferred this linear style of project over an agile methodology.</p>
+                <p class="answer">To wrap up, I wrote a final report that includes all the final deliverables, a price breakdown based on our time logs, and a meeting log. </p>
                 
-                <p class="answer">These missions had users move through multiple pages and use specific functionality such as drop-downs and radio buttons. <br><br>Maze allowed me to view many different metrics from each user test. Below is an example of the results from one user test:</p>
-
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_15.png" class="project-img" alt="">
-                
-                <p class="answer">Metrics including misclick rates, test durations, and heatmaps made identifying issues with the interface much easier! It was neat to see the design work come to life! Watching users move through the interface made his phase of the project a lot of fun!</p>
-
-                <img src="../media/img/projects/uiux/uiuxtest.png" class="project-img" alt="" id="usertestphoto">
-
-                <button class="cta-button">
-                    <a class="cta" target="_blank" href="https://www.figma.com/file/AmgJ2jZRDKovBXpImaVee5/Jayden-Inniss---UIUX-Phase-2---High-Fidelity-Wireframe?type=design&node-id=106%3A43&mode=design&t=BTV5q9fX6KKLWlKp-1">
-                        Phase 2 Interactive Wireframes
-                        <img src="../media/icons/button-arrow.svg" alt="">
-                    </a>
-                </button>
-            </div>
-
-            <div class="qa-container">
-                <h3 class="question">Phase 3</h3>
-                <p class="answer">The user testing went great! My final report contains the four issues identified in user testing and how they were addressed. <br><br>This final report & presentation combo was a fun challenge as it required hours of critical thinking to break down issues to find the root of a user's confusion. Taking a step back and putting yourself in the user's shoes to understand why they got confused or off-track! I enjoyed the analytical problem-solving aspect of this project!</p>
-
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_24.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_25.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_26.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_27.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_28.png" class="project-img" alt="">
-                <img src="../media/img/projects/uiux/deliverables/presentation/JaydenInniss_UIUXStrat1_FinalPresentation_Page_29.png" class="project-img" alt="">
-            
-                <button class="cta-button">
-                    <a class="cta" target="_blank" href="https://www.figma.com/file/8kine4f3VewD7X5HHf794g/Jayden-Inniss---UIUX-Phase-3---Final?type=design&node-id=2029%3A856&mode=design&t=zx3nnFA1V12LmJND-1">
-                        Final High-Fidelity Mockups
-                        <img src="../media/icons/button-arrow.svg" alt="">
-                    </a>
-                </button>
-                <button class="cta-button">
-                    <a class="cta" target="_blank" href="https://drive.google.com/file/d/1ON8heJVGiYnNQCm8IfEeBGYTOidxbMZY/view?usp=sharing">
-                        Final Presentation Deck
-                        <img src="../media/icons/button-arrow.svg" alt="">
-                    </a>
-                </button>                
-                <button class="cta-button">
-                    <a class="cta" target="_blank" href="https://drive.google.com/file/d/1xteQcFC9ixnHZZlICdYbnTDwHzegpeLa/view?usp=sharing">
-                        Final Report
-                        <img src="../media/icons/button-arrow.svg" alt="">
-                    </a>
-                </button>
-            </div>
-
-            
-
             <div class="qa-container">
                 <h3 class="question">Conclusion</h3>
-                <p class="answer">In conclusion, I designed an effective interface that was tested to improve its design and functionality. Now I have a user-tested interface which is even more effective than before!</p>
+                <p class="answer">We presented the final presentation to our peers on the final day of class. </p>
                 
             </div>
-
-
         </div>
+    </div>
 
         <?php include "../parts/footer.php" ?>
 

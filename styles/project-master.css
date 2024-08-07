@@ -98,11 +98,11 @@ main {
                 max-width: 1000px;
                 position: relative;
                 font-family: "Be Vietnam Pro";
-                font-size: 24px;
                 font-style: normal;
-                font-weight: 500;
-                line-height: normal;
                 margin-left: 120px;
+                line-height: 1.4;
+                font-weight: 200;
+                font-size: 20px;
             }
 
             .centered {

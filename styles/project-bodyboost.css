@@ -2,3 +2,40 @@
 /* This loads after and overwrites project-master.css */
 
 
+li {
+    margin: 15px !important; 
+}
+
+p strong {
+    color: white;
+}
+
+main {
+    & .content-container {
+        & .qa-container {
+            .answer {
+                line-height: 1.4;
+                font-weight: 200;
+                font-size: 20px;
+            }
+        }
+    }
+}
+
+.question {
+    margin-top: 60px !important;
+    margin-bottom: 20px;
+}
+
+.answer {
+    margin-top: 0;
+}
+
+.content-container .project-img {
+    margin-bottom: 60px !important;
+}
+
+ul {
+    list-style-type: none;
+}
+
