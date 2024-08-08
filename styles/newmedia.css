@@ -24,8 +24,7 @@
     #newmedia-hero-text {
         position: absolute;
         width: 100vw;
-        width: 70vw;
-        left: 20vw;
+        text-align: center;
         transform: translateY(-260px);
 
         #hero {

@@ -39,24 +39,13 @@
 
     <!-- HERO IMAGE -->
     <div id="about-hero">
-        <div id="about-hero-text"><p>ABOUT</p></div>
+        <div id="about-hero-text"><p>CONTACT</p></div>
         <div id="about-hero-bg"></div>
         <div id="about-hero-jayden"></div>
     </div>
     <!-- END HERO IMAGE -->
 
     <main>
-        <!-- <div class="about">
-            <div class="about-profile">
-                <img src="../media/img/jayden24profilepic.JPEG" alt="Jayden Inniss" id="profile-pic">
-            </div>
-            <div class="about-right">
-                <h1>Reach out!<span id='jaydenstitle'><br>Contact me:</span></h1>
-                <p>Email: contact@jaydeninniss.com</p>
-            </div>
-        </div> -->
-
-
         <section class="about">
             <div class="about-profile">
                 <img id="profile-pic" src="./media/img/jayden24profilepic.jpeg" alt="Profile Picture">

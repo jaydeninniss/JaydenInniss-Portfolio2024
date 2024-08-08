@@ -83,6 +83,7 @@
 .menuItem {
   position: absolute;
   width: 100vw;
+  height: 100vh;
   padding: 50px;
   padding-top: 125px;
   background:#222922;
