@@ -60,8 +60,6 @@
             </div>
         </div>
             
-
-
         <div class="photography">
             <div class="photo-banner-section">
                 <a href="#">
