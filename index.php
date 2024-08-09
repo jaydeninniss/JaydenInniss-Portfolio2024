@@ -117,8 +117,6 @@
                     <img src="/media/icons/logos/knolly.png" alt="">
                     <img src="/media/icons/logos/nicknorth.png" alt="">
                     <img src="/media/icons/logos/helijet.png" alt="">
-
-
                 </div>
             </div>
         </div>
