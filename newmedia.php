@@ -66,6 +66,7 @@
             <div class="project" id="project1">
                 <div class="project-info" id="project-info1">
                     <div class="left-side-info">
+                        <img src="/media/img/projects/stsfilmfestprojectcover.png" alt="" class="mobile-cover">
                         <h2>SEA TO SKY STUDENT SHORT FILM FESTIVAL</h2>
                         <h3>Community Fundraising Event</h3>
                         <p class="project-type">Self-Directed</p>
@@ -83,6 +84,7 @@
             <div class="project" id="project2">
                 <div class="project-info" id="project-info2">
                     <div class="left-side-info">
+                        <img src="/media/img/projects/alpinearmourcover.png" alt="" class="mobile-cover">
                         <h2>Alpine Armour</h2>
                         <h3>Marketing Campaign Pitch</h3>
                         <p class="project-type">New Media, BCIT</p>
@@ -101,6 +103,7 @@
             <div class="project" id="project3">
                 <div class="project-info" id="project-info3">
                     <div class="left-side-info">
+                        <img src="/media/img/projects/uiuxprojectcover.png" alt="" class="mobile-cover">
                         <h2>UI/UX</h2>
                         <h3>Interface Design + User Testing</h3>
                         <p class="project-type">New Media, BCIT</p>
@@ -119,6 +122,7 @@
             <div class="project" id="project4">
                 <div class="project-info" id="project-info4">
                     <div class="left-side-info">
+                        <img src="/media/img/projects/uiuxprojectcover.png" alt="" class="mobile-cover">
                         <h2>Body Boost</h2>
                         <h3>Project Managment</h3>
                         <p class="project-type">New Media, BCIT</p>
