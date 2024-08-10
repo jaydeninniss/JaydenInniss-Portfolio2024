@@ -3,7 +3,7 @@ footer {
     flex-direction: row;
     flex-wrap: nowrap;
     position: relative;
-    height: 300px;
+    height: 200px;
     width: 100vw;
     background-color: var(--jiolive);
     text-align: center;
@@ -12,15 +12,28 @@ footer {
     background-image: url("../media/topo/footer/left.png"), url("../media/topo/footer/right.png");
     background-position: top left, top right;
     background-repeat: no-repeat;
+    background-size: 70%;
+
+    @media screen and (min-width: 1200px) {
+        height: 300px;
+        /* background-size: 100%; */
+    }
 
     .leftfoot {
         width: 48%;
         background-size: 100%;
         background-repeat: no-repeat;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+
+        @media screen and (min-width: 1200px) {
+            flex-direction: column;
+        }
 
         p {
             font-family: "Anybody", sans-serif;
-            font-size: 64px;
+            font-size: 28px;
             margin-top: -10px;
             color: white;
             font-optical-sizing: auto;
@@ -28,8 +41,12 @@ footer {
             font-style: normal;
             font-variation-settings:
                 "wdth" 100;
-        }
 
+            @media screen and (min-width: 1200px) {
+                font-size: 64px;
+                margin-top: -10px;
+            }
+        }
     }
 
     .rightfoot {
@@ -39,6 +56,11 @@ footer {
             line-height: 1.6;
             font-weight: 300;
             color: white;
+            font-size: 18px;
+
+            @media screen and (min-width: 1200px) {
+                font-size: 28px;
+            }
         }
     }
 
@@ -48,5 +70,14 @@ footer {
     .social-icon {
         width: 32px;
         margin: 8px;
+    }
+}
+
+
+#email {
+    font-size: 14px;
+
+    @media screen and (min-width: 1200px) {
+        font-size: 28px;
     }
 }

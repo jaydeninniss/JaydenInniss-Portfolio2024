@@ -35,13 +35,7 @@
 <body>
 
 <!-- TODO
-    DONE 1. Finish bringing over copy
-    DONE 2. Design Button
-    3. Move project 2 image over
-    DONE 4. Add h1 above projects and topographic textures
-    5. Make the whole banner a link?
-    4. Responsive
-    5. Link buttons?
+        Mobile gsap hold open for mobile
 -->
 
     <?php include "./parts/header.php" ?>
