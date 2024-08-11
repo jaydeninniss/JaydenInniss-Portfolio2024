@@ -164,6 +164,10 @@ h3 {
     position: absolute;
     display: flex;
     flex-direction: column;
+
+    @media screen and (min-width: 1200px) {
+        margin-top: 600px;
+    }
 }
 
 .about {
