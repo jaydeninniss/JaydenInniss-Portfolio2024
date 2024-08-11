@@ -31,7 +31,7 @@ h3 {
 
 #home-hero {
     display: flex;
-    height: 800px;
+    height: 900px;
     overflow: visible;
     align-items: center;
 
@@ -44,9 +44,8 @@ h3 {
         background-size: cover;
         position: absolute;
         width: 100%;
-        height: 2000px;
+        height: 1000px;
         scale: 100%;
-        transform: translateY(-20px);
 
         @media screen and (min-width: 1200px) {
             width: 100%;
@@ -61,9 +60,9 @@ h3 {
         background-size: cover;
         position: absolute;
         width: 100%;
-        height: 2000px; 
+        height: 1000px; 
         scale: 100%;    
-        transform: translateY(-60px);
+        /* transform: translateY(190px); */
 
         @media screen and (min-width: 1200px) {
             width: 100%;
@@ -78,9 +77,9 @@ h3 {
         background-size: cover;
         position: absolute;
         width: 100%;
-        height: 2000px;
+        height: 1000px;
         scale: 100%;
-        transform: translateY(120px);
+        transform: translateY(140px);
 
         @media screen and (min-width: 1200px) {
             width: 100%;
@@ -95,9 +94,9 @@ h3 {
         background-size: cover;
         position: absolute;
         width: 100%;
-        height: 2000px; 
+        height: 1000px; 
         scale: 100%; 
-        transform: translateY(450px);
+        transform: translateY(300px);
 
         @media screen and (min-width: 1200px) {
             width: 100%;
@@ -111,7 +110,7 @@ h3 {
         position: absolute;
         width: 90vw;
         left: 14vw;
-        transform: translateY(-590px);
+        transform: translateY(-290px);
 
         @media screen and (min-width: 1200px) {
             width: 70vw;
@@ -129,19 +128,27 @@ h3 {
             font-variation-settings:
                 "wdth" 100;
 
+            margin-left: -30px;
+            margin-top: -40px;
+
                 @media screen and (min-width: 1200px) {
                     font-size: 80px;
+                    margin-left: 0px;
+                    margin-top: 40px;
+
                 }
         }
 
         h1 {
             margin-top: -40px ;
             font-weight: 700;
-            font-size: 18px;
+            font-size: 13px;
+            margin-left: -30px;
 
             @media screen and (min-width: 1200px) {
                 font-size: 26px;
                 margin-top: -85px ;
+                margin-left: 0px;
             }
         }
     }
@@ -152,7 +159,7 @@ h3 {
 }
 
 .content {
-    margin-top: 600px;
+    margin-top: 300px;
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -168,10 +175,12 @@ h3 {
     background-color: var(--jiolive);
     background-image: url("../media/topo/tall-left.png"), url("../media/topo/rightside.png");
     background-position: bottom left, bottom right;
+    background-size: 100%;
     background-repeat: no-repeat;
 
     @media screen and (min-width: 1200px) {
         flex-direction: row;
+        background-size: 60%;
     }
 
     .about-profile {
@@ -181,6 +190,9 @@ h3 {
         margin-top: 60px;
         margin-bottom: 0px;
         border-radius: 40px;
+        margin-left: 20px;
+        margin-right: 20px;
+        max-height: 450px;
         align-items: center;
         justify-content: center;
 
@@ -192,6 +204,7 @@ h3 {
             margin-bottom: 60px;
             border-radius: 40px;
             max-width: 600px;
+            max-height: none;
         }
 
 
@@ -199,7 +212,7 @@ h3 {
             width: 100%;
 
             @media screen and (min-width: 1200px) {
-                transform: translate(-80px,-240px);
+                /* transform: translate(-80px,-240px); */
             }
         }
     }
@@ -249,6 +262,7 @@ h3 {
             font-weight: 500;
             line-height: normal;
             padding-top: 20px;
+            margin-bottom: 40px;
             text-wrap: wrap;
 
             @media screen and (min-width: 1200px) {
@@ -432,14 +446,23 @@ h3 {
             font-style: normal;
             font-weight: 800;
             line-height: normal;
+            display: none;
+
+            @media screen and (min-width: 1200px) {
+                display: block;
+            }
         }
     }
 }
 
+
+
 .videography:hover {
+    @media screen and (min-width: 1200px) {
     background-size: 106%;
     transition: all 0.4s ease;
     background-position: center;
+    }
 }
 .videography:hover > .seemore-container > .seemore-text {
     transform: translateY(-15px);
@@ -497,15 +520,23 @@ h3 {
 }
 
 .newmedia:hover {
+    @media screen and (min-width: 1200px) {
     background-size: 106%;
     background-position: center;
+    }
 }
+
 .newmedia:hover > .seemore-container > .seemore-text {
     transform: translateY(-15px);
 }
 
 .bio-video {
-    height: 900px;
+    height: 300%;
+
+    @media screen and (min-width: 1200px) {
+        height: 900px;
+
+    }
 
     video {
         width: 100%;
