@@ -62,7 +62,7 @@
             
         <div class="photography">
             <div class="photo-banner-section">
-                <a href="#">
+                <a href="photo">
                     <div class="photo-banners" id="adventure">
                         <h3>ADVENTURE</h3>
                         <div class="seemore-container">
@@ -70,7 +70,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="#">
+                <a href="photo">
                     <div class="photo-banners" id="landscape">
                         <h3>LANDSCAPE</h3>
                         <div class="seemore-container">
@@ -78,7 +78,7 @@
                         </div>
                     </div>
                 </a>
-                <a href="#">
+                <a href="photo">
                     <div class="photo-banners" id="commercial">
                         <h3>COMMERCIAL</h3>
                         <div class="seemore-container" id="commercial-seemore">

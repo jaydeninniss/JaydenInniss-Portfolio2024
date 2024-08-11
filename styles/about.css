@@ -22,7 +22,6 @@ h1 {
         width: 100vw;
         height: 100%;
         scale: 120%;
-
     }
 
     #about-hero-jayden {
@@ -54,6 +53,7 @@ h1 {
 }
 
 .content-container {
+    position: absolute;
     text-align: center;
     background-color: var(--jigrey);
     align-content: center;
@@ -61,16 +61,14 @@ h1 {
 
     #grey-cover  {
         position: absolute;
-        z-index: 1;
         display: flex;
         align-items: center;
         align-content: center;
         background-color: var(--jigrey);
         width: 100vw;
-        height: 250px;
+        height: 50px;
     }
 
-    
     .header-container {
         text-align: center;
         display: flex;
@@ -78,7 +76,7 @@ h1 {
         margin-left: 40vw;
         margin-bottom: -40px;
         padding-top: 40px;
-        z-index: 1;
+        z-index: 2;
         position: absolute;
 
         h1 {
