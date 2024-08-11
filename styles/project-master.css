@@ -1,4 +1,4 @@
-/* This is applied to all project pages (((((EXPECT ALPINE ARMOU))))))) */
+/* This is applied to all project pages (((((EXPECT ALPINE ARMOUR))))))) */
 
 main {
     position: absolute;
@@ -20,16 +20,23 @@ main {
         .project-title {
             position: absolute;
             margin-right: 30px;
+            display: none;
+
+            @media screen and (min-width: 1200px) {
+                position: absolute;
+                margin-right: 30px;
+                display: inline;
+            }
 
             h1 {
                 color: #fff;
                 text-align: right;
                 font-family: Anybody;
-                font-size: 80px;
                 font-style: normal;
                 font-weight: 800;
                 line-height: normal;
                 margin: 0;
+                font-size: 80px;
             }
         }
     }
@@ -43,10 +50,15 @@ main {
             color: #FFF;
             text-align: right;
             font-family: "Anybody";
-            font-size: 32px;
+            font-size: 18px;
             font-style: normal;
             font-weight: 500;
-            line-height: normal;
+            line-height: 1.2;
+
+            @media screen and (min-width: 1200px) {
+                font-size: 32px;
+                line-height: normal;
+            }
         }
 
         p {
@@ -67,42 +79,63 @@ main {
         display: flex;
         flex-direction: column;
         align-content: center;
-        margin: auto;
         padding-bottom: 160px;
         padding-top: 60px;
-        padding-left: 60px;
         text-align: left;
+
+        @media screen and (min-width: 1200px) {
+            padding-left: 60px;
+        }
 
         .qa-container {
             display: flex;
             flex-direction: column;
-            width: 80vw;
-            /* margin-left: 60px; */
+            width: 100vw;
             text-align: left;
             position: relative;
-    
+            margin: 0 auto;
+
+            @media screen and (min-width: 1200px) {
+                width: 80vw;
+            }
+
             .question {
                 width: 100%;
                 color: #FFF;
                 font-family: "Anybody";
-                font-size: 42px;
+                font-size: 22px;
                 font-style: normal;
                 font-weight: 500;
                 line-height: normal;
                 height: 50px;
-                margin-left: 60px;
+                margin-left: 20px;
                 margin-top: 180px;
+
+                @media screen and (min-width: 1200px) {
+                    margin-left: 60px;
+                    font-size: 42px;
+                }
             }
 
             .answer {
-                max-width: 1000px;
+                max-width: 80vw;
                 position: relative;
                 font-family: "Be Vietnam Pro";
                 font-style: normal;
-                margin-left: 120px;
+                margin-left: 50px;
                 line-height: 1.4;
                 font-weight: 200;
-                font-size: 20px;
+                font-size: 14px;
+                margin-top: -30px;
+
+                @media screen and (min-width: 1200px) {
+                    margin-left: 120px;
+                    line-height: 1.4;
+                    font-weight: 200;
+                    font-size: 20px;
+                    max-width: 1000px;
+                    margin-top: 0px;
+                }
             }
 
             .centered {
@@ -123,11 +156,18 @@ main {
         }
 
         .project-img {
-            padding-top: 60px;
+            padding-bottom: 40px;
             margin: 0 auto;
             width: 80vw;
-            max-width: 1200px;
+            margin-left: 40px;
+            
+            @media screen and (min-width: 1200px) {
+                padding-bottom: 60px;
+                max-width: 1200px;
+                width: 80vw;
+            }
         }
+
         #usertestphoto {
             max-width: 700px;
             border-radius: 36px;

@@ -80,14 +80,14 @@
                 <h3 class="question">Overview</h3>
                 <p class="answer">Before this project even began, I had hours of work to lay out the entire process! As the project manager, I was not directly involved in the designs or development but had control of everything surrounding the design work to support my teammates.</p>
 
-                <p>My Deliverables:</p>
+                <p class="question">My Deliverables:</p>
                 <ul class="answer">
                     <li>Final Report</li>
                     <li>Work Breakdown Structure</li>
                     <li>Gantt Chart</li>
                 </ul>
 
-                <p>My Teammates:</p>
+                <p class="question">My Teammates:</p>
                 <ul class="answer">
                     <li>High-Fidelity Mobile App Mockups</li>
                     <li>Website Mockup</li>
