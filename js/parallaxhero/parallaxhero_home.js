@@ -1,5 +1,7 @@
 const navLinks = document.querySelectorAll(".nav-links a")
 
+const mobileNavLinks = document.querySelectorAll(".menuToggle span")
+
 if(window.innerWidth > 1200){
     document.addEventListener("DOMContentLoaded", (event) => {
         gsap.registerPlugin(ScrollTrigger)
@@ -154,5 +156,25 @@ if(window.innerWidth > 1200){
                 }, 
             });
         });
+
+
+        gsap.set(mobileNavLinks, { background: '#253527' });
+
+        // Nav Bar Colour Change 
+            var fontChangelinks = gsap.timeline({
+                scrollTrigger: {
+                    trigger: 'body',
+                    start: "110%",
+                    end: "120%",
+                    scrub:true,
+                    once: false,
+                    markers: false
+                },
+                defaults:{duration:1}
+                })
+
+            .to(mobileNavLinks, {
+                background:"#fff"
+            })
 }
 

@@ -1,10 +1,3 @@
-/* header {
-  display: flex;
-  justify-content: space-between;
-  flex-flow: row;
-  align-items: center;
-} */
-
 .menuToggle {
   display: block;
   position: relative;
@@ -43,7 +36,7 @@
     height: 4px;
     margin-bottom: 5px;
     position: relative;
-    background: white;
+    background: #fff;
     border-radius: 3px;
     z-index: 1;
     transform-origin: 4px 0px;
