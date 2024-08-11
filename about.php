@@ -34,11 +34,6 @@
 </head>
 <body>
 
-<!-- TODO
-    1. Responsive
-    2. Replace images at bottom?
--->
-
     <?php include "./parts/header.php" ?>
     <?php include "parts/hamburger.php" ?>
 

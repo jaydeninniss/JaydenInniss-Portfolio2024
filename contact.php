@@ -46,7 +46,7 @@
     <!-- END HERO IMAGE -->
 
     <main>
-        <section class="about">
+        <div class="about">
             <div class="about-profile">
                 <img id="profile-pic" src="./media/img/jayden24profilepic.jpeg" alt="Profile Picture">
             </div>
@@ -57,7 +57,7 @@
                 <p>Phone: 778 793 5323</p>
                 <p>Can't wait to hear from you! Thank you!</p>
             </div>
-        </section>
+        </div>
 
         <?php include "./parts/footer.php" ?>
 

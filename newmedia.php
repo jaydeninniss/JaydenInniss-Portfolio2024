@@ -34,12 +34,6 @@
 </head>
 <body>
 
-<!-- TODO
-        Border on one edge for divider
-        Target some and change height
-        display none those background images on mobile
--->
-
     <?php include "./parts/header.php" ?>
     <?php include "parts/hamburger.php" ?>
 

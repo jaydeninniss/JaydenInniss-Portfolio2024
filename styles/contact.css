@@ -43,7 +43,7 @@ main {
     font-style: normal;
     font-variation-settings: "wdth" 100;
 }
-
+/* 
 .about {
     display: flex;
     flex-wrap: nowrap;
@@ -103,5 +103,109 @@ main {
     font-weight: 500;
     line-height: normal;
     width: 700px;
-    padding-top: 20px; /* Adjusted padding for better spacing */
+    padding-top: 20px;  Adjusted padding for better spacing 
+}
+ */
+
+
+
+.about {
+    display: flex;
+    width: 100vw;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--jiolive);
+    background-image: url("../media/topo/tall-left.png"), url("../media/topo/rightside.png");
+    background-position: bottom left, bottom right;
+    background-repeat: no-repeat;
+
+    @media screen and (min-width: 1200px) {
+        flex-direction: row;
+    }
+
+    .about-profile {
+        display: flex;
+        overflow: hidden;
+        height: 575px;
+        margin-top: 60px;
+        margin-bottom: 0px;
+        border-radius: 40px;
+        align-items: center;
+        justify-content: center;
+
+
+        @media screen and (min-width: 1200px) {
+            flex: 0 0 50%;
+            height: 575px;
+            margin-top: 60px;
+            margin-bottom: 60px;
+            border-radius: 40px;
+            max-width: 600px;
+        }
+
+
+        #profile-pic {
+            width: 100%;
+
+            @media screen and (min-width: 1200px) {
+                transform: translate(-80px,-240px);
+            }
+        }
+    }
+
+    .about-right {
+        padding-left: 20px;
+        padding-right: 20px;
+
+        @media screen and (min-width: 1200px) {
+            flex: 0 1 50%;
+            width: 50vw;
+            padding-left: 60px;
+        }
+        
+        h1 {
+            color: #FFF;
+            font-family: Anybody;
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: 0.8;
+            text-wrap: wrap;
+
+            @media screen and (min-width: 1200px) {
+                font-size: 64px;
+            }
+
+            #jaydenstitle {
+                font-family: "Be Vietnam Pro";
+                font-size: 22px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;
+                text-wrap: wrap;
+
+                @media screen and (min-width: 1200px) {
+                    font-size: 22px;
+                }
+            }
+        }
+
+        p {
+            color: #FFF;
+            font-family: "Be Vietnam Pro";
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+            padding-top: 20px;
+            text-wrap: wrap;
+
+            @media screen and (min-width: 1200px) {
+                font-size: 20px;
+                padding-top: 40px;
+            }
+        }
+    }
 }

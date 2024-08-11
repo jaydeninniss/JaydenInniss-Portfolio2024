@@ -34,10 +34,6 @@
 </head>
 <body>
 
-<!-- TODO
-    4. Responsive
--->
-
     <?php include "./parts/header.php" ?>
     <?php include "parts/hamburger.php" ?>
 
