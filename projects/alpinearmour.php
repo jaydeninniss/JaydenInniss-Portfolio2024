@@ -68,10 +68,6 @@
                 <p class="answer">In a group of four, we designed a full marketing campaign to promote an event. The final deliverables included social media posts, YouTube video thumbnails, website mockups, and posters. All these deliverables were presented as a marketing pitch to our fictional apparel company.</p>
             </div>
 
-            <!-- <div class="project-img centered">
-                <img src="../media/img/projects/aa/img1.png" alt="">
-            </div> -->
-
             <div class="qa-container">
                 <p class="answer">I was the project manager for four group members. <br><br>As project manager, it was my job to compile each group member’s design deliverables into a cohesive project. Once this was complete, we had to describe the full campaign in a final presentation/pitch.</p>
             </div>
