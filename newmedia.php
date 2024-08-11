@@ -35,7 +35,9 @@
 <body>
 
 <!-- TODO
-        Mobile gsap hold open for mobile
+        Border on one edge for divider
+        Target some and change height
+        display none those background images on mobile
 -->
 
     <?php include "./parts/header.php" ?>
@@ -133,9 +135,6 @@
         </div>
         <?php include "./parts/footer.php" ?>
     </div>
-
-
-
 
     </main>
 

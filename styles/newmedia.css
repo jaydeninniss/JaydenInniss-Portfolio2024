@@ -19,6 +19,7 @@
         position: absolute;
         width: 100%;
         height: 100%;
+        transform: translateY(40px);
     }
 
     #newmedia-hero-text {
@@ -31,11 +32,15 @@
             color: var(--jidarkgreen);
             font-family: "Anybody", sans-serif;
             font-optical-sizing: auto;
-            font-size: 80px;
+            font-size: 50px;
             font-weight: 800;
             font-style: normal;
             font-variation-settings:
                 "wdth" 100;
+
+            @media screen and (min-width: 1200px) {
+                font-size: 80px;
+            }
         }
     }
 }
@@ -89,10 +94,13 @@
                 flex-direction: row;
                 flex-wrap: nowrap;
                 overflow: hidden;
+                border: #FFF 6px solid;
+                border-style: solid none none none;
 
                 @media screen and (min-width: 1200px) {
                     height: 566px;
                     width: 100%;
+                    border: none;
                 }
 
                 .left-side-info {
@@ -169,39 +177,70 @@
         }
     }
 
-
-    /* LINKING THE BACKGROUND IMAGES FOR THE PROJECT BANNERS */
     #project1 {
-        background-image: url("../media/img/projects/stsfilmfestprojectcover.png");
+        background-image: none;
         background-size: cover;
         background-position: center;
+        height: 840px;
+
+        .project-info {
+            height: 840px;
+        }
+
+        @media screen and (min-width: 1200px) {
+            height: 566px;
+            background-image: url("../media/img/projects/stsfilmfestprojectcover.png");
+
+            .project-info {
+                height: 566px;
+            }
+        }
     }
 
     #project2 {
-        background-image: url("../media/img/projects/alpinearmourcover.png");
+        background-image: none;
         background-size: cover;
         background-position: center;
+
+        @media screen and (min-width: 1200px) {
+            background-image: url("../media/img/projects/alpinearmourcover.png");
+        }
     }
 
     #project3 {
-        background-image: url("../media/img/projects/uiuxprojectcover.png");
+        background-image: none;
         background-size: cover;
         background-position: center;
+
+        @media screen and (min-width: 1200px) {
+            background-image: url("../media/img/projects/uiuxprojectcover.png");
+        }
     }
 
     #project4 {
-        background-image: url("../media/img/projects/uiuxprojectcover.png");
+        background-image: none;
         background-size: cover;
         background-position: center;
+        height: 840px;
 
+        .project-info {
+            height: 840px;
+        }
 
+        @media screen and (min-width: 1200px) {
+            height: 566px;
+            background-image: url("../media/img/projects/uiuxprojectcover.png");
+
+            .project-info {
+                height: 566px;
+            }
+        }
     }
 }
 
 .mobile-cover {
-    dislpay: block;
+    display: block;
         @media screen and (min-width: 1200px) {
             display: none;
         }
-
 }

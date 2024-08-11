@@ -36,14 +36,22 @@ let revealInfo4 = gsap.to("#project-info4", {
     ease: true,
 });
 
-project1.addEventListener("mouseenter", () => revealInfo1.play());
-project1.addEventListener("mouseleave", () => revealInfo1.reverse());
 
-project2.addEventListener("mouseenter", () => revealInfo2.play());
-project2.addEventListener("mouseleave", () => revealInfo2.reverse());
-
-project3.addEventListener("mouseenter", () => revealInfo3.play());
-project3.addEventListener("mouseleave", () => revealInfo3.reverse());
-
-project4.addEventListener("mouseenter", () => revealInfo4.play());
-project4.addEventListener("mouseleave", () => revealInfo4.reverse());
+if(window.innerWidth > 1200){
+    project1.addEventListener("mouseenter", () => revealInfo1.play());
+    project1.addEventListener("mouseleave", () => revealInfo1.reverse());
+    
+    project2.addEventListener("mouseenter", () => revealInfo2.play());
+    project2.addEventListener("mouseleave", () => revealInfo2.reverse());
+    
+    project3.addEventListener("mouseenter", () => revealInfo3.play());
+    project3.addEventListener("mouseleave", () => revealInfo3.reverse());
+    
+    project4.addEventListener("mouseenter", () => revealInfo4.play());
+    project4.addEventListener("mouseleave", () => revealInfo4.reverse());
+} else {
+    project1.style.transform = "translateX(900px)";
+    project2.style.transform = "translateX(900px)";
+    project3.style.transform = "translateX(900px)";
+    project4.style.transform = "translateX(900px)";
+}
