@@ -93,10 +93,11 @@ main {
             width: 100vw;
             text-align: left;
             position: relative;
-            margin: 0 auto;
+
 
             @media screen and (min-width: 1200px) {
                 width: 80vw;
+                margin: 0 auto;
             }
 
             .question {

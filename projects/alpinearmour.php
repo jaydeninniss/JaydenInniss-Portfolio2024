@@ -16,7 +16,8 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">    
-    <link rel="stylesheet" href="../styles/project-alpinearmour.css">
+    <link rel="stylesheet" href="../styles/project-master.css">    
+    <link rel="stylesheet" href="../styles/project-alpinearmour.css">    
 
     <!-- SEO -->
     <meta property="og:title" content="Alpine Armour - Jayden Inniss">
@@ -152,9 +153,9 @@
                 <p class="answer">I was thrilled to use my existing imagery in our deliverables!<br><br>I removed existing logos from the images and replaced them with the Alpine Armour logo to create a large collection of branded images to promote Alpine Armour.</p>
             </div>
 
-            <img src="../media/img/projects/aa/img15.png" alt="">
-            <img src="../media/img/projects/aa/img16.png" alt="">
-            <img src="../media/img/projects/aa/img17.png" alt="">
+            <img src="../media/img/projects/aa/img15.png" alt="" class="project-img">
+            <img src="../media/img/projects/aa/img16.png" alt="" class="project-img">
+            <img src="../media/img/projects/aa/img17.png" alt="" class="project-img">
 
             <div class="qa-container">
                 <h3 class="question">Conclusion</h3>
