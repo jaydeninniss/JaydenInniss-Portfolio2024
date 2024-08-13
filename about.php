@@ -62,7 +62,6 @@
             
             <h3>I bring to the team a <span id="green-highlight"> high-energy infectious positivity!</span></h3>
         
-
             <!-- These are the question and answer style content divs -->
             <div class="qa-container" id="first-qa">
                 <div class="question">

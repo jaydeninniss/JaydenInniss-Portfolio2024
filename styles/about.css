@@ -11,9 +11,13 @@ h1 {
 
 #about-hero {
     display: flex;
-    height: 900px;
+    height: 500px;
     overflow: hidden;
     align-items: center;
+
+    @media screen and (min-width: 1200px) {
+    height: 900px;
+    }
 
     #about-hero-bg {
         background-image: url("../media/img/parallax/jayden/cleanplate.png");
@@ -21,7 +25,13 @@ h1 {
         position: relative;
         width: 100vw;
         height: 100%;
+        background-size: 220%;
         scale: 120%;
+        transform: translateY(-10px);
+
+        @media screen and (min-width: 1200px) {
+            background-size: 100%;
+        }
     }
 
     #about-hero-jayden {
@@ -29,8 +39,14 @@ h1 {
         background-size: 135%;
         background-repeat: no-repeat;
         position: absolute;
-        width: 1200px;
+        width: 500px;
+        transform: translate(-200px, 200px);
         height: 92%;
+
+        @media screen and (min-width: 1200px) {
+            width: 1200px;
+            transform: translate(0, 0);
+        }
     }
 
     #about-hero-text {
@@ -72,27 +88,45 @@ h1 {
     .header-container {
         text-align: center;
         display: flex;
-        width: 700px;
-        margin-left: 40vw;
+        width: 100vw;
+        margin-left: 0;
         margin-bottom: -40px;
         padding-top: 40px;
-        z-index: 2;
         position: absolute;
+        justify-content: center;
+
+        @media screen and (min-width: 1200px) {
+        width: 700px;
+        margin-left: 40vw;
+        }
 
         h1 {
             text-align: center;
+            font-size: 34px;
+
+            @media screen and (min-width: 1200px) {
+                font-size: 55px;
+            }
         }
     }
 
     .description-container {
         /* This is the first block of text at the above insertimg */
         display: flex;
-        width: 1200px;
+        width: 90vw;
         align-content: center;
-        margin: auto;
+        padding-top: 160px;
         padding-bottom: 80px;
-        padding-top: 270px;
         text-align: left;
+        justify-content: center;
+        padding-left: 20px;
+        
+        @media screen and (min-width: 1200px) {
+            width: 1200px;
+            padding-left: 0;
+        padding-top: 270px;
+
+        }
     }
 
     .qa-container {
@@ -200,12 +234,16 @@ h1 {
     }
 
     .image-container {
-        max-width: 1340px;
-        max-height: 778px;
+        max-width: 90vw;
         overflow: hidden;
         border-radius: 40px;
         margin: auto;
         display: flex;
+
+        @media screen and (min-width: 1200px) {
+            max-width: 1340px;
+            max-height: 778px;
+        }
     }
     
     #about-insertimg {

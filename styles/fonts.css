@@ -31,12 +31,17 @@ h3 {
 
 p {
   font-family: "Be Vietnam Pro", sans-serif;
-  font-size: 1.8rem;
-  font-weight: 300;
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 200;
   font-style: normal;
   color: rgb(200, 200, 200);
-}
 
+  @media screen and (min-width: 1200px) {
+      font-size: 20px;
+      font-weight: 200;
+  }
+}
 
 .nav-links a {
   font-family: "Be Vietnam Pro", sans-serif;
