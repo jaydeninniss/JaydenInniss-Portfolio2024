@@ -88,17 +88,13 @@ h1 {
     .header-container {
         text-align: center;
         display: flex;
+        flex-direction: column;
         width: 100vw;
         margin-left: 0;
         margin-bottom: -40px;
         padding-top: 40px;
         position: absolute;
         justify-content: center;
-
-        @media screen and (min-width: 1200px) {
-        width: 700px;
-        margin-left: 40vw;
-        }
 
         h1 {
             text-align: center;
@@ -111,62 +107,86 @@ h1 {
     }
 
     .description-container {
-        /* This is the first block of text at the above insertimg */
+      /* This is the first block of text at the above insertimg */
         display: flex;
-        width: 90vw;
+
         align-content: center;
         padding-top: 160px;
         padding-bottom: 80px;
-        text-align: left;
+        text-align: center;
         justify-content: center;
         padding-left: 20px;
         
         @media screen and (min-width: 1200px) {
-            width: 1200px;
-            padding-left: 0;
-        padding-top: 270px;
-
+            padding-top: 170px;
         }
     }
 
     .qa-container {
         display: flex;
+        flex-direction: column;
         width: 80vw;
         margin-left: 10vw;
-        margin-top: 100px;
+        /* margin-top: 100px; */
         text-align: left;
         position: relative;
 
         .question {
-            width: 100%;
+            position: relative;
+
+            h2 {
+                font-weight: 500;
+                font-size: 26px;
+
+                @media screen and (min-width: 1200px) {
+                font-weight: 500;
+                font-size: 44px;
+                }
+            }
         }
 
         .answer {
-            margin-top: 160px;
+            /* margin-top: 160px;
             margin-left: 160px;
-            max-width: 1600px;
-            position: absolute;
+            max-width: 1600px; */
+            position: relative;
+
+            @media screen and (min-width: 1200px) {
+                margin-left: 60px;
+                margin-bottom: 60px;
+                max-width: 1200px;
+                }
 
             .values {
-                margin-bottom: 100px;
+                margin-bottom: 60px;
             }
 
-            .value-title {
-                font-weight: 800;
-                font-size: 32px;
-            }
+            @media screen and (min-width: 1200px){
+                .value-title {
+                    font-weight: 800;
+                    font-size: 32px;
+                }
 
-            .value-desc {
-                margin-left: 100px;
-                max-width: 1200px;
+                .value-desc {
+                    margin-left: 100px;
+                    max-width: 900px;
+                }
             }
 
             .image-holder {
                 width: 100%;
                 display: flex;
-                height: 600px;
+                flex-direction: column;
+                height: 1200px;
                 margin-top: 100px;
+                gap: 12px;
+                margin-bottom: 20px;
 
+                @media screen and (min-width: 1200px) {
+                    flex-direction: row;
+                    height: 600px;
+                    margin-bottom: -20px;
+                }
 
                 .images {
                     max-height: 400px;
@@ -187,7 +207,7 @@ h1 {
                 }
 
                 #img2 {
-                    margin-left: 20px;
+                    /* margin-left: 20px; */
                     height: 100%;
                     width: 100%;
                     background-image: url("../media/img/about3.jpeg");
@@ -197,7 +217,7 @@ h1 {
 
                 #img3 {
                     flex-shrink: 2;
-                    margin-left: 20px;
+                    /* margin-left: 20px; */
                     height: 100%;
                     width: 100%;
                     background-image: url("../media/img/about2.jpeg");
@@ -207,26 +227,6 @@ h1 {
             }
         }
 
-    }
-
-
-
-    #first-qa {
-        height: 400px;
-        /* This is to deal with the position absolute applied on the answer text*/
-    }
-
-    #second-qa {
-        height: 880px;
-    }
-
-    #third-qa {
-        height: 900px;
-    }
-
-    #fourth-qa {
-        padding-top: 110px;
-        padding-bottom: 860px;
     }
 
     #green-highlight {
@@ -257,12 +257,12 @@ h1 {
 
     .education-container {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         flex-wrap: nowrap;
         width: 50wv;
-        height: 550px;
-        margin-left: 10vw;
+        height: 300px;
         margin-top: 60px;
+        margin-bottom: 40px;
         padding-top: 20px;
         padding-left: 4vw;
         background-color: var(--jidarkgreen);
@@ -270,32 +270,60 @@ h1 {
         border-color: #fff;
         border: solid 6px #fff;
 
+        @media screen and (min-width: 1200px) {
+        flex-direction: row;
+            width: 50wv;
+            height: 550px;
+            margin-left: 10vw;
+            margin-top: 60px;
+            padding-top: 20px;
+            margin-bottom: 0px;
+
+        }
+
         .education-title {
             font-weight: 700;
             width: 100%;
-            margin-bottom: 80px;
+            margin-bottom: 20px;
+
+            @media screen and (min-width: 1200px) {
+                margin-bottom: 80px;
+            }
         }
 
         .edu-left {
-            width: 66%;
+            width: 96%;
+
+            @media screen and (min-width: 1200px) {
+                width: 66%;
+
+            }
 
             ul {
+                font-size: 14px;
+
+                @media screen and (min-width: 1200px) {
                 font-size: 1.5rem;
+                }
             }
             
             p {
-                font-size: 1.5rem;
+                /* font-size: 1.5rem;s */
             }
         }
 
         .edu-right {
-            display: flex;
+            display: none;
             flex-direction: column;
             width: 30%;
             align-items: flex-end;
             padding-right: 4vw;
             padding-top: 140px;
             margin-bottom: 40px;
+
+            @media screen and (min-width: 1200px) {
+                display: flex;
+            }
 
             .skill-bubble {
                 width: 10vw;
@@ -315,8 +343,4 @@ h1 {
             }
         }
     }
-}
-
-footer {
-    margin-top: 60px;
 }

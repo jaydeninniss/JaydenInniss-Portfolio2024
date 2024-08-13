@@ -62,17 +62,14 @@
             
             <h3>I bring to the team a <span id="green-highlight"> high-energy infectious positivity!</span></h3>
         
-            <!-- These are the question and answer style content divs -->
-            <div class="qa-container" id="first-qa">
+            <div class="qa-container">
                 <div class="question">
-                    <h2>Mission</h2>
+                    <h2>My Personal Mission</h2>
                 </div>
                 <div class="answer">
                     <p>I am drawn to the ability to make people’s wishes a reality through my work! <br> <br>The stoke I share with a client when I can present a final deliverable is unmatched!<br> <br>I appreciate how lucky I am to call such a fun activity my job! Producing cool content while making people’s day is a privilege!</p>
                 </div>    
-            </div>
 
-            <div class="qa-container" id="second-qa">
                 <div class="question">
                     <h2>Adding skills to my tool belt!</h2>
                 </div>
@@ -108,13 +105,11 @@
                             <div class="skill-bubble">
                                 <p class="education-title">Adobe CC</p>
                             </div>
-                            <!-- Dear future Jayden: HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
+                            <!-- Dear future Jayden: Bento BOX! - HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
                         </div>
                     </div>
                 </div>
-            </div>
 
-            <div class="qa-container" id="third-qa">
                 <div class="question">
                     <h2>Core Values</h2>
                 </div>
@@ -132,34 +127,24 @@
                         <p class="value-desc">I thrive when I can constantly continue learning new things. I appreciate when a safe space or dedicated time is set aside for growth in a job. I believe that you can never finish learning, whether it be a new perspective or technique, the process of learning and honing your craft is never complete!</p>
                     </div>
                 </div>    
-            </div>
 
-            <div class="qa-container" id="fourth-qa">
                 <div class="question">
                     <h2>My Days Off</h2>
                 </div>
                 <div class="answer">
                     <p>I definitely fit the stereotype of a “Whistler Kid”. <br><br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping somewhere! <br><br> The natural beauty of my backyard (the Sea to Sky corridor) is a large inspiration for me, so I am drawn out to adventure again and again!<br><br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
-                    
                     <div class="image-holder">
                         <div class="images" id="img1">
-                            <!-- <img src="../media/img/about1.jpeg" alt=""> -->
                         </div>
                         <div class="images" id="img2">
-                            <!-- <img src="../media/img/about2.jpeg" alt=""> -->
                         </div>
                         <div class="images" id="img3">
-                            <!-- <img src="../media/img/about3.jpeg" alt=""> -->
                         </div>
                     </div>
                 </div> 
-            </div>
+            </div> 
             <?php include "./parts/footer.php" ?>  
         </div>
-
-
-        
-
     </main>
 
     <script src="./js/parallaxhero/parallaxhero_about.js"></script>
