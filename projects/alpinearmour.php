@@ -22,7 +22,7 @@
     <!-- SEO -->
     <meta property="og:title" content="Alpine Armour - Jayden Inniss">
     <meta property="og:type" content="website">
-    <meta property="og:URL" content="https://www.jaydeninniss.com/project-alpinearmour">
+    <meta property="og:URL" content="https://www.jaydeninniss.com/projects/alpinearmour">
     <meta property="og:image" content="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
     <meta property="og:description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
     <meta name="robots" content="all"> 
@@ -40,7 +40,7 @@
     <main>
         <!-- Header Img -->
         <div class="hero">
-            <img src="../media/img/projects/alpinearmourhero.png" alt="">
+            <img src="../media/img/projects/alpinearmourhero.png" alt="Alpine Armour Hero Image">
             <div class="project-title">
                 <h1>Alpine Armour</h1>
             </div>
@@ -52,7 +52,7 @@
                 <button class="cta-button">
                     <a class="cta" target="_blank"href="https://drive.google.com/file/d/1jtJcgPaza9EKMnu3ez6jTLYaS6qkeVkd/view?usp=sharing">
                         Final Report
-                        <img src="../media/icons/button-arrow.svg" alt="">
+                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                     </a>
                 </button>
             </div>
@@ -76,7 +76,7 @@
                 <h3 class="question">Introduction</h3>
             </div>
 
-            <img src="../media/img/projects/aa/img2.png" class="project-img" alt="">
+            <img src="../media/img/projects/aa/img2.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
 
             <div class="qa-container">
                 <h3 class="question">The Goal</h3>
@@ -105,40 +105,40 @@
                 <p class="answer">As a group, we chose to create a marketing campaign for a fictional outerwear company. <br><br>We had the idea of hosting an event to promote the release of a new jacket. The event would showcase the ski jacket in action during a free ski trip to Whistler for 30 raffle draw winners! <br><br>We began with defining our fictional outdoor apparel company Alpine Armour, and their new jacket, The Alta Jacket. We were excited with the idea of the jackets being created completely out of recycled materials giving every jacket a unique design. This gave us, as designers, a unique selling point and allowed us to use a wider variety of existing imagery for our promotional content.</p>
             </div>
 
-            <img src="../media/img/projects/aa/img3.png" class="project-img" alt="">
-            <img src="../media/img/projects/aa/img4.png" class="project-img" alt="">
-            <img src="../media/img/projects/aa/img5.png" class="project-img" alt="">
-            <img src="../media/img/projects/aa/img6.png" class="project-img" alt="">
+            <img src="../media/img/projects/aa/img3.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
+            <img src="../media/img/projects/aa/img4.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
+            <img src="../media/img/projects/aa/img5.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
+            <img src="../media/img/projects/aa/img6.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
             
             <div class="qa-container">
                 <h3 class="question">Competitor Analysis</h3>
                 <p class="answer">Next, we looked at our real-world competitors to see how we can set ourselves apart. We researched Arc’teryx as a leading brand in the outerwear industry and a host of community events. <br><br>We were able to identify flaws in Arc'teryx's community events model and used this to our advantage to design a more inclusive proposed event.</p>
             </div>
 
-            <img src="../media/img/projects/aa/img7.png" class="project-img" alt="">
+            <img src="../media/img/projects/aa/img7.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
 
             <div class="qa-container">
                 <h3 class="question">Marketing Campaign Summary</h3>
             </div>
 
-            <img src="../media/img/projects/aa/img8.png" class="project-img" alt="">
-            <img src="../media/img/projects/aa/img9.png" class="project-img" alt="">
-            <img src="../media/img/projects/aa/img10.png" class="project-img" alt="">
+            <img src="../media/img/projects/aa/img8.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
+            <img src="../media/img/projects/aa/img9.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
+            <img src="../media/img/projects/aa/img10.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
 
             <div class="qa-container">
                 <h3 class="question">Event Details</h3>
                 <p class="answer">Next, we lay out the Ski Trip and Raffle Draw. Users can enter the draw using their email address or Alpine Armour account. Entries are open for 60 days before 30 participants are chosen as winners.</p>
             </div>
 
-            <img src="../media/img/projects/aa/img11.png" class="project-img" alt="">
-            <img src="../media/img/projects/aa/img12.png" class="project-img" alt="">
+            <img src="../media/img/projects/aa/img11.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
+            <img src="../media/img/projects/aa/img12.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
 
             <div class="qa-container">
                 <p class="answer">Winners receive a weekend Ski Trip to Whistler with accommodation and lift tickets covered. When the participants arrive, they are greeted with an early access Alta Jacket to wear. <br><br>Participants will demo the jacket before the public release. This pre-release will increase brand awareness and build hype for the upcoming public release while these participants post their experiences with the Alta Jacket on social media.</p>
             </div>
 
-            <img src="../media/img/projects/aa/img13.png" class="project-img" alt="">
-            <img src="../media/img/projects/aa/img14.png" class="project-img" alt="">
+            <img src="../media/img/projects/aa/img13.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
+            <img src="../media/img/projects/aa/img14.png" class="project-img" alt="Alpine Armour Project - Artifact Image">
 
             <div class="qa-container">
                 <p class="answer">All promotional content includes information on how to enter the raffle. This will act as the primary way of moving users down the marketing funnel by getting them to enter their email addresses on the website. <br><br>It is important to highlight the website as the next step for users on each promotional piece.</p>
@@ -149,9 +149,9 @@
                 <p class="answer">I was thrilled to use my existing imagery in our deliverables!<br><br>I removed existing logos from the images and replaced them with the Alpine Armour logo to create a large collection of branded images to promote Alpine Armour.</p>
             </div>
 
-            <img src="../media/img/projects/aa/img15.png" alt="" class="project-img">
-            <img src="../media/img/projects/aa/img16.png" alt="" class="project-img">
-            <img src="../media/img/projects/aa/img17.png" alt="" class="project-img">
+            <img src="../media/img/projects/aa/img15.png" alt="Alpine Armour Project - Artifact Image" class="project-img">
+            <img src="../media/img/projects/aa/img16.png" alt="Alpine Armour Project - Artifact Image" class="project-img">
+            <img src="../media/img/projects/aa/img17.png" alt="Alpine Armour Project - Artifact Image" class="project-img">
 
             <div class="qa-container">
                 <h3 class="question">Conclusion</h3>
@@ -161,7 +161,7 @@
             <button class="cta-button">
                     <a class="cta" target="_blank"href="https://drive.google.com/file/d/1jtJcgPaza9EKMnu3ez6jTLYaS6qkeVkd/view?usp=sharing">
                         Final Report
-                        <img src="../media/icons/button-arrow.svg" alt="">
+                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                     </a>
                 </button>
         </div>

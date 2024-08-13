@@ -46,18 +46,15 @@ main {
     }
     
     .grid-item {
-        /* flex-basis: 20%; */
         flex-grow: 1;
         flex-shrink: 0;
         flex-basis: 30%;
-        /* aspect-ratio: 2/3; */
     
         img {
             border-radius: 0;
             width: 100%;
             object-fit: fill;
             object-position: center;
-
         }
     }
 }

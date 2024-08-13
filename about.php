@@ -119,7 +119,7 @@
                         <p class="value-desc">I am a very positive person and often find myself only seeing the positive side of problems. I believe that bringing a positive mindset to the table allows people to relax and start seeing solutions rather than problems. Once one person has a positive mindset, it spreads through a full team, leading to a more fun project overall!</p>
                     </div>
                     <div class="values">
-                        <p class="value-title">Genuine Connections + Relationships </p>
+                        <p class="value-title">Genuine Connections + Relationships</p>
                         <p class="value-desc">I believe that honest and genuine relationships with team members/clients are crucial to all projects' success. A strong and positive relationship allows for open and honest communication and for an easier time handling disagreements.</p>
                     </div>
                     <div class="values">
@@ -134,11 +134,11 @@
                 <div class="answer">
                     <p>I definitely fit the stereotype of a “Whistler Kid”. <br><br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping somewhere! <br><br> The natural beauty of my backyard (the Sea to Sky corridor) is a large inspiration for me, so I am drawn out to adventure again and again!<br><br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
                     <div class="image-holder">
-                        <div class="images" id="img1">
+                        <div class="images" id="img1"  alt="Jayden Inniss smiling holding a camera">
                         </div>
-                        <div class="images" id="img2">
+                        <div class="images" id="img2" alt="Jayden Inniss smiling holding a camera">
                         </div>
-                        <div class="images" id="img3">
+                        <div class="images" id="img3" alt="Jayden Inniss smiling holding a camera">
                         </div>
                     </div>
                 </div> 

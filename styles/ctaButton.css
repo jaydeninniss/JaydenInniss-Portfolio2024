@@ -6,6 +6,7 @@
 	font: inherit;
 	cursor: pointer;
 }
+
 .cta {
     display: flex;
     flex-direction: row;
@@ -34,12 +35,7 @@
         align-items: center;    
         transition: all 0.2s ease;
     }
-
-
-
 }
-
-
 
 .cta:hover {
     background-color: #204d26;
@@ -49,5 +45,3 @@
         margin-left: 8px;
     }
 }
-
-

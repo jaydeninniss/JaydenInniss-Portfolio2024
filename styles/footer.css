@@ -16,7 +16,6 @@ footer {
 
     @media screen and (min-width: 1200px) {
         height: 300px;
-        /* background-size: 100%; */
     }
 
     .leftfoot {
@@ -72,7 +71,6 @@ footer {
         margin: 8px;
     }
 }
-
 
 #email {
     font-size: 14px;

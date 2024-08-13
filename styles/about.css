@@ -127,7 +127,6 @@ h1 {
         flex-direction: column;
         width: 80vw;
         margin-left: 10vw;
-        /* margin-top: 100px; */
         text-align: left;
         position: relative;
 
@@ -146,9 +145,6 @@ h1 {
         }
 
         .answer {
-            /* margin-top: 160px;
-            margin-left: 160px;
-            max-width: 1600px; */
             position: relative;
 
             @media screen and (min-width: 1200px) {
@@ -226,7 +222,6 @@ h1 {
                 }
             }
         }
-
     }
 
     #green-highlight {
@@ -306,10 +301,6 @@ h1 {
                 font-size: 1.5rem;
                 }
             }
-            
-            p {
-                /* font-size: 1.5rem;s */
-            }
         }
 
         .edu-right {
@@ -339,7 +330,6 @@ h1 {
                     margin-top: 8px;
                     font-size: 1.5vw;
                 }
-
             }
         }
     }

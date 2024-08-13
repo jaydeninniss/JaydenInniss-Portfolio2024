@@ -157,7 +157,6 @@ if(window.innerWidth > 1200){
             });
         });
 
-
         gsap.set(mobileNavLinks, { background: '#253527' });
 
         // Nav Bar Colour Change 
@@ -177,4 +176,3 @@ if(window.innerWidth > 1200){
                 background:"#fff"
             })
 }
-

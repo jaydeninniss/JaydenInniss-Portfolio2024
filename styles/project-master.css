@@ -1,4 +1,4 @@
-/* This is applied to all project pages (((((EXPECT ALPINE ARMOUR))))))) */
+/* This is applied to all project pages */
 
 main {
     position: absolute;
@@ -158,7 +158,6 @@ main {
             @media screen and (min-width: 1200px) {
                 margin-left: 60px;
             }
-
         }
 
         .project-img {
@@ -231,5 +230,3 @@ main {
         position: relative;
     }
 }
-
-

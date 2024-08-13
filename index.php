@@ -52,7 +52,7 @@
     <div class="content">
         <div class="about">
             <div class="about-profile">
-                <img src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss" id="profile-pic">
+                <img src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss Profile Picture" id="profile-pic">
             </div>
             <div class="about-right">
                 <h1>Jayden Inniss<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
@@ -95,28 +95,28 @@
             </div>
             <div id="logo-slider">
                 <div id="logo-container">
-                <img src="/media/icons/logos/ubcsnb.png" alt="">
-                    <img src="/media/icons/logos/worca.png" alt="">
-                    <img src="/media/icons/logos/ibsf.png" alt="">
-                    <img src="/media/icons/logos/sscs.png" alt="">
-                    <img src="/media/icons/logos/knolly.png" alt="">
-                    <img src="/media/icons/logos/nicknorth.png" alt="">
-                    <img src="/media/icons/logos/helijet.png" alt="">
-                    <img src="/media/icons/logos/fis.png" alt="">
-                    <img src="/media/icons/logos/dome.png" alt="">
-                    <img src="/media/icons/logos/crystal Medium.png" alt="">
-                    <img src="/media/icons/logos/pit.png" alt="">
-                    <img src="/media/icons/logos/mesh.png" alt="">
-                    <img src="/media/icons/logos/crankworx.png" alt="">
-                    <img src="/media/icons/logos/wsc.png" alt="">
-                    <img src="/media/icons/logos/wrec.png" alt="">
-                    <img src="/media/icons/logos/ubcsnb.png" alt="">
-                    <img src="/media/icons/logos/worca.png" alt="">
-                    <img src="/media/icons/logos/ibsf.png" alt="">
-                    <img src="/media/icons/logos/sscs.png" alt="">
-                    <img src="/media/icons/logos/knolly.png" alt="">
-                    <img src="/media/icons/logos/nicknorth.png" alt="">
-                    <img src="/media/icons/logos/helijet.png" alt="">
+                <img src="/media/icons/logos/ubcsnb.png" alt="UBC Ski and Snowboard Club Logo">
+                    <img src="/media/icons/logos/worca.png" alt="WORCA Logo">
+                    <img src="/media/icons/logos/ibsf.png" alt="International Bobsleigh and Skeleton Federation">
+                    <img src="/media/icons/logos/sscs.png" alt="Sea to Sky Community Services Society Logo">
+                    <img src="/media/icons/logos/knolly.png" alt="Knolly Bikes Logo">
+                    <img src="/media/icons/logos/nicknorth.png" alt="Nicklaus North Golf Course Logo">
+                    <img src="/media/icons/logos/helijet.png" alt="Helijet Logo">
+                    <img src="/media/icons/logos/fis.png" alt="Federation Internationale de Ski Logo">
+                    <img src="/media/icons/logos/dome.png" alt="Dome Productions Logo">
+                    <img src="/media/icons/logos/crystal Medium.png" alt="Crystal Lodge Whistler Logo">
+                    <img src="/media/icons/logos/pit.png" alt="Partners in Tourism Logo">
+                    <img src="/media/icons/logos/mesh.png" alt="Mesh Productions Logo">
+                    <img src="/media/icons/logos/crankworx.png" alt="Crankworx Whistler Logo">
+                    <img src="/media/icons/logos/wsc.png" alt="Whistler Sliding Centre Logo">
+                    <img src="/media/icons/logos/wrec.png" alt="Whistler Real Estate Logo">
+                    <img src="/media/icons/logos/ubcsnb.png" alt="UBC Ski and Snowboard Club Logo">
+                    <img src="/media/icons/logos/worca.png" alt="Worca Logo">
+                    <img src="/media/icons/logos/ibsf.png" alt="International Bobsleigh and Skeleton Federation Logo">
+                    <img src="/media/icons/logos/sscs.png" alt="Sea to Sky Community Services Society Logo">
+                    <img src="/media/icons/logos/knolly.png" alt="Knolly Bikes Logo">
+                    <img src="/media/icons/logos/nicknorth.png" alt="Nicklaus North Golf Course Logo">
+                    <img src="/media/icons/logos/helijet.png" alt="Helijet Logo">
                 </div>
             </div>
         </div>
@@ -141,7 +141,7 @@
 
         <a href="about">
             <div class="bio-video">
-                <video autoplay muted loop>
+                <video autoplay muted loop alt="Video Animation of Jayden Inniss' Logo">
                     <source src="./media/video/jaydeninnissbumper.mp4" type="video/mp4" />
                 </video>
             </div>

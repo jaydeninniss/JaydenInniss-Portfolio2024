@@ -43,24 +43,16 @@
     <!-- HERO IMAGE -->
     <div id="newmedia-hero">
         <div id="newmedia-hero-bg"></div>
-        <div id="newmedia-hero-text"><p id='hero'>NEW MEDIA PROJECTS</p></div>
+        <div id="newmedia-hero-text"><p id='hero'>Video Projects</p></div>
         <div id="newmedia-hero-foreground"></div>
     </div>
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
     <p>hello there</p>
+    <p>Video Projects will go here...soon!</p>
     <?php include "./parts/footer.php" ?>
     </div>
-
-
-
-
-        
-
-
-
-
     </main>
 
 </body>

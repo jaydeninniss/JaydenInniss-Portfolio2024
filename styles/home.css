@@ -136,7 +136,6 @@ h3 {
                     font-size: 80px;
                     margin-left: 0px;
                     margin-top: 40px;
-
                 }
         }
 
@@ -215,10 +214,6 @@ h3 {
 
         #profile-pic {
             width: 100%;
-
-            @media screen and (min-width: 1200px) {
-                /* transform: translate(-80px,-240px); */
-            }
         }
     }
 
@@ -415,7 +410,6 @@ h3 {
             height: 100px;
         }
     }
-
 }
 
 .videography {
@@ -431,7 +425,6 @@ h3 {
         height: 800px;
         width: 100vw;
     }
-
 
     .seemore-container {
         height: 80px;
