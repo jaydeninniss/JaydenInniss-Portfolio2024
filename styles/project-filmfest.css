@@ -4,6 +4,15 @@
 
 h1 {
     width: 1000px;
-    
-    
+}
+
+
+.question {
+    margin-top: 40px !important;
+}
+
+@media screen and (min-height: 1200px) {
+    .question {
+        margin-top: 180px;
+    }
 }
