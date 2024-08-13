@@ -102,7 +102,7 @@ if(window.innerWidth > 1200){
             gsap.set(navLinks, { color: '#253527' });
 
             gsap.to("#home-hero-text", {
-                yPercent: 3900,
+                yPercent: 2950,
                 ease: "none",
                 scrollTrigger: {
                     trigger: "#home-hero",
