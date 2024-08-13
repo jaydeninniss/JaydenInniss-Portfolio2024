@@ -112,11 +112,11 @@
             <div class="project" id="project4">
                 <div class="project-info" id="project-info4">
                     <div class="left-side-info">
-                        <img src="/media/img/projects/uiuxprojectcover.png" alt="Body Boost Project" class="mobile-cover">
+                        <img src="/media/img/projects/bodyboost/bodyboost1.jpeg" alt="Body Boost Project" class="mobile-cover">
                         <h2>Body Boost</h2>
                         <h3>Project Managment</h3>
                         <p class="project-type">New Media, BCIT</p>
-                        <p class="project-desc">In a group of four , we designed high-fidelity mockups for a mobile application to gain experience with linear (waterfall) projects.<br><br>As the project manager , I planned out what tasks needed to be completed when and by who, based on each designer’s strengths/preferences.<br><br>Role: Project Manager</p>
+                        <p class="project-desc">In a group of four , we designed high-fidelity mockups for a mobile application to gain experience with linear (waterfall) projects.<br><br>As the project manager , I planned out what tasks needed to be completed when and by who, based on each designer's strengths/preferences.<br><br>Role: Project Manager</p>
                         <button class="cta-button">
                             <a class="cta" href="projects/bodyboost">
                                 Read more
