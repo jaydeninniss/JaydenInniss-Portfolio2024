@@ -31,6 +31,21 @@
     <link rel="icon" type="image/x-icon" href="./media/logo/jaydeninniss_logo.svg">
     <!-- End of SEO -->
 
+    <!-- PHOTOSWIPE PLUGIN -->
+    <script type="module">
+        import PhotoSwipeLightbox from '/node_modules/photoswipe/photoswipe-lightbox.esm.js';
+        const options = {
+        gallery: '#my-gallery',
+        children: 'a',
+        pswpModule: () => import('/node_modules/photoswipe/photoswipe.esm.js')
+        };
+        const lightbox = new PhotoSwipeLightbox(options);
+        lightbox.init();
+    </script>
+
+    <link rel="stylesheet" href="/node_modules/photoswipe/dist/photoswipe.css">
+        <!-- END PHOTOSWIPE PLUGIN -->
+
 </head>
 <body>
 
@@ -47,50 +62,71 @@
 
     <div class="content-container">
 
+    <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
+        <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
+            data-pswp-width="1669" 
+            data-pswp-height="2500" 
+            target="_blank">
+            <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
+        </a>
+        <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
+            data-pswp-width="1669" 
+            data-pswp-height="2500" 
+            target="_blank">
+            <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
+        </a>
+        <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
+            data-pswp-width="1669" 
+            data-pswp-height="2500" 
+            target="_blank">
+            <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
+        </a>
+    </div>
+
         <div class="adventure">
-            <div class="header-banner">        
+            <div class="header-banner">
                 <h2>Adventure</h2>
             </div>
 
             <div class="grid">
-                <div class="grid-item"><img src="../media/img/gallery/gallery1.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery2.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery3.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery4.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery5.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery6.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery7.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery8.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery9.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery10.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery11.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery12.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery13.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery14.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery1.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery2.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery3.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery4.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery5.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery6.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery7.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery8.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery9.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery10.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery11.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery12.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery13.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery14.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
                 
                 </div>
             </div>
             
         <div class="landscape">
-            <div class="header-banner">        
+            <div class="header-banner">
                 <h2>Landscape</h2>
             </div>
 
             <div class="grid">
-            <div class="grid-item"><img src="../media/img/gallery/gallery15.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery16.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery17.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery18.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery19.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery20.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery21.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery22.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery23.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery24.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery25.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery26.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery27.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery28.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+            <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery15.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery16.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery17.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery18.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery19.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery20.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery21.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery22.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery23.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery24.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery25.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery26.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery27.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery28.jpg" alt="Gallery Image - To be organized and catagorized"></div>
             </div>
         </div>
 
@@ -100,10 +136,10 @@
             </div>
 
             <div class="grid">
-            <div class="grid-item"><img src="../media/img/gallery/gallery29.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery30.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery31.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img src="../media/img/gallery/gallery32.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+            <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery29.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery30.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery31.jpg" alt="Gallery Image - To be organized and catagorized"></div>
+                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery32.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
             </div>
         </div>
 
