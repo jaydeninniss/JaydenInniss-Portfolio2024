@@ -44,7 +44,7 @@
     </script>
 
     <link rel="stylesheet" href="/node_modules/photoswipe/dist/photoswipe.css">
-        <!-- END PHOTOSWIPE PLUGIN -->
+        <!-- END PHOTOSWIPE PLUGIN! -->
 
 </head>
 <body>
