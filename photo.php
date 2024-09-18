@@ -20,10 +20,6 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100..900;1,100..900&family=Be+Vietnam+Pro:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
-    <!-- CSS -->
-    <link rel="stylesheet" href="../styles/style.css">
-    <link rel="stylesheet" href="../styles/photo.css">
-
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
@@ -56,6 +52,10 @@
     <link rel="stylesheet" href="/node_modules/photoswipe/dist/photoswipe.css">
         <!-- END PHOTOSWIPE PLUGIN -->
 
+    <!-- CSS -->
+    <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="../styles/photo.css">
+
 </head>
 <body>
 
@@ -72,33 +72,36 @@
 
     <div class="content-container">
 
-    <div class="pswp-gallery pswp-gallery--single-column" id="my-gallery">
-        <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
-            data-pswp-width="1669" 
-            data-pswp-height="2500" 
-            target="_blank">
-            <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
-        </a>
-        <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
-            data-pswp-width="1669" 
-            data-pswp-height="2500" 
-            target="_blank">
-            <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
-        </a>
-        <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
-            data-pswp-width="1669" 
-            data-pswp-height="2500" 
-            target="_blank">
-            <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" />
-        </a>
-    </div>
+
 
         <div class="adventure">
             <div class="header-banner">
                 <h2>Adventure</h2>
             </div>
 
-            <div class="grid">
+            <!-- <div class="grid"> -->
+
+                <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
+                    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
+                        data-pswp-width="1669" 
+                        data-pswp-height="2500" 
+                        target="_blank">
+                        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
+                    </a>
+                    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
+                        data-pswp-width="1669" 
+                        data-pswp-height="2500" 
+                        target="_blank">
+                        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
+                    </a>
+                    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
+                        data-pswp-width="1669" 
+                        data-pswp-height="2500" 
+                        target="_blank">
+                        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
+                    </a>
+                </div>
+<!-- 
                 <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery1.jpg" alt="Gallery Image - To be organized and catagorized"></div>
                 <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery2.jpg" alt="Gallery Image - To be organized and catagorized"></div>
                 <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery3.jpg" alt="Gallery Image - To be organized and catagorized"></div>
@@ -114,8 +117,8 @@
                 <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery13.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
                 <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery14.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
                 
-                </div>
-            </div>
+                </div>-->
+            </div> 
             
         <div class="landscape">
             <div class="header-banner">
