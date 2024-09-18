@@ -8,8 +8,8 @@
             <li><a href="../photo">PHOTO</a></li>
             <li><a href="../video">VIDEO</a></li>
             <li><a href="../newmedia">NEW MEDIA</a></li>
-            <li><a href="../about">ABOUT</a></li>
-            <li><a href="../contact" id="reach-out">REACH OUT</a></li>
+            <li><a id='reach-out' href="../about">ABOUT</a></li>
+            <!-- <li><a href="../contact" id="reach-out">REACH OUT</a></li> -->
         </ul>
     </div>
 </nav>
