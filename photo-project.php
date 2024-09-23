@@ -74,7 +74,7 @@
         $db_host = 'localhost';
         $db_user = 'root';
         $db_password = 'root';
-        $db_db = 'img-gallery';
+        $db_db = 'innis_301_img-gallery';
 
         $imgs = @new mysqli(
             $db_host,
