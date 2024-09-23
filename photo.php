@@ -39,17 +39,17 @@
 
     <!-- PHOTOSWIPE PLUGIN -->
     <script type="module">
-        import PhotoSwipeLightbox from '/node_modules/photoswipe/dist/photoswipe-lightbox.esm.js';
+        import PhotoSwipeLightbox from '/plugins/photoswipe/photoswipe-lightbox.esm';
         const options = {
         gallery: '#my-gallery',
         children: 'a',
-        pswpModule: () => import('/node_modules/photoswipe/dist/photoswipe.esm.js')
+        pswpModule: () => import('/plugins/photoswipe/photoswipe.esm')
         };
         const lightbox = new PhotoSwipeLightbox(options);
         lightbox.init();
     </script>
 
-    <link rel="stylesheet" href="/node_modules/photoswipe/dist/photoswipe.css">
+    <link rel="stylesheet" href="/plugins/photoswipe/photoswipe.css">
         <!-- END PHOTOSWIPE PLUGIN -->
 
     <!-- CSS -->
