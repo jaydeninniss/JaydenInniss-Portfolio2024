@@ -71,7 +71,7 @@
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
-        <div class="adventure">
+        <div id="adventure">
             <div class="header-banner">
                 <h2>Adventure</h2>
             </div>
@@ -107,7 +107,7 @@
             </div>
         </div>
 
-        <div class="landscape">
+        <div id="landscape">
             <div class="header-banner">
                 <h2>Landscape</h2>
             </div>
@@ -130,7 +130,7 @@
             </div>
         </div>
 
-        <div class="commercial">
+        <div id="commercial">
             <div class="header-banner">
                 <h2>Commercial</h2>
             </div>
