@@ -72,8 +72,8 @@
 
     <?php
         $db_host = 'localhost';
-        $db_user = 'root';
-        $db_password = 'root';
+        $db_user = 'innis301_jayden';
+        $db_password = 'Whistler19!';
         $db_db = 'innis301_img-gallery';
 
         $imgs = @new mysqli(
