@@ -235,7 +235,7 @@
                                 <h3>Crankworx 2023</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=0"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery8.jpg">
@@ -243,7 +243,7 @@
                                 <h3>FIS Junior/U18 Nordic Championships 2023</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=1"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
