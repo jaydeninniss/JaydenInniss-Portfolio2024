@@ -90,13 +90,7 @@
             exit();
         }
 
-        echo 'Success: A proper connection to MySQL was made.';
-        echo '<br>';
-        echo 'Host information: '.$imgs->host_info;
-        echo '<br>';
-        echo 'Protocol version: '.$imgs->protocol_version;
-
-        $id = 1;
+        $id = $_GET['id'];
         $result = $imgs->query('SELECT * FROM imgs WHERE id=' . $id);
         $title = $result->fetch_assoc();
         
