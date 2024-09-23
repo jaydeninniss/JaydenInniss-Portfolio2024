@@ -39,11 +39,11 @@
 
     <!-- PHOTOSWIPE PLUGIN -->
     <script type="module">
-        import PhotoSwipeLightbox from '/plugins/photoswipe/photoswipe-lightbox.esm';
+        import PhotoSwipeLightbox from '/plugins/photoswipe/photoswipe-lightbox.esm.js';
         const options = {
         gallery: '#my-gallery',
         children: 'a',
-        pswpModule: () => import('/plugins/photoswipe/photoswipe.esm')
+        pswpModule: () => import('/plugins/photoswipe/photoswipe.esm.js')
         };
         const lightbox = new PhotoSwipeLightbox(options);
         lightbox.init();
