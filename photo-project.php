@@ -59,6 +59,9 @@
     <?php include "./parts/header.php" ?>
     <?php include "parts/hamburger.php" ?>
 
+
+    
+
     <main>
 
     <!-- HERO IMAGE -->
@@ -67,17 +70,50 @@
     </div>
     <!-- END HERO IMAGE -->
 
+    <?php
+        $db_host = 'localhost';
+        $db_user = 'root';
+        $db_password = 'root';
+        $db_db = 'img-gallery';
+
+        $imgs = @new mysqli(
+            $db_host,
+            $db_user,
+            $db_password,
+            $db_db
+        );
+        
+        if ($imgs->connect_error) {
+            echo 'Errno: '.$mysqli->connect_errno;
+            echo '<br>';
+            echo 'Error: '.$mysqli->connect_error;
+            exit();
+        }
+
+        echo 'Success: A proper connection to MySQL was made.';
+        echo '<br>';
+        echo 'Host information: '.$imgs->host_info;
+        echo '<br>';
+        echo 'Protocol version: '.$imgs->protocol_version;
+
+        $id = 1;
+        $result = $imgs->query('SELECT * FROM imgs WHERE id=' . $id);
+        $title = $result->fetch_assoc();
+        
+
+    ?>
+
     <div class="content-container">
         <div class="header-banner">
-            <h2><?php echo DATABASE TITLE ?></h2>
+            <h2><?php echo $title['title']; ?></h2>
         </div>
         <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
-            <a href="<?php echo DATABASE IMG?>"
+            <a href=""
                 class="grid-item"
                 data-pswp-width="1920"
                 data-pswp-height="1280"
                 target="_blank">
-                <img src="<?php echo DATABASE ?>" alt=""/>
+                <img src="" alt=""/>
             </a>
             <a href="../media/img/gallery/gallery16.jpeg"
                 class="grid-item"
@@ -102,6 +138,7 @@
             </a>
         </div>
     </div>
+
 
     <?php include "./parts/footer.php" ?>
 
