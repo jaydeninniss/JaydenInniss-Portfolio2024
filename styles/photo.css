@@ -20,6 +20,7 @@ main {
 .content-container {
     display: flex;
     flex-direction: column;
+    justify-content: center;
 
     .header-banner  {
         background-color: var(--jigrey);
@@ -41,14 +42,19 @@ main {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        gap: 15px;
-        width: 100vw;
+        gap: 8px;
+        flex-grow: 1;
+        margin: 0px 20px 0px 20px;
     }
     
     .grid-item {
         flex-grow: 1;
         flex-shrink: 0;
-        flex-basis: 30%;
+        flex-basis: 48%;
+
+        @media screen and (min-width: 1200px) {
+            flex-basis: 24%;
+        }
     
         img {
             border-radius: 0;

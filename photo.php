@@ -30,7 +30,7 @@
     <meta property="og:URL" content="https://www.jaydeninniss.com/photo">
     <meta property="og:image" content="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
     <meta property="og:description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
-    <meta name="robots" content="all"> 
+    <meta name="robots" content="all">
     <meta name="author" content="Jayden Inniss">
     <meta name="description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
     <meta name="keywords" content="Photography, Videography, Jayden Inniss, Whistler, Camera, Photography Services in Whistler, Filmer in Whistler, Biking, Skiing, Hiking, Camping, Whistler British Columbia Photo/Video, Sport Photographer, Landscape Photography, Action Sport Photography and Videography">
@@ -39,11 +39,11 @@
 
     <!-- PHOTOSWIPE PLUGIN -->
     <script type="module">
-        import PhotoSwipeLightbox from '/node_modules/photoswipe/photoswipe-lightbox.esm.js';
+        import PhotoSwipeLightbox from '/node_modules/photoswipe/dist/photoswipe-lightbox.esm.js';
         const options = {
         gallery: '#my-gallery',
         children: 'a',
-        pswpModule: () => import('/node_modules/photoswipe/photoswipe.esm.js')
+        pswpModule: () => import('/node_modules/photoswipe/dist/photoswipe.esm.js')
         };
         const lightbox = new PhotoSwipeLightbox(options);
         lightbox.init();
@@ -78,48 +78,73 @@
             <div class="header-banner">
                 <h2>Adventure</h2>
             </div>
+            <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
+                <a href="../media/img/gallery/gallery15.jpeg"
+                    class="grid-item"
+                    data-pswp-width="4500"
+                    data-pswp-height="3000"
+                    target="_blank">
+                    <img src="../media/img/gallery/gallery15.jpeg" alt=""/>
+                </a>
+                <a href="../media/img/gallery/gallery16.jpeg"
+                    class="grid-item"
+                    data-pswp-width="4500"
+                    data-pswp-height="3000"
+                    target="_blank">
+                    <img src="../media/img/gallery/gallery16.jpeg" alt="" class="grid-item"/>
+                </a>
+                <a href="../media/img/gallery/gallery17.jpeg"
+                    class="grid-item"
+                    data-pswp-width="1669"
+                    data-pswp-height="2500"
+                    target="_blank">
+                    <img src="../media/img/gallery/gallery17.jpeg" alt="" class="grid-item"/>
+                </a>
+                <a href="../media/img/gallery/gallery18.jpeg"
+                    class="grid-item"
+                    data-pswp-width="1669"
+                    data-pswp-height="2500"
+                    target="_blank">
+                    <img src="../media/img/gallery/gallery18.jpeg" alt="" class="grid-item"/>
+                </a>
+                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
+                    class="grid-item"
+                    data-pswp-width="1669"
+                    data-pswp-height="2500"
+                    target="_blank">
+                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
+                </a>
+                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
+                    class="grid-item"
+                    data-pswp-width="1669"
+                    data-pswp-height="2500"
+                    target="_blank">
+                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
+                </a>
+                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
+                    class="grid-item"
+                    data-pswp-width="1669"
+                    data-pswp-height="2500"
+                    target="_blank">
+                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
+                </a>
+                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
+                    class="grid-item"
+                    data-pswp-width="1669"
+                    data-pswp-height="2500"
+                    target="_blank">
+                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
+                </a>
+                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
+                    class="grid-item"
+                    data-pswp-width="1669"
+                    data-pswp-height="2500"
+                    target="_blank">
+                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
+                </a>
+            </div>
+        </div>
 
-            <!-- <div class="grid"> -->
-
-                <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
-                    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
-                        data-pswp-width="1669" 
-                        data-pswp-height="2500" 
-                        target="_blank">
-                        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
-                    </a>
-                    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
-                        data-pswp-width="1669" 
-                        data-pswp-height="2500" 
-                        target="_blank">
-                        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
-                    </a>
-                    <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" 
-                        data-pswp-width="1669" 
-                        data-pswp-height="2500" 
-                        target="_blank">
-                        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
-                    </a>
-                </div>
-<!-- 
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery1.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery2.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery3.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery4.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery5.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery6.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery7.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery8.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery9.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery10.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery11.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery12.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery13.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery14.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
-                
-                </div>-->
-            </div> 
-            
         <div class="landscape">
             <div class="header-banner">
                 <h2>Landscape</h2>
