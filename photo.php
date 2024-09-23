@@ -104,41 +104,6 @@
                     target="_blank">
                     <img src="../media/img/gallery/gallery18.jpeg" alt="" class="grid-item"/>
                 </a>
-                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-                    class="grid-item"
-                    data-pswp-width="1669"
-                    data-pswp-height="2500"
-                    target="_blank">
-                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
-                </a>
-                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-                    class="grid-item"
-                    data-pswp-width="1669"
-                    data-pswp-height="2500"
-                    target="_blank">
-                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
-                </a>
-                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-                    class="grid-item"
-                    data-pswp-width="1669"
-                    data-pswp-height="2500"
-                    target="_blank">
-                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
-                </a>
-                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-                    class="grid-item"
-                    data-pswp-width="1669"
-                    data-pswp-height="2500"
-                    target="_blank">
-                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
-                </a>
-                <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"
-                    class="grid-item"
-                    data-pswp-width="1669"
-                    data-pswp-height="2500"
-                    target="_blank">
-                    <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt="" class="grid-item"/>
-                </a>
             </div>
         </div>
 
@@ -177,23 +142,111 @@
                             <img src="../media/img/gallery/gallery4.jpg">
                             <figcaption>
                                 <h3>Crankworx 2023</h3>
-                                <p>"But suppose we were to teach creationism. What would be the content of the teaching? Merely that a creatore formed the universe and all specias of life ready-made? Nothing? No details?"</p>
+                                <p>"DESC"</p>
                             </figcaption>
                             <a href="#"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery8.jpg">
                             <figcaption>
-                                <h3>Philip K. Dick</h3>
-                                <p>"I, for one, bet on science as helping us. I have yet to see how it fundamentally endagers us, even with the H-bomb lurking about. Science has given us more lives than it has taken; we must remember that"</p>
+                                <h3>FIS Junior/U18 Nordic Championships 2023</h3>
+                                <p>"DESC"</p>
                             </figcaption>
                             <a href="#"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
                             <figcaption>
-                                <h3>Jules Verne</h3>
-                                <p>"The moon, by her comparative proximity, and the constantly varying appearances produced by her several phases, has always occupied a considerable share of the attention of the inhabitants of Earth."</p>
+                                <h3>Foon Skis - David Peatfield</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Green River Motocross</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Knolly Bikes - Sergi Massot</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Mekong</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Nicklaus North Golf Course + Table Nineteen</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Partners In Tourism - Invitaional Golf Tournament 2023+2024</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Treeline Aerial</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>UBC Ski and Board Club</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>VRCA Awards of Excellence Gala 2023</h3>
+                                <p>"Vancouver Regional Construction Association"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Whistler Naturalists</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>WORCA</h3>
+                                <p>"DESC"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Whistler Real Estate Co.</h3>
+                                <p>"DESC"</p>
                             </figcaption>
                             <a href="#"></a>
                         </figure>
@@ -201,7 +254,6 @@
                 </section>
             </div>
         </div>
-
 
     </div>
 

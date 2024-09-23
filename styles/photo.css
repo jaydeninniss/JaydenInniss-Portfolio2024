@@ -78,7 +78,7 @@ main {
 }
 
 .figure {
-    background: #1d1d1d;
+    background: var(--jigrey);
     display: flex;
     margin: 10px;
     flex-basis: 48%;
@@ -98,13 +98,13 @@ main {
 /* -------------------------------------------------------------------- */
 
 .section-6 {
-    background: #1d1d1d;
+    background: var(--jigrey);
     color: var(--jilightgreen);
 }
 
 .section-6 .figure {
     text-align: left;
-    background: #1d1d1d;
+    background: #000;
     font-size: 16px;
 }
 
@@ -200,7 +200,7 @@ main {
 
 .section-6 .figure:hover img,
 .section-6 .figure.hover img {
-    opacity: 0.4;
+    opacity: 0.2;
 }
 
 .section-6 .figure:hover figcaption:before,
