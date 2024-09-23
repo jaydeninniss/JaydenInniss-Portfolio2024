@@ -71,9 +71,6 @@
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
-
-
-
         <div class="adventure">
             <div class="header-banner">
                 <h2>Adventure</h2>
@@ -174,10 +171,34 @@
             </div>
 
             <div class="grid">
-            <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery29.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery30.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery31.jpg" alt="Gallery Image - To be organized and catagorized"></div>
-                <div class="grid-item"><img loading="lazy" src="../media/img/gallery/gallery32.jpeg" alt="Gallery Image - To be organized and catagorized"></div>
+                <section class="section-6">
+                    <div class="row">
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery4.jpg">
+                            <figcaption>
+                                <h3>Crankworx 2023</h3>
+                                <p>"But suppose we were to teach creationism. What would be the content of the teaching? Merely that a creatore formed the universe and all specias of life ready-made? Nothing? No details?"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery8.jpg">
+                            <figcaption>
+                                <h3>Philip K. Dick</h3>
+                                <p>"I, for one, bet on science as helping us. I have yet to see how it fundamentally endagers us, even with the H-bomb lurking about. Science has given us more lives than it has taken; we must remember that"</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                        <figure class="figure">
+                            <img src="../media/img/gallery/gallery19.jpeg">
+                            <figcaption>
+                                <h3>Jules Verne</h3>
+                                <p>"The moon, by her comparative proximity, and the constantly varying appearances produced by her several phases, has always occupied a considerable share of the attention of the inhabitants of Earth."</p>
+                            </figcaption>
+                            <a href="#"></a>
+                        </figure>
+                    </div>
+                </section>
             </div>
         </div>
 
