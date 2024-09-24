@@ -71,13 +71,13 @@
         include 'db/connect.php'; 
         $id = $_GET['id'];
 
-        $title = $sets->query('SELECT * FROM sets WHERE set_id=' . $id);
-        $set_title = $title->fetch_assoc()
+        $result2 = $imgs->query('SELECT * FROM sets WHERE set_id=' . $id);
+        $title = $result2->fetch_assoc()
     ?>
 
     <div class="content-container">
         <div class="header-banner">
-            <h2><?php echo $set_title['set_title']; ?></h2>
+            <h2><?php echo $title['set_title']; ?></h2>
         </div>
         <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
 
