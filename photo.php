@@ -133,14 +133,21 @@
             <div class="grid">
                 <section class="section-6">
                     <div class="row">
+
+                    <?php while($img = $result->fetch_assoc()) { ?>
+
                         <figure class="figure">
                             <img src="<?php echo $title['set_cover']; ?>">
                             <figcaption>
                                 <h3><?php echo $title['set_title']; ?></h3>
-                                <p>"DESC"</p>
+                                <p>"<?php echo $title['set_desc']; ?>"</p>
                             </figcaption>
-                            <a href="photo-project?id=1"></a>
+                            <a href="photo-project?id=<?php echo $title['set_title']; ?>"></a>
                         </figure>
+
+                        <?php } ?>
+
+
                         <figure class="figure">
                         <img src="<?php echo $title['set_cover'[1]]; ?>">
                             <figcaption>
