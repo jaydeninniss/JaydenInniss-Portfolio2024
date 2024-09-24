@@ -111,7 +111,7 @@
                     data-pswp-width="1920"
                     data-pswp-height="1280"
                     target="_blank">
-                    <img src="<?php echo $img['photo_path']; ?>.jpeg" alt=""/>
+                    <img loading="lazy" src="<?php echo $img['photo_path']; ?>.jpeg" alt=""/>
                 </a>
 
                 <?php }; ?>

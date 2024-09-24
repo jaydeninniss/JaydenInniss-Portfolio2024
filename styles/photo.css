@@ -9,7 +9,7 @@ main {
   align-items: center;
 
   #newmedia-hero-bg {
-    background-image: url("../media/img/photo-hero.jpg");
+    background-image: url("../media/img/gallery/photo-hero.jpg");
     background-size: cover;
     position: relative;
     width: 100%;
@@ -23,6 +23,7 @@ main {
   justify-content: center;
 
   .header-banner {
+    display: flex;
     background-color: var(--jigrey);
     width: 100vw;
     height: 250px;
@@ -31,6 +32,7 @@ main {
     background-position: top left, top right;
     background-repeat: no-repeat;
     text-align: center;
+    justify-content: center;
 
     h2 {
       color: white;
