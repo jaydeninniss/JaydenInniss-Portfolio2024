@@ -2,13 +2,13 @@ main {
   position: absolute;
 }
 
-#newmedia-hero {
+#photo-hero {
   display: flex;
   height: 900px;
   overflow: hidden;
   align-items: center;
 
-  #newmedia-hero-bg {
+  #photo-hero-bg {
     background-image: url("../media/img/gallery/photo-hero.jpg");
     background-size: cover;
     position: relative;

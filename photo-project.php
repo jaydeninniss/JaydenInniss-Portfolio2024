@@ -62,8 +62,8 @@
     <main>
 
     <!-- HERO IMAGE -->
-    <div id="newmedia-hero">
-        <div id="newmedia-hero-bg"></div>
+    <div id="photo-hero">
+        <div id="photo-hero-bg"></div>
     </div>
     <!-- END HERO IMAGE -->
 
