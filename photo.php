@@ -123,13 +123,18 @@
                 <h2>Commercial</h2>
             </div>
 
+            <?php 
+                $result2 = $imgs->query('SELECT * FROM sets');
+                $title = $result2->fetch_assoc();
+            ?>
+
             <div class="grid">
                 <section class="section-6">
                     <div class="row">
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery4.jpg">
                             <figcaption>
-                                <h3>Crankworx</h3>
+                                <h3><?php echo $title['set_title'[0]]; ?></h3>
                                 <p>"DESC"</p>
                             </figcaption>
                             <a href="photo-project?id=1"></a>
@@ -148,7 +153,7 @@
                                 <h3>Foon Skis - David Peatfield</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=3"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -156,7 +161,7 @@
                                 <h3>Green River Motocross</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=4"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -164,7 +169,7 @@
                                 <h3>Knolly Bikes - Sergi Massot</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=5"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -172,7 +177,7 @@
                                 <h3>Mekong</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=6"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -180,7 +185,7 @@
                                 <h3>Nicklaus North Golf Course + Table Nineteen</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=7"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -188,7 +193,7 @@
                                 <h3>Partners In Tourism - Invitaional Golf Tournament 2023+2024</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=8"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -196,7 +201,7 @@
                                 <h3>Treeline Aerial</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=9"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -204,7 +209,7 @@
                                 <h3>UBC Ski and Board Club</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=10"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -212,7 +217,7 @@
                                 <h3>VRCA Awards of Excellence Gala 2023</h3>
                                 <p>"Vancouver Regional Construction Association"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=11"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -220,7 +225,7 @@
                                 <h3>Whistler Naturalists</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=12"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -228,7 +233,7 @@
                                 <h3>WORCA</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=13"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
@@ -236,7 +241,7 @@
                                 <h3>Whistler Real Estate Co.</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="#"></a>
+                            <a href="photo-project?id=14"></a>
                         </figure>
                     </div>
                 </section>
