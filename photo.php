@@ -134,7 +134,7 @@
                 <section class="section-6">
                     <div class="row">
 
-                    <?php while($img = $result->fetch_assoc()) { ?>
+                    <?php while($title = $result2->fetch_assoc()) { ?>
 
                         <figure class="figure">
                             <img src="<?php echo $title['set_cover']; ?>">
