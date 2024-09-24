@@ -82,12 +82,12 @@
             while($img = $result->fetch_assoc()) {
         ?>
 
-        <a href="<?php echo $img['photo_path']; ?>.jpeg"
+        <a href="<?php echo $img['photo_path']; echo $img['file']?>"
             class="grid-item"
             data-pswp-width="<?php echo $img['width']; ?>"
             data-pswp-height="<?php echo $img['height']; ?>"
             target="_blank">
-            <img src="<?php echo $img['photo_path']; ?>.jpeg" alt=""/>
+            <img src="<?php echo $img['photo_path']; echo $img['file'];?>" alt=""/>
         </a>
 
         <?php }; ?>
