@@ -64,8 +64,8 @@
     <?php include 'db/connect.php';?>
 
     <?php 
-        $result2 = $imgs->query('SELECT * FROM sets');
-        // $title = $result2->fetch_assoc();
+        $result2 = $imgs->query('SELECT * FROM "sets"');
+        $title = $result2->fetch_assoc();
     ?>
 
     <main>
@@ -126,7 +126,7 @@
         <div id="commercial">
             <div class="header-banner">
                 <h2>Commercial
-                    <?php echo var_dump($result2); ?>
+                    <?php echo var_dump($title); ?>
                 </h2>
             </div>
 
