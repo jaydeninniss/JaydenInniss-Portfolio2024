@@ -120,7 +120,9 @@
 
         <div id="commercial">
             <div class="header-banner">
-                <h2>Commercial</h2>
+                <h2>Commercial
+                    <?php echo var_dump($title); ?>
+                </h2>
             </div>
 
             <?php 
@@ -134,8 +136,7 @@
                         <figure class="figure">
                             <img src="<?php echo $title['set_cover']; ?>">
                             <figcaption>
-                                <h3><?php echo var_dump($title);
-                                echo $title['set_title']; ?></h3>
+                                <h3><?php echo $title['set_title']; ?></h3>
                                 <p>"DESC"</p>
                             </figcaption>
                             <a href="photo-project?id=1"></a>
