@@ -63,6 +63,11 @@
     <?php include "parts/hamburger.php" ?>
     <?php include 'db/connect.php';?>
 
+    <?php 
+        $result2 = $imgs->query('SELECT * FROM sets');
+        $title = $result2->fetch_assoc();
+    ?>
+
     <main>
 
     <!-- HERO IMAGE -->
@@ -124,11 +129,6 @@
                     <?php echo var_dump($title); ?>
                 </h2>
             </div>
-
-            <?php 
-                $result2 = $imgs->query('SELECT * FROM sets');
-                $title = $result2->fetch_assoc();
-            ?>
 
             <div class="grid">
                 <section class="section-6">
