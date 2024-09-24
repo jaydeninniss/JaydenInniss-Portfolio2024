@@ -91,8 +91,8 @@
         }
 
         $id = $_GET['id'];
-        $result = $imgs->query('SELECT * FROM imgs WHERE id=' . $id);
-        $title = $result->fetch_assoc();
+        $result = $imgs->query('SELECT * FROM sets WHERE set_id=' . $id);
+        $set = $result->fetch_assoc();
         
 
     ?>
@@ -102,13 +102,24 @@
             <h2><?php echo $title['title']; ?></h2>
         </div>
         <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
-            <a href=""
-                class="grid-item"
-                data-pswp-width="1920"
-                data-pswp-height="1280"
-                target="_blank">
-                <img src="" alt=""/>
-            </a>
+
+        <?php
+        $result = $imgs->query('SELECT * FROM imgs WHERE set_id=' . $id);
+        while($img = $result->fetch_assoc()) {
+        ?>
+
+        <a href="<?php echo $img['photo_path']; ?>"
+            class="grid-item"
+            data-pswp-width="1920"
+            data-pswp-height="1280"
+            target="_blank">
+            <img src="<?php echo $img['photo_path']; ?>" alt=""/>
+        </a>
+
+        <?php }; ?>
+
+
+
             <a href="../media/img/gallery/gallery16.jpeg"
                 class="grid-item"
                 data-pswp-width="1920"
@@ -116,20 +127,7 @@
                 target="_blank">
                 <img src="../media/img/gallery/gallery16.jpeg" alt="" class="grid-item"/>
             </a>
-            <a href="../media/img/gallery/gallery17.jpeg"
-                class="grid-item"
-                data-pswp-width="1669"
-                data-pswp-height="2500"
-                target="_blank">
-                <img src="../media/img/gallery/gallery17.jpeg" alt="" class="grid-item"/>
-            </a>
-            <a href="../media/img/gallery/gallery18.jpeg"
-                class="grid-item"
-                data-pswp-width="1669"
-                data-pswp-height="2500"
-                target="_blank">
-                <img src="../media/img/gallery/gallery18.jpeg" alt="" class="grid-item"/>
-            </a>
+
         </div>
     </div>
 
