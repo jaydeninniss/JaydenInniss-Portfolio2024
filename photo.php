@@ -85,8 +85,8 @@
 
                 <a href="<?php echo $img['photo_path']; ?>.jpeg"
                     class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
+                    data-pswp-width="<?php echo $img['width']; ?>"
+                    data-pswp-height="<?php echo $img['height']; ?>"
                     target="_blank">
                     <img src="<?php echo $img['photo_path']; ?>.jpeg" alt=""/>
                 </a>
