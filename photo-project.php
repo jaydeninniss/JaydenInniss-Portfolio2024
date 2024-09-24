@@ -71,7 +71,7 @@
 
     <div class="content-container">
         <div class="header-banner">
-            <h2><?php echo $set['set_title']; ?></h2>
+            <h2><?php echo $sets['set_title']; ?></h2>
         </div>
         <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
 
