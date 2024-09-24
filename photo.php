@@ -65,7 +65,7 @@
 
     <?php 
         $result2 = $imgs->query('SELECT * FROM sets');
-        $title = $result2->fetch_assoc();
+        // $title = $result2->fetch_assoc();
     ?>
 
     <main>
@@ -126,7 +126,7 @@
         <div id="commercial">
             <div class="header-banner">
                 <h2>Commercial
-                    <?php echo var_dump($title); ?>
+                    <?php echo var_dump($result2); ?>
                 </h2>
             </div>
 
