@@ -64,7 +64,7 @@
     <?php include 'db/connect.php';?>
 
     <?php 
-        $result2 = $imgs->query('SELECT * FROM "sets"');
+        $result2 = $imgs->query('SELECT * FROM sets');
         $title = $result2->fetch_assoc();
     ?>
 
