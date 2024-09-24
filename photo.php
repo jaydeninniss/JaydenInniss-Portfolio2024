@@ -134,7 +134,7 @@
                         <figure class="figure">
                             <img src="<?php echo $title['set_cover'[0]]; ?>">
                             <figcaption>
-                                <h3><?php echo $title['set_title'[0]]; ?></h3>
+                                <h3><?php echo $title['set_title']; ?></h3>
                                 <p>"DESC"</p>
                             </figcaption>
                             <a href="photo-project?id=1"></a>
