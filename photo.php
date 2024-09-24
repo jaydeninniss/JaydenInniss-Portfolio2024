@@ -124,9 +124,7 @@
 
         <div id="commercial">
             <div class="header-banner">
-                <h2>Commercial
-                    <?php echo var_dump($title); ?>
-                </h2>
+                <h2>Commercial</h2>
             </div>
 
             <div class="grid">
@@ -141,9 +139,10 @@
                                     <h3><?php echo $title['set_title']; ?></h3>
                                     <p>"<?php echo $title['set_desc']; ?>"</p>
                                 </figcaption>
-                                <a href="photo-project?id=<?php echo $title['set_title']; ?>"></a>
+                                <a href="photo-project?id=<?php echo $title['set_id']; ?>"></a>
                             </figure>
 
+                            <!-- Hello future Jayden. For mobile, make the hover state constant and display none the description. -->
                         <?php } ?>
                     </div>
                 </section>
