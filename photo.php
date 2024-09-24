@@ -132,7 +132,7 @@
                 <section class="section-6">
                     <div class="row">
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery4.jpg">
+                            <img src="<?php echo $title['set_cover'[0]]; ?>">
                             <figcaption>
                                 <h3><?php echo $title['set_title'[0]]; ?></h3>
                                 <p>"DESC"</p>
@@ -140,7 +140,7 @@
                             <a href="photo-project?id=1"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery8.jpg">
+                        <img src="<?php echo $title['set_cover'[1]]; ?>">
                             <figcaption>
                                 <h3>FIS Junior/U18 Nordic Championships 2023</h3>
                                 <p>"DESC"</p>
@@ -148,7 +148,7 @@
                             <a href="photo-project?id=2"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[2]]; ?>">
                             <figcaption>
                                 <h3>Foon Skis - David Peatfield</h3>
                                 <p>"DESC"</p>
