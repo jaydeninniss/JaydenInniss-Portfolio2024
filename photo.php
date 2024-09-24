@@ -156,7 +156,7 @@
                             <a href="photo-project?id=3"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[3]]; ?>">
                             <figcaption>
                                 <h3>Green River Motocross</h3>
                                 <p>"DESC"</p>
@@ -164,7 +164,7 @@
                             <a href="photo-project?id=4"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[4]]; ?>">
                             <figcaption>
                                 <h3>Knolly Bikes - Sergi Massot</h3>
                                 <p>"DESC"</p>
@@ -172,7 +172,7 @@
                             <a href="photo-project?id=5"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[5]]; ?>">
                             <figcaption>
                                 <h3>Mekong</h3>
                                 <p>"DESC"</p>
@@ -180,7 +180,7 @@
                             <a href="photo-project?id=6"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[6]]; ?>">
                             <figcaption>
                                 <h3>Nicklaus North Golf Course + Table Nineteen</h3>
                                 <p>"DESC"</p>
@@ -188,7 +188,7 @@
                             <a href="photo-project?id=7"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[7]]; ?>">
                             <figcaption>
                                 <h3>Partners In Tourism - Invitaional Golf Tournament 2023+2024</h3>
                                 <p>"DESC"</p>
@@ -196,7 +196,7 @@
                             <a href="photo-project?id=8"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[8]]; ?>">
                             <figcaption>
                                 <h3>Treeline Aerial</h3>
                                 <p>"DESC"</p>
@@ -204,7 +204,7 @@
                             <a href="photo-project?id=9"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[9]]; ?>">
                             <figcaption>
                                 <h3>UBC Ski and Board Club</h3>
                                 <p>"DESC"</p>
@@ -212,7 +212,7 @@
                             <a href="photo-project?id=10"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[10]]; ?>">
                             <figcaption>
                                 <h3>VRCA Awards of Excellence Gala 2023</h3>
                                 <p>"Vancouver Regional Construction Association"</p>
@@ -220,7 +220,7 @@
                             <a href="photo-project?id=11"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[11]]; ?>">
                             <figcaption>
                                 <h3>Whistler Naturalists</h3>
                                 <p>"DESC"</p>
@@ -228,7 +228,7 @@
                             <a href="photo-project?id=12"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[12]]; ?>">
                             <figcaption>
                                 <h3>WORCA</h3>
                                 <p>"DESC"</p>
@@ -236,7 +236,7 @@
                             <a href="photo-project?id=13"></a>
                         </figure>
                         <figure class="figure">
-                            <img src="../media/img/gallery/gallery19.jpeg">
+                        <img src="<?php echo $title['set_cover'[13]]; ?>">
                             <figcaption>
                                 <h3>Whistler Real Estate Co.</h3>
                                 <p>"DESC"</p>
