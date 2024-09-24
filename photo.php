@@ -65,7 +65,6 @@
 
     <?php 
         $result2 = $imgs->query('SELECT * FROM sets');
-        // $title = $result2->fetch_assoc();
     ?>
 
     <main>
@@ -134,124 +133,18 @@
                 <section class="section-6">
                     <div class="row">
 
-                    <?php while($title = $result2->fetch_assoc()) { ?>
+                        <?php while($title = $result2->fetch_assoc()) { ?>
 
-                        <figure class="figure">
-                            <img src="<?php echo $title['set_cover']; ?>">
-                            <figcaption>
-                                <h3><?php echo $title['set_title']; ?></h3>
-                                <p>"<?php echo $title['set_desc']; ?>"</p>
-                            </figcaption>
-                            <a href="photo-project?id=<?php echo $title['set_title']; ?>"></a>
-                        </figure>
+                            <figure class="figure">
+                                <img src="<?php echo $title['set_cover']; ?>">
+                                <figcaption>
+                                    <h3><?php echo $title['set_title']; ?></h3>
+                                    <p>"<?php echo $title['set_desc']; ?>"</p>
+                                </figcaption>
+                                <a href="photo-project?id=<?php echo $title['set_title']; ?>"></a>
+                            </figure>
 
                         <?php } ?>
-
-
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[1]]; ?>">
-                            <figcaption>
-                                <h3>FIS Junior/U18 Nordic Championships 2023</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=2"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[2]]; ?>">
-                            <figcaption>
-                                <h3>Foon Skis - David Peatfield</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=3"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[3]]; ?>">
-                            <figcaption>
-                                <h3>Green River Motocross</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=4"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[4]]; ?>">
-                            <figcaption>
-                                <h3>Knolly Bikes - Sergi Massot</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=5"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[5]]; ?>">
-                            <figcaption>
-                                <h3>Mekong</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=6"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[6]]; ?>">
-                            <figcaption>
-                                <h3>Nicklaus North Golf Course + Table Nineteen</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=7"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[7]]; ?>">
-                            <figcaption>
-                                <h3>Partners In Tourism - Invitaional Golf Tournament 2023+2024</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=8"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[8]]; ?>">
-                            <figcaption>
-                                <h3>Treeline Aerial</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=9"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[9]]; ?>">
-                            <figcaption>
-                                <h3>UBC Ski and Board Club</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=10"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[10]]; ?>">
-                            <figcaption>
-                                <h3>VRCA Awards of Excellence Gala 2023</h3>
-                                <p>"Vancouver Regional Construction Association"</p>
-                            </figcaption>
-                            <a href="photo-project?id=11"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[11]]; ?>">
-                            <figcaption>
-                                <h3>Whistler Naturalists</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=12"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[12]]; ?>">
-                            <figcaption>
-                                <h3>WORCA</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=13"></a>
-                        </figure>
-                        <figure class="figure">
-                        <img src="<?php echo $title['set_cover'[13]]; ?>">
-                            <figcaption>
-                                <h3>Whistler Real Estate Co.</h3>
-                                <p>"DESC"</p>
-                            </figcaption>
-                            <a href="photo-project?id=14"></a>
-                        </figure>
                     </div>
                 </section>
             </div>
