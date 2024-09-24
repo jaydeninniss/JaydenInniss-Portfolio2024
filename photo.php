@@ -65,7 +65,7 @@
 
     <?php 
         $result2 = $imgs->query('SELECT * FROM sets');
-        $title = $result2->fetch_assoc();
+        // $title = $result2->fetch_assoc();
     ?>
 
     <main>
