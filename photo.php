@@ -108,8 +108,8 @@
 
                 <a href="<?php echo $img['photo_path']; ?>.jpeg"
                     class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
+                    data-pswp-width="<?php echo $img['width']; ?>"
+                    data-pswp-height="<?php echo $img['height']; ?>"
                     target="_blank">
                     <img loading="lazy" src="<?php echo $img['photo_path']; ?>.jpeg" alt=""/>
                 </a>
@@ -129,10 +129,10 @@
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery4.jpg">
                             <figcaption>
-                                <h3>Crankworx 2023</h3>
+                                <h3>Crankworx</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="photo-project?id=0"></a>
+                            <a href="photo-project?id=1"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery8.jpg">
@@ -140,7 +140,7 @@
                                 <h3>FIS Junior/U18 Nordic Championships 2023</h3>
                                 <p>"DESC"</p>
                             </figcaption>
-                            <a href="photo-project?id=1"></a>
+                            <a href="photo-project?id=2"></a>
                         </figure>
                         <figure class="figure">
                             <img src="../media/img/gallery/gallery19.jpeg">
