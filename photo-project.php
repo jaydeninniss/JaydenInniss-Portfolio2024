@@ -99,7 +99,7 @@
 
     <div class="content-container">
         <div class="header-banner">
-            <h2><?php echo $title['title']; ?></h2>
+            <h2><?php echo $set['set_title']; ?></h2>
         </div>
         <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
 
@@ -117,16 +117,6 @@
         </a>
 
         <?php }; ?>
-
-
-
-            <a href="../media/img/gallery/gallery16.jpeg"
-                class="grid-item"
-                data-pswp-width="1920"
-                data-pswp-height="1280"
-                target="_blank">
-                <img src="../media/img/gallery/gallery16.jpeg" alt="" class="grid-item"/>
-            </a>
 
         </div>
     </div>
