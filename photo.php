@@ -61,6 +61,7 @@
 
     <?php include "./parts/header.php" ?>
     <?php include "parts/hamburger.php" ?>
+    <?php include 'db/connect.php';?>
 
     <main>
 
@@ -75,35 +76,22 @@
             <div class="header-banner">
                 <h2>Adventure</h2>
             </div>
+
             <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
-                <a href="../media/img/gallery/gallery15.jpeg"
+                <?php
+                    $result = $imgs->query('SELECT * FROM imgs WHERE set_id=99');
+                    while($img = $result->fetch_assoc()) {
+                ?>
+
+                <a href="<?php echo $img['photo_path']; ?>.jpeg"
                     class="grid-item"
                     data-pswp-width="1920"
                     data-pswp-height="1280"
                     target="_blank">
-                    <img src="../media/img/gallery/gallery15.jpeg" alt=""/>
+                    <img src="<?php echo $img['photo_path']; ?>.jpeg" alt=""/>
                 </a>
-                <a href="../media/img/gallery/gallery16.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="../media/img/gallery/gallery16.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="../media/img/gallery/gallery17.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1669"
-                    data-pswp-height="2500"
-                    target="_blank">
-                    <img src="../media/img/gallery/gallery17.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="../media/img/gallery/gallery18.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1669"
-                    data-pswp-height="2500"
-                    target="_blank">
-                    <img src="../media/img/gallery/gallery18.jpeg" alt="" class="grid-item"/>
-                </a>
+
+                <?php }; ?>
             </div>
         </div>
 
@@ -112,112 +100,21 @@
                 <h2>Landscape</h2>
             </div>
 
-            <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_1.jpeg"
+            <div class="pswp-gallery pswp-gallery--single-column grid landscape" id="my-gallery">
+                <?php
+                    $result = $imgs->query('SELECT * FROM imgs WHERE set_id=98');
+                    while($img = $result->fetch_assoc()) {
+                ?>
+
+                <a href="<?php echo $img['photo_path']; ?>.jpeg"
                     class="grid-item"
                     data-pswp-width="1920"
                     data-pswp-height="1280"
                     target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_1.jpeg" alt="" class="grid-item"/>
+                    <img src="<?php echo $img['photo_path']; ?>.jpeg" alt=""/>
                 </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_2.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_2.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_3.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1080"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_3.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_4.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_4.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_4.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_4.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_5.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_5.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_6.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_6.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_7.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_7.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_8.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1080"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_8.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_9.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_9.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_10.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_10.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_11.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_11.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_12.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_12.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_13.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="1280"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_13.jpeg" alt="" class="grid-item"/>
-                </a>
-                <a href="/media/img/gallery/landscape/jaydeninniss_landscape_14.jpeg"
-                    class="grid-item"
-                    data-pswp-width="1920"
-                    data-pswp-height="650"
-                    target="_blank">
-                    <img src="/media/img/gallery/landscape/jaydeninniss_landscape_14.jpeg" alt="" class="grid-item"/>
-                </a>
+
+                <?php }; ?>
             </div>
         </div>
 

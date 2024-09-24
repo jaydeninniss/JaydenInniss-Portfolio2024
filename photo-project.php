@@ -59,9 +59,6 @@
     <?php include "./parts/header.php" ?>
     <?php include "parts/hamburger.php" ?>
 
-
-    
-
     <main>
 
     <!-- HERO IMAGE -->
@@ -70,32 +67,7 @@
     </div>
     <!-- END HERO IMAGE -->
 
-    <?php
-        $db_host = 'localhost';
-        $db_user = 'innis301_jayden';
-        $db_password = 'Whistler19!';
-        $db_db = 'innis301_img-gallery';
-
-        $imgs = @new mysqli(
-            $db_host,
-            $db_user,
-            $db_password,
-            $db_db
-        );
-        
-        if ($imgs->connect_error) {
-            echo 'Errno: '.$mysqli->connect_errno;
-            echo '<br>';
-            echo 'Error: '.$mysqli->connect_error;
-            exit();
-        }
-
-        $id = $_GET['id'];
-        $result = $imgs->query('SELECT * FROM sets WHERE set_id=' . $id);
-        $set = $result->fetch_assoc();
-        
-
-    ?>
+    <?php include 'db/connect.php'; ?>
 
     <div class="content-container">
         <div class="header-banner">
@@ -104,16 +76,18 @@
         <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
 
         <?php
-        $result = $imgs->query('SELECT * FROM imgs WHERE set_id=' . $id);
-        while($img = $result->fetch_assoc()) {
+            $id = $_GET['id'];
+
+            $result = $imgs->query('SELECT * FROM imgs WHERE set_id=' . $id);
+            while($img = $result->fetch_assoc()) {
         ?>
 
-        <a href="<?php echo $img['photo_path']; ?>"
+        <a href="<?php echo $img['photo_path']; ?>.jpeg"
             class="grid-item"
             data-pswp-width="1920"
             data-pswp-height="1280"
             target="_blank">
-            <img src="<?php echo $img['photo_path']; ?>" alt=""/>
+            <img src="<?php echo $img['photo_path']; ?>.jpeg" alt=""/>
         </a>
 
         <?php }; ?>
