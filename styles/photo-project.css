@@ -1,0 +1,11 @@
+.third {
+    flex-basis: 29%;
+}
+
+.half {
+    flex-basis: 48%;
+}
+
+.full {
+    flex-basis: 98%;
+}

@@ -89,7 +89,7 @@
         ?>
 
         <a href="<?php echo $img['photo_path']; echo $img['file']?>"
-            class="grid-item"
+            class="grid-item <?php echo $img['flexclass']; ?>"
             data-pswp-width="<?php echo $img['width']; ?>"
             data-pswp-height="<?php echo $img['height']; ?>"
             target="_blank">
