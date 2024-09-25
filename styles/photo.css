@@ -51,20 +51,20 @@ main {
     justify-content: center;
     /* margin: 0px 20px 0px 20px; */
   }
+}
 
-  .grid-item {
-    flex-basis: 48%;
+.grid-item {
+  flex-basis: 48%;
 
-    @media screen and (min-width: 1200px) {
-      flex-basis: 24%;
-    }
+  @media screen and (min-width: 1200px) {
+    flex-basis: 24%;
+  }
 
-    img {
-      border-radius: 0;
-      width: 100%;
-      object-fit: fill;
-      object-position: center;
-    }
+  img {
+    border-radius: 0;
+    width: 100%;
+    object-fit: fill;
+    object-position: center;
   }
 }
 
