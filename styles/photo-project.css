@@ -1,11 +1,14 @@
-.third {
-    flex-basis: 29%;
-}
+@media screen and (min-width: 1200px) {
+    .third {
+        flex-basis: 29%;
+    }
 
-.half {
-    flex-basis: 48%;
-}
+    .half {
+        flex-basis: 48%;
+    }
 
-.full {
-    flex-basis: 98%;
+    .full {
+        flex-basis: 98%;
+    }
+
 }
