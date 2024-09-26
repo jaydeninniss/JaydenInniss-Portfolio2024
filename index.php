@@ -149,19 +149,19 @@
             </div>
         </a>
 
-        <a href="about">
-            <div class="bio-video">
-                <video autoplay muted loop alt="Video Animation of Jayden Inniss' Logo">
-                    <source src="./media/video/jaydeninnissbumper.mp4" type="video/mp4" />
-                </video>
-            </div>
-        </a>
 
-        <?php include "parts/footer.php" ?>
+
     </div>  
 
-    <script src=" js/parallaxhero/parallaxhero_home.js"></script>
+    <div class="bio-video">
+        <canvas id="logo-animation" />
+    </div>
+
+    <?php include "parts/footer.php" ?>
+
+
     <script src="js/home.js"></script>
+    <script src="/js/parallaxhero/parallaxhero_home.js"></script>
 
 </body>
 </html>
