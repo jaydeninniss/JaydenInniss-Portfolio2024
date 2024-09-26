@@ -24,11 +24,11 @@ const context = canvas.getContext("2d");
 canvas.width = 1920;
 canvas.height = 1080;
 
-const frameCount = 272;
+const frameCount = 265;
 const currentFrame = (index) =>
   `/media/logo/animation/logo-animation-${(index + 1)
     .toString()
-    .padStart(0, "0")}.jpeg`;
+    .padStart(4, "0")}.jpeg`;
 
 const images = [];
 const airpods = {

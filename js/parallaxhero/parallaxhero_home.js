@@ -66,12 +66,12 @@ if(window.innerWidth > 1200){
             // Nav Bar Colour Change 
             var fontChange = gsap.timeline({
             scrollTrigger: {
-                trigger: 'body',
-                start: "110%",
-                end: "120%",
+                trigger: '.content',
+                start: "-15%",
+                end: "-5%",
                 scrub:true,
                 once: false,
-                // markers: true
+                markers: false
             },
             defaults:{duration:1}
             })
@@ -81,9 +81,9 @@ if(window.innerWidth > 1200){
 
             var fontChangelinks = gsap.timeline({
                 scrollTrigger: {
-                    trigger: 'body',
-                    start: "110%",
-                    end: "120%",
+                    trigger: '.content',
+                    start: "-15%",
+                    end: "-5%",
                     scrub:true,
                     once: false,
                     markers: false
@@ -162,12 +162,12 @@ if(window.innerWidth > 1200){
         // Nav Bar Colour Change 
             var fontChangelinks = gsap.timeline({
                 scrollTrigger: {
-                    trigger: 'body',
-                    start: "110%",
-                    end: "120%",
+                    trigger: '.about',
+                    start: "top top",
+                    end: "bottom bottom",
                     scrub:true,
                     once: false,
-                    markers: false
+                    markers: true
                 },
                 defaults:{duration:1}
                 })
