@@ -1,3 +1,7 @@
+#nav-newmedia {
+    text-decoration: underline;
+}
+
 /* HERO IMAGE SETUP */
 #newmedia-hero {
     display: flex;
