@@ -453,13 +453,13 @@ h3 {
     }
 }
 
-.videography:hover {
+/* .videography:hover {
     @media screen and (min-width: 1200px) {
     background-size: 106%;
     transition: all 0.4s ease;
     background-position: center;
     }
-}
+} */
 .videography:hover > .seemore-container > .seemore-text {
     transform: translateY(-15px);
 }
@@ -515,12 +515,12 @@ h3 {
     }
 }
 
-.newmedia:hover {
+/* .newmedia:hover {
     @media screen and (min-width: 1200px) {
     background-size: 106%;
     background-position: center;
     }
-}
+} */
 
 .newmedia:hover > .seemore-container > .seemore-text {
     transform: translateY(-15px);
