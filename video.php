@@ -23,7 +23,6 @@
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">
     <link rel="stylesheet" href="../styles/video.css">
-    <link rel="stylesheet" href="../styles/hamburger.css">
 
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
@@ -51,17 +50,27 @@
     <?php include "./parts/hamburger.php" ?>
 
     <!-- HERO IMAGE -->
-    <div id="newmedia-hero">
-        <div id="newmedia-hero-bg"></div>
-        <div id="newmedia-hero-text"><p id='hero'>Video Projects</p></div>
-        <div id="newmedia-hero-foreground"></div>
+    <div id="video-hero">
     </div>
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
-    <p>hello there</p>
-    <p>Video Projects will go here...soon!</p>
-    <?php include "./parts/footer.php" ?>
+
+                <div class="header-banner">
+                    <h2>Video Projects</h2>
+                </div>
+
+                <section class="video-holder">
+                    <h3>TITLE</h3>
+                    <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <p>Description</p>
+                </section>
+
+                <div class="header-banner" id="caboose">
+                    <h3><a href="#photo-hero">Back to Top</a></h3>
+                </div>
+                
+        <?php include "./parts/footer.php" ?>
     </div>
     </main>
 

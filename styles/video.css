@@ -1,3 +1,72 @@
 #nav-video {
     text-decoration: underline;
 }
+
+main {
+    position: absolute;
+}
+
+
+
+#photo-hero {
+    display: flex;
+    height: 900px;
+    overflow: hidden;
+    align-items: center;
+}
+
+.content-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .header-banner {
+        display: flex;
+        background-color: var(--jigrey);
+        width: 100vw;
+        height: 250px;
+        background-image: url("../media/topo/footer/left.png"),
+        url("../media/topo/footer/right.png");
+        background-position: top left, top right;
+        background-repeat: no-repeat;
+        text-align: center;
+        justify-content: center;
+
+        h2 {
+            color: white;
+            font-size: 48px;
+            padding: 60px;
+        }
+    }
+
+    .video-holder {
+        width: 60%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: flex-start;
+
+        .yt-video {
+            width: 100%;
+            aspect-ratio: 16/9;
+        }
+    }
+}
+
+#caboose {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    transition: all 0.2s ease;
+    background-image: none;
+}
+
+h3 {
+    transition: all 0.2s ease;
+}
+
+h3:hover {
+    transform: translateY(-5px);
+}
