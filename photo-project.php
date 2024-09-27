@@ -59,14 +59,6 @@
     <?php include "./parts/header.php" ?>
     <?php include "parts/hamburger.php" ?>
 
-    <main>
-
-    <!-- HERO IMAGE -->
-    <div id="photo-hero">
-        <div id="photo-hero-bg"></div>
-    </div>
-    <!-- END HERO IMAGE -->
-
     <?php 
         include 'db/connect.php'; 
         $id = $_GET['id'];
@@ -74,6 +66,16 @@
         $result2 = $imgs->query('SELECT * FROM sets WHERE set_id=' . $id);
         $title = $result2->fetch_assoc()
     ?>
+
+    <main>
+
+    <!-- HERO IMAGE -->
+    <div id="photo-hero">
+        <img src="<?php echo $title['set_cover']; ?>" alt="">
+    </div>
+    <!-- END HERO IMAGE -->
+
+
 
     <div class="content-container">
         <div class="header-banner">
