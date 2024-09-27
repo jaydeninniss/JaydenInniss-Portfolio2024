@@ -79,6 +79,7 @@
 
     <div class="content-container">
         <div class="header-banner">
+            <h3 id="first-back-btn"><a href="javascript:history.back()">← Back</a></h3>
             <h2><?php echo $title['set_title']; ?></h2>
         </div>
         <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
@@ -100,6 +101,9 @@
 
         <?php }; ?>
 
+        </div>
+        <div class="header-banner" id="caboose">
+            <h3><a href="javascript:history.back()">← Back</a></h3>
         </div>
     </div>
 

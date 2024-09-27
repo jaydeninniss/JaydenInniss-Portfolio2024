@@ -24,3 +24,25 @@
         
     }
 }
+
+#caboose {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    transition: all 0.2s ease;
+    background-image: none;
+}
+
+h3 {
+    transition: all 0.2s ease;
+}
+
+h3:hover {
+    transform: translateX(-15px);
+}
+
+#first-back-btn {
+    position: absolute;
+    left: 300px;
+    font-size: 24px;
+}
