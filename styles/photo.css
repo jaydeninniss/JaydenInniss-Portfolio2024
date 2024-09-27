@@ -107,6 +107,23 @@ main {
   }
 }
 
+#caboose {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  transition: all 0.2s ease;
+  background-image: none;
+}
+
+h3 {
+  transition: all 0.2s ease;
+}
+
+h3:hover {
+  transform: translateY(-5px);
+}
+
+
 /* CLIENT CARDS - Thanks Codepen! :) */
 
 .row {

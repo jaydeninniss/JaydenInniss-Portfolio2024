@@ -6,6 +6,10 @@
 @import url("hamburger.css");
 @import url("footer.css");
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: var(--jigrey);
 

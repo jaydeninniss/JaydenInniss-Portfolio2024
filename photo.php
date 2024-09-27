@@ -70,8 +70,8 @@
     <main>
 
     <!-- HERO IMAGE -->
-    <div id="newmedia-hero">
-        <div id="newmedia-hero-bg"></div>
+    <div id="photo-hero">
+        <div id="photo-hero-bg"></div>
     </div>
     <!-- END HERO IMAGE -->
 
@@ -147,6 +147,10 @@
                     </div>
                 </section>
             </div>
+        </div>
+
+        <div class="header-banner" id="caboose">
+            <h3><a href="#photo-hero">Back to Top</a></h3>
         </div>
 
     </div>
