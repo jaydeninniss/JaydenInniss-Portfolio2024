@@ -64,12 +64,30 @@
                     <h3>TITLE</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <p>Description</p>
+                    <button class="cta-button">
+                        <a class="cta" href="">
+                            Read More
+                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        </a>
+                    </button>
+                </section>
+
+                <section class="video-holder">
+                    <h3>TITLE</h3>
+                    <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <p>Description</p>
+                    <button class="cta-button">
+                        <a class="cta" href="">
+                            Read More
+                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        </a>
+                    </button>
                 </section>
 
                 <div class="header-banner" id="caboose">
-                    <h3><a href="#photo-hero">Back to Top</a></h3>
+                    <h3><a href="#video-hero">Back to Top</a></h3>
                 </div>
-                
+
         <?php include "./parts/footer.php" ?>
     </div>
     </main>

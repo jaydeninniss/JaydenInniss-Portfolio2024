@@ -47,6 +47,7 @@ main {
         flex-wrap: nowrap;
         justify-content: center;
         align-items: flex-start;
+        padding-bottom: 200px;
 
         .yt-video {
             width: 100%;
