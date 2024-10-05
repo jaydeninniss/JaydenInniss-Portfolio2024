@@ -61,39 +61,40 @@
                 </div>
 
                 <section class="video-holder">
-                    <h3>TITLE</h3>
+                    <h3>Indigenous Teachings at School District 48</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <p>Description</p>
-                    <button class="cta-button">
-                        <a class="cta" href="">
+                    <!-- <button class="cta-button">
+                        <a class="cta" href="#">
                             Read More
                             <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                         </a>
-                    </button>
+                    </button> -->
                 </section>
 
                 <section class="video-holder">
-                    <h3>TITLE</h3>
+                    <h3>Tummy Time Video Series - Sea to Sky Community Services</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <p>Description</p>
-                    <button class="cta-button">
+                    <iframe class="yt-video" src="https://www.youtube.com/embed/j9KbEd3iXu4?si=BqCjDCyqSFojXLj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                        <p>In collaboration with SSCS, I produced two videos explaining newborn babies' growth and development from crawling to walking. These educational videos are currently being used by local physicians as a resource for new parents.</p>
+                    <!-- <button class="cta-button">
                         <a class="cta" href="">
                             Read More
                             <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                         </a>
-                    </button>
+                    </button> -->
                 </section>
 
                 <section class="video-holder">
-                    <h3>TITLE</h3>
-                    <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <h3>Crystal Lodge - Interview with Ian McIntosh</h3>
+                    <iframe class="yt-video" src="https://www.youtube.com/embed/WUKQpHO5CeU?si=KpOMjsHg8wotM9ra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <p>Description</p>
-                    <button class="cta-button">
+                    <!-- <button class="cta-button">
                         <a class="cta" href="">
                             Read More
                             <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                         </a>
-                    </button>
+                    </button> -->
                 </section>
 
                 <div class="header-banner" id="caboose">
