@@ -20,6 +20,7 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    padding-top: 60px;
 
     .header-banner {
         display: flex;

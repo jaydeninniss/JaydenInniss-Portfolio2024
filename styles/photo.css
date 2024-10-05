@@ -13,7 +13,7 @@ main {
   align-items: center;
 
   #photo-hero-bg {
-    background-image: url("../media/img/gallery/photo-hero.jpg");
+    /* background-image: url("../media/img/gallery/photo-hero.jpg"); */
     background-size: cover;
     position: relative;
     width: 100%;
