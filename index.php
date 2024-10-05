@@ -66,7 +66,7 @@
             </div>
             <div class="about-right">
                 <h1>Jayden Inniss<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
-                <p>Growing up in Whistler, I have had the unique opportunity to collaborate with the world's top athletes and participate in incredible events!<br><br>Over the past five years, I have worked with Whistler businesses, community organizations and athletes to produce photo/video marketing content. Recently, I have been working in television broadcast events as a camera operator.</p>
+                <p>Over the past five years, I have built a freelance business, collaborating with various companies and organizations to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in both extreme sports and digital marketing, I create specialized marketing content tailored to outdoor enthusiasts like myself. I always make room in my pack for my camera!</p>
             </div>
         </div>
             
