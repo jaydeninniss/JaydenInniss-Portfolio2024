@@ -65,7 +65,7 @@
             </div>
 
             <div class="description-container">
-                <p>Growing up in Whistler, I have had the unique opportunity to collaborate with the world's top athletes and participate in incredible events! <br><br> Over the past five years, I have worked with Whistler businesses, community organizations and athletes to produce photo/video marketing content. Recently, I have been working in television broadcast events as a camera operator.</p>
+                <p>Over the past five years, I have built a freelance business, collaborating with various companies and organizations to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in both extreme sports and digital marketing, I create specialized marketing content tailored to outdoor enthusiasts like myself. I always make room in my pack for my camera!</p>
             </div>
 
             <div class="image-container"><img src="../media/img/jaydenthumbsup.JPG" id="about-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand"></div>
@@ -73,49 +73,31 @@
             <h3>I bring to the team a <span id="green-highlight"> high-energy infectious positivity!</span></h3>
         
             <div class="qa-container">
-                <div class="question">
+                <!-- <div class="question">
                     <h2>My Personal Mission</h2>
                 </div>
                 <div class="answer">
-                    <p>I am drawn to the ability to make people’s wishes a reality through my work! <br> <br>The stoke I share with a client when I can present a final deliverable is unmatched!<br> <br>I appreciate how lucky I am to call such a fun activity my job! Producing cool content while making people’s day is a privilege!</p>
-                </div>    
+                    <p>I am drawn to the ability to make people's wishes a reality through my work. The stoke I share with a client when I can present a final deliverable is unmatched.</p>
+                </div> -->
 
                 <div class="question">
-                    <h2>Adding skills to my tool belt!</h2>
+                    <h2>Adding skills to my tool belt</h2>
                 </div>
                 <div class="answer">
-                    <p>Despite having extensive knowledge/experience in many aspects of this industry, I thrive on constantly learning.</p>
-                    <div class="education-container">
-                        
-                        <div class="edu-left">
+                    <p>Despite having extensive knowledge/experience in many aspects of this industry, I was excited to round out my digital design/marketing skill set through this 2-year program at BCIT.</p>
+
                             <p class="education-title">New Media Design + Web Development<br>Diploma, April 2025</p>
-                            <p>During my New Media program at BCIT, I have rounded out my digital design skill set:</p>
+                            <p>During my New Media program at BCIT, I gained hands-on experience in the following disciplines:</p>
                             <ul>
                                 <li>Web Design + Development</li>
-                                <li>Multimedia Marketing</li>
+                                <li>Social Media Marketing</li>
                                 <li>UI/UX Design</li>
-                                <li>Storytelling</li>
+                                <li>Storytelling for Marketing</li>
                                 <li>Graphic Design + Branding</li>
                                 <li>Project Management</li>
                             </ul>
                         </div>
-                        <div class="edu-right">
-                            <div class="skill-bubble">
-                                <p class="education-title">Figma</p>
-                            </div>
-                            <div class="skill-bubble">
-                                <p class="education-title">HTML</p>
-                            </div>
-                            <div class="skill-bubble">
-                                <p class="education-title">CSS</p>
-                            </div>
-                            <div class="skill-bubble">
-                                <p class="education-title">Javascript</p>
-                            </div>
-                            <div class="skill-bubble">
-                                <p class="education-title">Adobe CC</p>
-                            </div>
-                            <!-- Dear future Jayden: Bento BOX! - HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
+                        <!-- Dear future Jayden: Bento BOX! - HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
                         </div>
                     </div>
                 </div>
@@ -142,7 +124,7 @@
                     <h2>My Days Off</h2>
                 </div>
                 <div class="answer">
-                    <p>I definitely fit the stereotype of a “Whistler Kid”. <br><br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping somewhere! <br><br> The natural beauty of my backyard (the Sea to Sky corridor) is a large inspiration for me, so I am drawn out to adventure again and again!<br><br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
+                    <p>I definitely fit the stereotype of a “Whistler Kid”. <br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping in my backyard, the Sea to Sky corridor!<br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
                     <div class="image-holder">
                         <div class="images" id="img1"  alt="Jayden Inniss smiling holding a camera">
                         </div>
