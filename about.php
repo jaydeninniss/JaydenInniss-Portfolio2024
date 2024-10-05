@@ -68,7 +68,7 @@
                 <p>Over the past five years, I have built a freelance business, collaborating with various companies and organizations to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in both extreme sports and digital marketing, I create specialized marketing content tailored to outdoor enthusiasts like myself. I always make room in my pack for my camera!</p>
             </div>
 
-            <div class="image-container"><img src="../media/img/jaydenthumbsup.JPG" id="about-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand"></div>
+            <!-- <div class="image-container"><img src="../media/img/jaydeninniss-profilepic.jpeg" id="about-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand"></div> -->
             
             <h3>I bring to the team a <span id="green-highlight"> high-energy infectious positivity!</span></h3>
         
@@ -79,8 +79,7 @@
                 <div class="answer">
                     <p>I am drawn to the ability to make people's wishes a reality through my work. The stoke I share with a client when I can present a final deliverable is unmatched.</p>
                 </div> -->
-
-                <div class="question">
+                <!-- <div class="question">
                     <h2>Adding skills to my tool belt</h2>
                 </div>
                 <div class="answer">
@@ -97,10 +96,9 @@
                                 <li>Project Management</li>
                             </ul>
                         </div>
-                        <!-- Dear future Jayden: Bento BOX! - HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
-                        </div>
-                    </div>
-                </div>
+                        Dear future Jayden: Bento BOX! - HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
+
+
 
                 <div class="question">
                     <h2>Core Values</h2>
@@ -111,7 +109,7 @@
                         <p class="value-desc">I am a very positive person and often find myself only seeing the positive side of problems. I believe that bringing a positive mindset to the table allows people to relax and start seeing solutions rather than problems. Once one person has a positive mindset, it spreads through a full team, leading to a more fun project overall!</p>
                     </div>
                     <div class="values">
-                        <p class="value-title">Genuine Connections + Relationships</p>
+                        <p class="value-title">Genuine Relationships</p>
                         <p class="value-desc">I believe that honest and genuine relationships with team members/clients are crucial to all projects' success. A strong and positive relationship allows for open and honest communication and for an easier time handling disagreements.</p>
                     </div>
                     <div class="values">
@@ -134,8 +132,11 @@
                         </div>
                     </div>
                 </div> 
+
+                
             </div> 
-            <?php include "./parts/footer.php" ?>  
+        <?php include "./parts/footer.php" ?>
+
         </div>
     </main>
 
