@@ -81,6 +81,7 @@
         <div class="header-banner">
             <h3 id="first-back-btn"><a href="javascript:history.back()">← Back</a></h3>
             <h2><?php echo $title['set_title']; ?></h2>
+            <p><?php echo $title['set_desc']; ?></p>
         </div>
         <div class="pswp-gallery pswp-gallery--single-column grid" id="my-gallery">
 
