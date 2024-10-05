@@ -63,7 +63,7 @@
                 <section class="video-holder">
                     <h3>Indigenous Teachings at School District 48</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <p>Description</p>
+                    <p>The goal was to create an informational video featuring School District 48 teachers and trustees participating in a day of learning the traditional ways of the Sk̲wx̲wú7mesh and Lil̓wat7úl peoples. <br>Tanina Williams taught staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game during a professional development day in Pemberton BC.</p>
                     <!-- <button class="cta-button">
                         <a class="cta" href="#">
                             Read More
@@ -74,9 +74,9 @@
 
                 <section class="video-holder">
                     <h3>Tummy Time Video Series - Sea to Sky Community Services</h3>
-                    <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe class="yt-video" src="https://www.youtube.com/embed/izV_ByRCgYA?si=o4UHkEoRDAIuEiMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <iframe class="yt-video" src="https://www.youtube.com/embed/j9KbEd3iXu4?si=BqCjDCyqSFojXLj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                        <p>In collaboration with SSCS, I produced two videos explaining newborn babies' growth and development from crawling to walking. These educational videos are currently being used by local physicians as a resource for new parents.</p>
+                    <p>In collaboration with SSCS, I produced two videos explaining newborn babies' growth and development from crawling to walking. These educational videos are currently being used by local physicians as a resource for new parents.</p>
                     <!-- <button class="cta-button">
                         <a class="cta" href="">
                             Read More
