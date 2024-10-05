@@ -13,6 +13,12 @@
 
 }
 
+.headerbanner {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
 #photo-hero {
     padding-top: 80px;
     display: flex;
