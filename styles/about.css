@@ -30,7 +30,7 @@ h3 {
     }
 
     #about-hero-bg {
-        background-image: url("../media/img/parallax/jayden/cleanplate.png");
+        background-image: url("../media/img/parallax/jayden/cleanplate.jpg");
         background-size: cover;
         position: relative;
         width: 100vw;
@@ -45,7 +45,7 @@ h3 {
     }
 
     #about-hero-jayden {
-        background-image: url("../media/img/parallax/jayden/jayden.png");
+        background-image: url("../media/img/parallax/jayden/jayden_big.png");
         background-size: 135%;
         background-repeat: no-repeat;
         position: absolute;
