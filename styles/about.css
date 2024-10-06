@@ -13,13 +13,7 @@ h1 {
 }
 /* The H1 here /\ is below the hero image in green */
 
-p {
-    max-width: 60%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: left;
-}
+
 
 h3 {
     padding-bottom: 40px;
@@ -146,6 +140,14 @@ h3 {
         flex-direction: column;
         text-align: left;
         position: relative;
+
+        p {
+            max-width: 60%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: left;
+        }
 
         .question {
             position: relative;
