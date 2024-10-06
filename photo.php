@@ -70,9 +70,9 @@
     <main>
 
     <!-- HERO IMAGE -->
-    <div id="photo-hero">
+    <!-- <div id="photo-hero">
         <div id="photo-hero-bg"></div>
-    </div>
+    </div> -->
     <!-- END HERO IMAGE -->
 
     <div class="content-container">
