@@ -23,6 +23,7 @@
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">
     <link rel="stylesheet" href="../styles/about.css">
+    <link rel="stylesheet" href="../styles/footer.css">
 
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
@@ -135,8 +136,7 @@
 
                 
             </div> 
-        <?php include "./parts/footer.php" ?>
-
+            <?php include "./parts/footer.php" ?>
         </div>
     </main>
 

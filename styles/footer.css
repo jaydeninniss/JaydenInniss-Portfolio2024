@@ -6,13 +6,12 @@ footer {
     height: 200px;
     width: 100vw;
     background-color: var(--jiolive);
-    text-align: center;
+    text-align: center !important;
     align-items: center;
 
     background-image: url("../media/topo/footer/left.png"), url("../media/topo/footer/right.png");
     background-position: top left, top right;
     background-repeat: no-repeat;
-    background-size: 70%;
 
     @media screen and (min-width: 1200px) {
         height: 300px;
