@@ -10,7 +10,7 @@
     align-items: center;
 
     #newmedia-hero-bg {
-        background-image: url("../media/img/parallax/newmedia/newmedia-Sky.png");
+        background-image: url("../media/img/parallax/newmedia/newmedia-Sky.webp");
         background-size: cover;
         position: relative;
         width: 100%;
@@ -18,7 +18,7 @@
     }
 
     #newmedia-hero-foreground {
-        background-image: url("../media/img/parallax/newmedia/newmedia-Mountain_big.png");
+        background-image: url("../media/img/parallax/newmedia/newmedia-Mountain.webp");
         background-size: cover;
         position: absolute;
         width: 100%;
