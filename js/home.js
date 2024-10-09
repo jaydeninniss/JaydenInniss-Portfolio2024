@@ -28,7 +28,7 @@ const frameCount = 265;
 const currentFrame = (index) =>
   `/media/logo/animation/logo-animation-${(index + 1)
     .toString()
-    .padStart(4, "0")}.jpeg`;
+    .padStart(4, "0")}.webp`;
 
 const images = [];
 const airpods = {
