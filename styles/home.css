@@ -334,7 +334,7 @@ h3 {
             height: 80px;
             position: absolute;
             margin-top: 185px;
-            margin-left: 340px;
+            margin-left: 270px;
             overflow: hidden;
             align-items: start;
             text-align: start;
@@ -356,7 +356,7 @@ h3 {
         }
 
         #commercial-seemore {
-            margin-left: 390px;
+            margin-left: 320px;
         }
     }
 
@@ -430,7 +430,7 @@ h3 {
         height: 80px;
         position: absolute;
         margin-top: -75px;
-        margin-left: 410px;
+        margin-left: 225px;
         overflow: hidden;
         align-items: start;
         text-align: start;
