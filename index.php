@@ -76,7 +76,7 @@
                     <div class="photo-banners" id="adventure">
                         <h3>ADVENTURE</h3>
                         <div class="seemore-container">
-                            <p class="seemore-text">See More →</p>
+                            <p class="seemore-text">View Imagery →</p>
                         </div>
                     </div>
                 </a>
@@ -84,7 +84,7 @@
                     <div class="photo-banners" id="landscape">
                         <h3>LANDSCAPE</h3>
                         <div class="seemore-container">
-                            <p class="seemore-text">See More →</p>
+                            <p class="seemore-text">View Imagery →</p>
                         </div>
                     </div>
                 </a>
@@ -92,7 +92,7 @@
                     <div class="photo-banners" id="commercial">
                         <h3>COMMERCIAL</h3>
                         <div class="seemore-container" id="commercial-seemore">
-                            <p class="seemore-text">See More →</p>
+                            <p class="seemore-text">View Imagery →</p>
                         </div>
                     </div>
                 </a>
@@ -135,7 +135,7 @@
             <div class="videography">
                 <h3>VIDEOGRAPHY</h3>
                 <div class="seemore-container">
-                        <p class="seemore-text">See More →</p>
+                        <p class="seemore-text">View Video Projects →</p>
                     </div>
             </div>
         </a>
@@ -144,7 +144,7 @@
             <div class="newmedia">
                 <h3>NEW MEDIA PROJECTS</h3>
                 <div class="seemore-container">
-                    <p class="seemore-text">See More →</p>
+                    <p class="seemore-text">See All Projects →</p>
                 </div>
             </div>
         </a>
