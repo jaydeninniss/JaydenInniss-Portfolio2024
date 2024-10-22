@@ -77,6 +77,7 @@
 
     <div id="commercial">
         <div class="header-banner">
+            <h2>   </h2>
         </div>
 
         <div class="grid">
