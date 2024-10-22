@@ -75,6 +75,33 @@
     </div> -->
     <!-- END HERO IMAGE -->
 
+    <div id="commercial">
+        <div class="header-banner">
+            <h2>Commercial</h2>
+        </div>
+
+        <div class="grid">
+            <section class="section-6">
+                <div class="row">
+
+                    <?php while($title = $result2->fetch_assoc()) { ?>
+
+                        <figure class="figure">
+                            <img src="<?php echo $title['set_cover']; ?>">
+                            <figcaption>
+                                <h3><?php echo $title['set_title']; ?></h3>
+                                <p><?php echo $title['set_desc']; ?></p>
+                            </figcaption>
+                            <a href="photo-project?id=<?php echo $title['set_id']; ?>"></a>
+                        </figure>
+
+                        <!-- Hello future Jayden. For mobile, make the hover state constant and display none the description. -->
+                    <?php } ?>
+                </div>
+            </section>
+        </div>
+    </div>
+
     <div class="content-container">
         <div id="adventure">
             <div class="header-banner">
@@ -122,32 +149,7 @@
             </div>
         </div>
 
-        <div id="commercial">
-            <div class="header-banner">
-                <h2>Commercial</h2>
-            </div>
 
-            <div class="grid">
-                <section class="section-6">
-                    <div class="row">
-
-                        <?php while($title = $result2->fetch_assoc()) { ?>
-
-                            <figure class="figure">
-                                <img src="<?php echo $title['set_cover']; ?>">
-                                <figcaption>
-                                    <h3><?php echo $title['set_title']; ?></h3>
-                                    <p><?php echo $title['set_desc']; ?></p>
-                                </figcaption>
-                                <a href="photo-project?id=<?php echo $title['set_id']; ?>"></a>
-                            </figure>
-
-                            <!-- Hello future Jayden. For mobile, make the hover state constant and display none the description. -->
-                        <?php } ?>
-                    </div>
-                </section>
-            </div>
-        </div>
 
         <div class="header-banner" id="caboose">
             <h3><a href="#photo-hero">Back to Top</a></h3>
