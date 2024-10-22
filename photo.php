@@ -81,7 +81,7 @@
 
         <div id="commercial">
             <div class="header-banner">
-                <h2>Commercial</h2>
+                <h2>Client Projects</h2>
             </div>
 
             <div class="grid">
