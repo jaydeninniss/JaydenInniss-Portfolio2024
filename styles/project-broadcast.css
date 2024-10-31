@@ -1,0 +1,27 @@
+/* Add stuff here if you need for Broadcast only*/
+/* This loads after and overwrites project-master.css */
+
+h1 {
+    width: 1000px;
+}
+
+.question {
+    margin-top: 40px !important;
+}
+
+@media screen and (min-height: 1200px) {
+    .question {
+        margin-top: 180px;
+    }
+}
+
+.hero {
+    height: 700px;
+    background-image: url("../media/img/broadcast-banner.jpeg");
+    background-size: cover;
+    background-position: top center;
+
+    img {
+        display: none;
+    }
+}
