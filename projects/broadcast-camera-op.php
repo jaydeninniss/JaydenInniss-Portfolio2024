@@ -66,13 +66,16 @@
         </div>
         <div class="content-container">
             <div class="qa-container">
-                <h3 class="question" id="first">Overview</h3>
-                <p class="answer">My two peers and I created a film festival designed for youth in Whistler to showcase their filmmaking talent. Sho Brooks, Kenta Tanaka and I led this initiative. The competition was designed as a fundraiser for our graduating class at Whistler Secondary School. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. This event was a huge success: We exceeded our projected profit by $4,000, doubled our expected audience and gave a platform for young aspiring filmmakers to display their work in front of the community. <br><br>Our judging panel was composed of 5 local professional photographers/videographers. The Whistler community generously donated over $2,000 worth of prizes including a brand-new GoPro, which was awarded to the filmmakers and the audience in raffle draws. <br><br>The event would not have been a success without the help of Shauna Hardy and John Hall.</p>
+                <h3 class="question" id="first">Crankworx 2023</h3>
+                <p>Camera Operator</p>
+                <p class="answer"></p>
                 
-                <h3 class="question">Competition Details</h3>
+                <h3 class="question">FIL Luge World Championships 2023</h3>
+                <h4 class="question">Camera Operator + TVA Utility</h4>
                 <p class="answer">To celebrate what makes the Sea to Sky region unique, the Whistler Secondary Short Film Festival debuts as a student filmmaking competition produced by the graduating class of 2023 where you could win great prizes! The competition is open to anyone in grades 8 to 12 residing in Squamish, Whistler, Pemberton and Mt. Currie, and attending an SD48 public or independent school with a phone, GoPro, or camera with a story to tell. </p>
 
-                <h3 class="question">Advertising</h3>
+                <h3 class="question">Crankworx 2024</h3>
+                <h4 class="question">TVA Utility</h4>
                 <p class="answer">Creativity is your only limit. Student filmmakers are tasked to shoot, edit and produce a 3 to 5 minute short film within the Sea to Sky Corridor - taking their creative vision from concept to reality. The top ten films will premiere on the big screen for an audience of over 200 at Whistler Secondary. Over $2,000 in prizes will be awarded to the top three films plus a People's Choice Award chosen by the audience. </p>
 
                 <p class="answer"><em>Calling Sea to Sky Corridor high school students! The Sea to Sky region is known for inspiring adventurers and storytellers. Whistler Secondary wants to see how it inspires you in its inaugural Short Film Festival. Submit a short film for your chance to win great prizes!</em></p>
