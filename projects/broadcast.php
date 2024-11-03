@@ -66,29 +66,40 @@
         </div>
         <div class="content-container">
             <div class="qa-container">
-                <h3 class="question" id="first">Crankworx 2023</h3>
-                <p>Camera Operator</p>
-                <p class="answer"></p>
+                <h3 class="question" id="first">Crankworx 2023 - Camera Operator</h3>
+                <p class="answer">
+                    In June 2023, I was approached to work as a camera operator for Crankworx's television broadcast produced by Mesh Productions. I was over the moon to have an opportunity to work for Crankworx, as I grew up as a spectator of the yearly mountain bike event. 
+                    
+                    For the first weekend of events, I worked as a camera operator on the very first RockShox 1199 Downhill Race held in Creekside.
+                </p>
+
+                <p class="answer">
+                    During the next 4 days of racing, I joined Crankworx's lead photographer, Clint Trahan, as his assistant. He broke his arm earlier in the season, so I carried his gear for him, but he also gave me the opportunity to second-shoot for him. I shot 6 events/races with him and it was mind-blowing to see into the process of such a talented photographer! I joined him on the final day of events, shooting the enduro on Top of the World. Those 5 long days taught me so much! 
+                </p>
+                
+                <p class="answer">
+                    I joined the broadcast crew again for Red Bull Joyride! I worked alongside our presenters shooting the live show. I was the only camera for the live show, so it was very fast-paced! I was filming everything that was displayed on the jumbotrons placed throughout the village. For the hour before the event started and when the main livestream would go to a commercial break, the screens would switch to my camera for the in-person audience.
+                </p>
+                
+                <p class="answer">
+                    Overall, the week of events was amazing! I learned so much in such a short amount of time and I am so grateful to have the opportunity to see so many sides of this epic event!
+                </p>
                 
                 <h3 class="question">FIL Luge World Championships 2023</h3>
-                <h4 class="question">Camera Operator + TVA Utility</h4>
-                <p class="answer">To celebrate what makes the Sea to Sky region unique, the Whistler Secondary Short Film Festival debuts as a student filmmaking competition produced by the graduating class of 2023 where you could win great prizes! The competition is open to anyone in grades 8 to 12 residing in Squamish, Whistler, Pemberton and Mt. Currie, and attending an SD48 public or independent school with a phone, GoPro, or camera with a story to tell. </p>
+                <p class="answer">
+                    In December 2023, the Luge World Cup came to The Whistler Sliding Centre. I was approached to work as a camera operator for the week of races.
+                </p>
 
-                <h3 class="question">Crankworx 2024</h3>
-                <h4 class="question">TVA Utility</h4>
+                <p class="answer">
+                    This was a full-circle opportunity for me, as I trained as a luge athlete for 9 years. I started sliding when I was 7 years old and competed in numerous national and international championships until I was 16 years old. Returning to the sliding center to film the championships was an incredible opportunity to give back to the sport that had given me so much!
+                
+                    My previous knowledge of the sport of Luge and this venue helped out within our broadcast team. This event was a perfect blend of both of my hobbies, which made it a ton of fun to work on!
+                </p>
+
+                <h3 class="question">Crankworx 2024 - TVA Utility</h3>
                 <p class="answer">Creativity is your only limit. Student filmmakers are tasked to shoot, edit and produce a 3 to 5 minute short film within the Sea to Sky Corridor - taking their creative vision from concept to reality. The top ten films will premiere on the big screen for an audience of over 200 at Whistler Secondary. Over $2,000 in prizes will be awarded to the top three films plus a People's Choice Award chosen by the audience. </p>
 
-                <p class="answer"><em>Calling Sea to Sky Corridor high school students! The Sea to Sky region is known for inspiring adventurers and storytellers. Whistler Secondary wants to see how it inspires you in its inaugural Short Film Festival. Submit a short film for your chance to win great prizes!</em></p>
-
-                <h3 class="question">Judging</h3>
-                <p class="answer">The judges, composed of professional filmmakers, will select up to 20 films, three to five minute films to be part of the Whistler Secondary Short Film Festival on April 20, 2023 at Whistler Secondary.<br><br>Entries will be judged based on their application's overall concept, creativity, and originality.<br><br>There are no restrictions on your creativity or how you choose to capture the magic that makes the Sea to Sky region so unique. And there are no limitations on how the film is shot or how you interpret the theme. You can shoot live-action, animation, stop-motion, documentary, use actors, cutouts, puppets, or animals. The choice is yours!</p>
-
-                <h3 class="question">Film Screening Night</h3>
-                <p class="answer">After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. This event was a huge success: We exceeded our projected profit by $4,000, doubled our expected audience and gave a platform for young aspiring filmmakers to display their work in front of the community. <br><br>Myself and Kenta Tanaka hosted the night as MCs. </p>
-
-                <h3 class="question">Conclusion</h3>
-                <p class="answer">This event was a highlight of high school. Providing an opportunity for youth filmmakers in Whistler was a way to give back to the community for everything it has provided to me. In 2017, the World Ski and Snowboard Festival's Olympus 72-Hour Filmmaker Showdown chose my film as one of the top 10 films. It was screened in front of 1,600, which was mind-blowing when I was in grade 7. This event was full circle as I was able to give filmmakers a similar opportunity to present their films and gain exposure within the community.<br><br>This whole event was so rewarding and I enjoyed every second of planning, developing and finally MCing the event alongside my incredibly talented peers: Sho Brooks and Kenta Tanaka.</p>
-                <p class="answer"><em>I will absolutely add imagery and graphics to this page as soon as I aquire them from my peers!</em></p>
+                
             </div>
         </div>
         <?php include "../parts/footer.php" ?>
