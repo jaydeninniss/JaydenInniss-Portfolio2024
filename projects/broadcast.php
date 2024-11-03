@@ -73,13 +73,31 @@
                     For the first weekend of events, I worked as a camera operator on the very first RockShox 1199 Downhill Race held in Creekside.
                 </p>
 
+                <div class="image-container">
+                    <img src="../media/img/projects/broadcast/crankworxcam2.jpeg" alt="">
+                    <img src="../media/img/projects/broadcast/crankworxcamalex.jpeg" alt="">
+                    <img src="../media/img/projects/broadcast/crankworxcam3.jpeg" alt="">
+                </div>
+
                 <p class="answer">
                     During the next 4 days of racing, I joined Crankworx's lead photographer, Clint Trahan, as his assistant. He broke his arm earlier in the season, so I carried his gear for him, but he also gave me the opportunity to second-shoot for him. I shot 6 events/races with him and it was mind-blowing to see into the process of such a talented photographer! I joined him on the final day of events, shooting the enduro on Top of the World. Those 5 long days taught me so much! 
                 </p>
+
+                <div class="image-container">
+                    <img src="../media/img/projects/broadcast/crankworxvip.jpeg" alt="">
+                    <video src="../media/img/projects/broadcast/viewfinder.mov" autoplay loop muted></video>
+                    <img src="../media/img/projects/broadcast/clintedit1.jpeg" alt="">
+                </div>
                 
                 <p class="answer">
                     I joined the broadcast crew again for Red Bull Joyride! I worked alongside our presenters shooting the live show. I was the only camera for the live show, so it was very fast-paced! I was filming everything that was displayed on the jumbotrons placed throughout the village. For the hour before the event started and when the main livestream would go to a commercial break, the screens would switch to my camera for the in-person audience.
                 </p>
+
+                <div class="image-container">
+                    <img src="../media/img/projects/broadcast/crankworxredbull.jpeg" alt="">
+                    <img src="../media/img/projects/broadcast/crankworxredbull2.jpeg" alt="">
+                    <img src="../media/img/projects/broadcast/crankworxredbull3.jpeg" alt="">
+                </div>
                 
                 <p class="answer">
                     Overall, the week of events was amazing! I learned so much in such a short amount of time and I am so grateful to have the opportunity to see so many sides of this epic event!
@@ -97,9 +115,14 @@
                 </p>
 
                 <h3 class="question">Crankworx 2024 - TVA Utility</h3>
-                <p class="answer">Creativity is your only limit. Student filmmakers are tasked to shoot, edit and produce a 3 to 5 minute short film within the Sea to Sky Corridor - taking their creative vision from concept to reality. The top ten films will premiere on the big screen for an audience of over 200 at Whistler Secondary. Over $2,000 in prizes will be awarded to the top three films plus a People's Choice Award chosen by the audience. </p>
+                <p class="answer">
+                    When Crankworx came around again for Whistler in July 2024, I was approached to work with the broadcast team in a different role than the previous year. I was brought on as a TVA Utility which meant I was part of the setup and take-down crew. We were tasked with running over 100km of cable, first up a 3km 35˚ plus course, followed by running cabling for 4 simultaneous bike events at the Whistler Mountain base. 
+                </p>
 
-                
+
+                <p class="answer">
+                    It was an incredibly physical week of hauling equipment into places they were not designed to be used in. It took four days to run cables up the mountain through the incredibly dense forest to reach remote camera positions. A total of 18 cameras lined the course for the downhill event in Creekside and another 22 at Whistler base. Throughout this hectic week, I learned so much about the inner workings of a television broadcast event and feel more comfortable working with the different departments within a broadcast truck! The entire experience was amazing and I am very grateful for how willing my colleagues were to take the time to teach me the ropes (and the cables). 
+                </p>
             </div>
         </div>
         <?php include "../parts/footer.php" ?>
