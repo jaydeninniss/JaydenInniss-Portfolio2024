@@ -85,8 +85,9 @@
 
                 <div class="image-container">
                     <img src="../media/img/projects/broadcast/crankworxvip.jpeg" alt="">
-                    <video src="../media/img/projects/broadcast/viewfinder.mov" autoplay loop muted></video>
+                    <div class="video-container"><video src="../media/img/projects/broadcast/viewfinder.mov" autoplay loop muted></video></div>
                     <img src="../media/img/projects/broadcast/clintedit1.jpeg" alt="">
+                    <div class="video-container"><video src="../media/img/projects/broadcast/clint.mov" autoplay loop muted></video></div>
                 </div>
                 
                 <p class="answer">
@@ -94,9 +95,11 @@
                 </p>
 
                 <div class="image-container">
-                    <img src="../media/img/projects/broadcast/crankworxredbull.jpeg" alt="">
-                    <img src="../media/img/projects/broadcast/crankworxredbull2.jpeg" alt="">
-                    <img src="../media/img/projects/broadcast/crankworxredbull3.jpeg" alt="">
+                    <div class="video-container"><video src="../media/img/projects/broadcast/corral.mov" autoplay loop muted></video></div>
+                    <div class="video-container"><video src="../media/img/projects/broadcast/joyridetower.mov" autoplay loop muted></video></div>
+                    <div class="video-container"><video src="../media/img/projects/broadcast/camera.mov" autoplay loop muted></video></div>
+
+
                 </div>
                 
                 <p class="answer">
@@ -107,6 +110,11 @@
                 <p class="answer">
                     In December 2023, the Luge World Cup came to The Whistler Sliding Centre. I was approached to work as a camera operator for the week of races.
                 </p>
+
+                <div class="image-container">
+                    <img src="../media/img/projects/broadcast/lugecam.jpeg" alt="">
+                    <img src="../media/img/projects/broadcast/lugeselfie2.jpeg" alt="">
+                </div>
 
                 <p class="answer">
                     This was a full-circle opportunity for me, as I trained as a luge athlete for 9 years. I started sliding when I was 7 years old and competed in numerous national and international championships until I was 16 years old. Returning to the sliding center to film the championships was an incredible opportunity to give back to the sport that had given me so much!
