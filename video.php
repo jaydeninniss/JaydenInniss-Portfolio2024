@@ -72,6 +72,13 @@
                     </button> -->
                 </section>
 
+                <section class="video-holder broadcast-card">
+                    <a href="/projects/broadcast" class="broadcast-link">
+                    <h3>Broadcast Television Experience</h3>    
+                    <div class="broadcast-image"></div>
+                    </a>
+                </section>
+
                 <section class="video-holder">
                     <h3>Tummy Time Video Series - Sea to Sky Community Services</h3>
                     <iframe class="yt-video" src="https://www.youtube.com/embed/izV_ByRCgYA?si=o4UHkEoRDAIuEiMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -88,7 +95,7 @@
                 <section class="video-holder">
                     <h3>Crystal Lodge - Interview with Ian McIntosh</h3>
                     <iframe class="yt-video" src="https://www.youtube.com/embed/WUKQpHO5CeU?si=KpOMjsHg8wotM9ra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <p>Description</p>
+                    <!-- <p>Description</p> -->
                     <!-- <button class="cta-button">
                         <a class="cta" href="">
                             Read More
