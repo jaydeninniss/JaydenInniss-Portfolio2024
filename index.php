@@ -149,8 +149,6 @@
             </div>
         </a>
 
-
-
     </div>  
 
     <div class="bio-video">
