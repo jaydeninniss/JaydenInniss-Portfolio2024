@@ -35,8 +35,13 @@ main {
       url("../media/topo/footer/right.png");
     background-position: top left, top right;
     background-repeat: no-repeat;
+    background-size: 60%;
     text-align: center;
     justify-content: center;
+
+    @media screen and (min-width: 1200px) {
+      background-size: 50%;
+    }
 
     h2 {
       color: white;
