@@ -167,7 +167,7 @@ if(window.innerWidth > 1200){
                     end: "bottom bottom",
                     scrub:true,
                     once: false,
-                    markers: true
+                    markers: false
                 },
                 defaults:{duration:1}
                 })
