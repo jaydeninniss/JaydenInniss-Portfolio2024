@@ -89,11 +89,11 @@
                     <div class="row">
 
                         <?php while($title = $result2->fetch_assoc()) { ?>
-
-                            <figure class="figure">
+                            <h3 class="client-title-mobile"><?php echo $title['set_title']; ?></h3>
+                            <figure class="figure client">
                                 <img src="<?php echo $title['set_cover']; ?>">
                                 <figcaption>
-                                    <h3><?php echo $title['set_title']; ?></h3>
+                                    <h3 class="client-title-desktop"><?php echo $title['set_title']; ?></h3>
                                     <p><?php echo $title['set_desc']; ?></p>
                                 </figcaption>
                                 <a href="photo-project?id=<?php echo $title['set_id']; ?>"></a>

@@ -129,10 +129,14 @@ h3:hover {
 .row {
   max-width: 100%;
   margin: 0 auto;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
+  display: block;
   justify-content: center;
+
+  @media screen and (min-width: 1200px) {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
 }
 
 .figure {
@@ -158,6 +162,39 @@ h3:hover {
 .section-6 {
   background: var(--jigrey);
   color: var(--jilightgreen);
+
+
+  .client-title-desktop {
+    display: none;
+  }
+
+  p {
+    display: none;
+  }
+
+
+  @media screen and (min-width: 1200px) {
+    p {
+      display: block;
+    }
+
+    .client-title-desktop{
+      display: block;
+    }
+  }
+
+  .client-title-mobile{
+    display: block;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 40px;
+  }
+  
+  @media screen and (min-width: 1200px) {
+    .client-title-mobile{
+      display: none;
+    }
+  }
 }
 
 .section-6 .figure {
@@ -186,6 +223,7 @@ h3:hover {
   justify-content: center;
   text-align: center;
 }
+
 
 .section-6 .figure figcaption:before,
 .section-6 .figure figcaption:after {
@@ -237,7 +275,7 @@ h3:hover {
   z-index: 1;
   -webkit-transition: all 0.35s ease-in;
   transition: all 0.35s ease-in;
-  opacity: 1;
+  opacity: 1 !important;
 }
 
 .section-6 .figure:before,
@@ -269,7 +307,7 @@ h3:hover {
 }
 
 .section-6 .figure:hover figcaption {
-  opacity: 1;
+  opacity: 1 !important;
 }
 
 .section-6 .figure:hover:before,
@@ -287,5 +325,5 @@ h3:hover {
 .section-6 .figure.hover figcaption:before,
 .section-6 .figure:hover figcaption:after,
 .section-6 .figure.hover figcaption:after {
-  opacity: 1;
+  opacity: 1 !important;
 }
