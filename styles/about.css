@@ -17,7 +17,14 @@ h1 {
 
 h3 {
     padding-bottom: 40px;
+    font-size: 22px;
+    max-width: 70%;
+
+    @media screen and (min-width: 1200px) {
+        font-size: 32px;
+    }
 }
+
 
 #about-hero {
     display: flex;
@@ -130,8 +137,16 @@ h3 {
         align-items: center;
 
         p {
-            max-width: 60%;
+            max-width: 80%;
+            margin-bottom: 40px;
         }
+
+        @media screen and (min-width: 1200px) {
+            p {
+                max-width: 60%;
+            }
+        }
+
         
     }
 
@@ -140,12 +155,16 @@ h3 {
         flex-direction: column;
         text-align: left;
         position: relative;
+        width: 80vw;
+
+        @media screen and (min-width: 1200px) {
+            width: 100%;
+        }
 
         p {
-            max-width: 60%;
+            max-width: 65%;
             display: flex;
             justify-content: center;
-            align-items: center;
             text-align: left;
         }
 
@@ -171,7 +190,6 @@ h3 {
             align-items: center;
             text-align: left;
 
-
             @media screen and (min-width: 1200px) {
                 margin-bottom: 60px;
                 max-width: 1200px;
@@ -182,9 +200,12 @@ h3 {
                 display: flex;
                 width: 100%;
                 justify-content: space-between;
-
                 text-align: left;
                 flex-grow: 1;
+            }
+
+            .daysoff {
+                max-width: 80vw;
             }
 
             @media screen and (min-width: 1200px){
