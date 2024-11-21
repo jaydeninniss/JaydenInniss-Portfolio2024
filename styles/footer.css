@@ -12,9 +12,11 @@ footer {
     background-image: url("../media/topo/footer/left.png"), url("../media/topo/footer/right.png");
     background-position: top left, top right;
     background-repeat: no-repeat;
+    background-size: 60%;
 
     @media screen and (min-width: 1200px) {
         height: 300px;
+        background-size: auto;
     }
 
     .leftfoot {
