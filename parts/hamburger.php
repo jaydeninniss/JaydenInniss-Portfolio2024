@@ -10,7 +10,6 @@
                 <li><a href="../video">Video</a></li>
                 <li><a href="../newmedia">New Media</a></li>
                 <li><a href="../about">About</a></li>
-                <li><a href="../contact">Reach Out</a></li>
             </ul>
         </div>
     </nav>
