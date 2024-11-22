@@ -24,6 +24,9 @@
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
+    <!-- ScrollReveal -->
+    <script src="https://unpkg.com/scrollreveal"></script>
+
     <!-- SEO -->
     <meta property="og:title" content="Photo - Jayden Inniss">
     <meta property="og:type" content="website">
@@ -163,6 +166,8 @@
     <?php include "./parts/footer.php" ?>
 
     </main>
+
+    <script src="/js/scrollReveal.js"></script>
 
 </body>
 </html>
