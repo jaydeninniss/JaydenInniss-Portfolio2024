@@ -31,15 +31,23 @@
 }
 
 #photo-hero {
-    padding-top: 80px;
-    display: flex;
-    flex-direction: column;
+    display: none;
+    height: auto;
+    width: 100%;
 
+    @media screen and (min-width: 1200px) {
+        padding-top: 80px;
+        display: flex;
+        flex-direction: column;
+        height: 900px;
 
-    img {
-        width: 100%;
-        
+        img {
+            width: 100%;
+        }
     }
+
+
+
 }
 
 .content-container {
@@ -88,5 +96,3 @@
     opacity: 0;
     animation: fadein 0.5s ease-in-out 4s forwards;
 }
-
-
