@@ -107,7 +107,9 @@
 
         </div>
         <div class="header-banner" id="caboose">
-            <h3><a href="javascript:history.back()">← Back</a></h3>
+            <h3 id="prev-project"><a href="photo-project?id=<?php echo $id - 1; ?>">← Prev</a></h3>
+            <h3 id ="all-project"><a href="javascript:history.back()">Back to All Projects</a></h3>
+            <h3 id="next-project"><a href="photo-project?id=<?php echo $id + 1; ?>">Next →</a></h3>
         </div>
     </div>
 

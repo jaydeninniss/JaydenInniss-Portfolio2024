@@ -42,21 +42,35 @@
     }
 }
 
+.content-container {
+    align-items: center;
+}
+
 #caboose {
     display: flex;
     flex-direction: row;
     height: 100px;
     transition: all 0.2s ease;
     background-image: none;
+    justify-content: space-between;
+    width: 70%;
+
+    #prev-project, #next-project, #back-btn {
+        transition: all 0.2s ease;
+    }
+    
+    #prev-project:hover {
+        transform: translateX(-15px);
+    }
+    #all-project:hover {
+        transform: translateY(-15px);
+    }
+    #next-project:hover {
+        transform: translateX(15px);
+    }
 }
 
-h3 {
-    transition: all 0.2s ease;
-}
 
-h3:hover {
-    transform: translateX(-15px);
-}
 
 @keyframes fadein {
     from {
