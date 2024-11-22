@@ -17,6 +17,7 @@
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    height: 300px;
 
     h2 {
         width: 90%;
@@ -28,6 +29,9 @@
         width: 90%;
     }
 
+    @media screen and (min-width: 1200px) {
+        height: auto;
+    }
 }
 
 #photo-hero {
