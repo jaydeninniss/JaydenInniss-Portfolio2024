@@ -20,7 +20,6 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 60px;
 
     .header-banner {
         display: flex;
@@ -36,7 +35,8 @@ main {
         justify-content: center;
     
         @media screen and (min-width: 1200px) {
-          background-size: 50%;
+            background-size: 50%;
+            padding-top: 60px;
         }
 
         h2 {
