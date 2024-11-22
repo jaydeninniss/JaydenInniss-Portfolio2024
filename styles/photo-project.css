@@ -23,6 +23,7 @@
         width: 90%;
         padding-bottom: 0px !important; 
         margin-bottom: 0px !important;
+        font-size: max(8vw, 18px) !important;
     }
 
     p {
@@ -49,9 +50,6 @@
             width: 100%;
         }
     }
-
-
-
 }
 
 .content-container {
@@ -66,6 +64,22 @@
     background-image: none;
     justify-content: space-between;
     width: 70%;
+
+    #prev-project {
+        display: none;
+    }
+    #next-project {
+        display: none;
+    }
+
+    @media screen and (min-width: 1200px) {
+        #prev-project {
+            display: block;
+        }
+        #next-project {
+            display: block;
+        }
+    }
 
     #prev-project, #next-project, #back-btn {
         transition: all 0.2s ease;
