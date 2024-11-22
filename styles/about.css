@@ -158,7 +158,7 @@ h3 {
         width: 80vw;
 
         @media screen and (min-width: 1200px) {
-            width: 100%;
+            width: 80vw;
         }
 
         p {
@@ -194,6 +194,8 @@ h3 {
                 margin-bottom: 60px;
                 max-width: 1200px;
                 }
+
+
 
             .values {
                 margin-bottom: 30px;
@@ -232,7 +234,7 @@ h3 {
                 @media screen and (min-width: 1200px) {
                     flex-direction: row;
                     height: 600px;
-                    margin-bottom: -20px;
+                    margin-bottom: -200px;
                 }
 
                 .images {

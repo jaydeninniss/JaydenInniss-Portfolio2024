@@ -122,7 +122,7 @@
                 <div class="question">
                     <h2>My Days Off</h2>
                 </div>
-                <div class="answer">
+                <div class="answer" id='last-answer'>
                     <p class="daysoff">I definitely fit the stereotype of a “Whistler Kid”. <br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping in my backyard, the Sea to Sky corridor!<br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
                     <div class="image-holder">
                         <div class="images" id="img1"  alt="Jayden Inniss smiling holding a camera">
