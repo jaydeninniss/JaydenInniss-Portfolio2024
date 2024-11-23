@@ -19,6 +19,10 @@
     flex-wrap: wrap;
     height: 300px;
 
+    @media screen and (min-width: 1200px) {
+        padding-bottom: 40px;
+    }
+
     h2 {
         width: 90%;
         padding-bottom: 0px !important; 
