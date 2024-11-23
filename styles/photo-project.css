@@ -24,6 +24,10 @@
         padding-bottom: 0px !important; 
         margin-bottom: 0px !important;
         font-size: max(8vw, 18px) !important;
+
+        @media screen and (min-width: 1200px) {
+            font-size: 48px !important;
+        }
     }
 
     p {
@@ -44,7 +48,6 @@
         padding-top: 80px;
         display: flex;
         flex-direction: column;
-        height: 900px;
 
         img {
             width: 100%;
