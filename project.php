@@ -67,13 +67,13 @@
                 <div class="project-info" id="project-info6">
                     <div class="left-side-info">
                         <img src="/media/img/projects/broadcastcover.png" class="mobile-cover">
-                        <h2>Broadcast Televison Experience</h2>
-                        <h3>Community Fundraising Event</h3>
-                        <p class="project-type">Video Project</p>
+                        <h2>Broadcast Televison</h2>
+                        <h3>Work Experience</h3>
+                        <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
                         <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
                         <button class="cta-button">
-                            <a class="cta" href="projects/stsfilmfest">
-                                Watch + Read More
+                            <a class="cta" href="projects/broadcast">
+                                Read More
                                 <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                             </a>
                         </button>
