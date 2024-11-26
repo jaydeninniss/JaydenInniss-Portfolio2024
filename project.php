@@ -22,7 +22,7 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">
-    <link rel="stylesheet" href="../styles/projects.css">
+    <link rel="stylesheet" href="../styles/project.css">
 
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
