@@ -157,7 +157,6 @@
 
     <?php include "parts/footer.php" ?>
 
-
     <script src="js/home.js"></script>
     <script src="/js/parallaxhero/parallaxhero_home.js"></script>
 
