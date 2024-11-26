@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Jayden Inniss - New Media</title>
+    <title>Jayden Inniss - Projects</title>
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-QPYBLBF2QD"></script>
@@ -22,14 +22,14 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">
-    <link rel="stylesheet" href="../styles/newmedia.css">
+    <link rel="stylesheet" href="../styles/projects.css">
 
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
     <!-- SEO -->
-    <meta property="og:title" content="New Media Projects - Jayden Inniss">
+    <meta property="og:title" content="Projects - Jayden Inniss">
     <meta property="og:type" content="website">
     <meta property="og:URL" content="https://www.jaydeninniss.com/newmedia">
     <meta property="og:image" content="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
@@ -52,7 +52,7 @@
     <!-- HERO IMAGE -->
     <div id="newmedia-hero">
         <div id="newmedia-hero-bg"></div>
-        <div id="newmedia-hero-text"><p id='hero'>NEW MEDIA PROJECTS</p></div>
+        <div id="newmedia-hero-text"><p id='hero'>PROJECTS</p></div>
         <div id="newmedia-hero-foreground"></div>
     </div>
     <!-- END HERO IMAGE -->
@@ -142,8 +142,8 @@
 
     </main>
 
-    <script src="./js/parallaxhero/parallaxhero_newmedia.js"></script>
-    <script src="./js/newmedia.js"></script>
+    <script src="./js/parallaxhero/parallaxhero_projects.js"></script>
+    <script src="./js/projects.js"></script>
 
 </body>
 </html>

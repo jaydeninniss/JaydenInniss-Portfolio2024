@@ -5,9 +5,9 @@
     </a>
     <div id="nav-links-container">
         <ul class="nav-links">
-            <li><a href="../photo" id="nav-photo">PHOTO</a></li>
-            <li><a href="../video" id="nav-video">VIDEO</a></li>
-            <li><a href="../newmedia"  id="nav-newmedia">NEW MEDIA</a></li>
+            <li><a href="../photo" id="nav-photo">PHOTOGRAPHY</a></li>
+            <li><a href="../video" id="nav-video">PROJECTS</a></li>
+            <!-- <li><a href="../newmedia"  id="nav-newmedia">NEW MEDIA</a></li> -->
             <li><a id='nav-about' href="../about">ABOUT</a></li>
             <!-- <li><a href="../contact" id="reach-out">REACH OUT</a></li> -->
         </ul>
