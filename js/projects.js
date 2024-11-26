@@ -2,11 +2,15 @@ const project1 = document.querySelector("#project1")
 const project2 = document.querySelector("#project2")
 const project3 = document.querySelector("#project3")
 const project4 = document.querySelector("#project4")
+const project5 = document.querySelector("#project5")
+const project6 = document.querySelector("#project6")
 
 gsap.set("#project-info1", { x: -900 });
 gsap.set("#project-info2", { x: -900 });
 gsap.set("#project-info3", { x: -900 });
 gsap.set("#project-info4", { x: -900 });
+gsap.set("#project-info5", { x: -900 });
+gsap.set("#project-info6", { x: -900 });
 
 let revealInfo1 = gsap.to("#project-info1", {
     paused: true,
@@ -36,6 +40,20 @@ let revealInfo4 = gsap.to("#project-info4", {
     ease: true,
 });
 
+let revealInfo5 = gsap.to("#project-info5", {
+    paused: true,
+    x: 0,
+    duration: 0.3,
+    ease: true,
+});
+
+let revealInfo6 = gsap.to("#project-info6", {
+    paused: true,
+    x: 0,
+    duration: 0.3,
+    ease: true,
+});
+
 
 if(window.innerWidth > 1200){
     project1.addEventListener("mouseenter", () => revealInfo1.play());
@@ -49,9 +67,17 @@ if(window.innerWidth > 1200){
     
     project4.addEventListener("mouseenter", () => revealInfo4.play());
     project4.addEventListener("mouseleave", () => revealInfo4.reverse());
+
+    project5.addEventListener("mouseenter", () => revealInfo5.play());
+    project5.addEventListener("mouseleave", () => revealInfo5.reverse());
+
+    project6.addEventListener("mouseenter", () => revealInfo6.play());
+    project6.addEventListener("mouseleave", () => revealInfo6.reverse());
 } else {
     project1.style.transform = "translateX(900px)";
     project2.style.transform = "translateX(900px)";
     project3.style.transform = "translateX(900px)";
     project4.style.transform = "translateX(900px)";
+    project5.style.transform = "translateX(900px)";
+    project6.style.transform = "translateX(900px)";
 }

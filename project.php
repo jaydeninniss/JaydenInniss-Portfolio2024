@@ -61,10 +61,28 @@
         <div id="title-holder">
             <h1>Featured Projects</h1>
         </div>
-
         <div class="project-banner-container">
+
+            <div class="project" id="project-indigenousvideo">
+                <div class="project-info" id="project-info1">
+                    <div class="left-side-info">
+                        <img src="/media/img/projects/indigenousvideocover.png" class="mobile-cover">
+                        <h2></h2>
+                        <h3>Community Fundraising Event</h3>
+                        <p class="project-type">Video Project</p>
+                        <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                        <button class="cta-button">
+                            <a class="cta" href="projects/stsfilmfest">
+                                Watch + Read More
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                            </a>
+                        </button>
+                    </div> 
+                </div>
+            </div>
+
             <div class="project" id="project-stsfilmfest">
-                <div class="project-info">
+                <div class="project-info"  id="project-info2">
                     <div class="left-side-info">
                         <img src="/media/img/projects/stsfilmfestprojectcover.png" alt="Sea to Sky Film Festival" class="mobile-cover">
                         <h2>SEA TO SKY STUDENT SHORT FILM FESTIVAL</h2>
@@ -82,7 +100,7 @@
             </div>
 
             <div class="project" id="project-alpinearmour">
-                <div class="project-info">
+                <div class="project-info"  id="project-info3">
                     <div class="left-side-info">
                         <img src="/media/img/projects/alpinearmourcover.png" alt="Alpine Armour" class="mobile-cover">
                         <h2>Alpine Armour</h2>
@@ -100,8 +118,8 @@
                 </div>
             </div>
 
-            <div class="project" id="project3">
-                <div class="project-info">
+            <div class="project" id="project-uiux">
+                <div class="project-info"  id="project-info4">
                     <div class="left-side-info">
                         <img src="/media/img/projects/uiuxprojectcover.png" alt="UIUX Project" class="mobile-cover">
                         <h2>UI/UX</h2>
@@ -119,8 +137,8 @@
             </div>
             
             <div class="project-banner-container">
-            <div class="project" id="project4">
-                <div class="project-info">
+            <div class="project" id="project-bodyboost">
+                <div class="project-info"  id="project-info5">
                     <div class="left-side-info">
                         <img src="/media/img/projects/bodyboost/bodyboost1.jpeg" alt="Body Boost Project" class="mobile-cover">
                         <h2>Body Boost</h2>
