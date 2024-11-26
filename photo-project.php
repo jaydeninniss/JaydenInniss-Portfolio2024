@@ -79,7 +79,6 @@
     <!-- END HERO IMAGE -->
 
 
-
     <div class="content-container">
         <div class="header-banner">
             <h3 id="first-back-btn"><a href="javascript:history.back()">← Back</a></h3>
