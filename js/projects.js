@@ -1,9 +1,9 @@
-const project1 = document.querySelector("#project1")
-const project2 = document.querySelector("#project2")
-const project3 = document.querySelector("#project3")
-const project4 = document.querySelector("#project4")
-const project5 = document.querySelector("#project5")
-const project6 = document.querySelector("#project6")
+const project1 = document.querySelector("#project-indigenousvideo")
+const project2 = document.querySelector("#project-stsfilmfest")
+const project3 = document.querySelector("#project-alpinearmour")
+const project4 = document.querySelector("#project-uiux")
+const project5 = document.querySelector("#project-bodyboost")
+const project6 = document.querySelector("#project-broadcast")
 
 gsap.set("#project-info1", { x: -900 });
 gsap.set("#project-info2", { x: -900 });
