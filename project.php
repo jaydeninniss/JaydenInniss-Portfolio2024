@@ -109,7 +109,7 @@
                         <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
                         <button class="cta-button">
                             <a class="cta" href="projects/stsfilmfest">
-                                Read more
+                                Read More
                                 <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                             </a>
                         </button>
@@ -125,10 +125,9 @@
                         <h3>Marketing Campaign Pitch</h3>
                         <p class="project-type">New Media, BCIT</p>
                         <p class="project-desc">In a group of four, we designed a full marketing campaign to promote an event for a fictional outdoor apparel company. The final deliverables were presented as a marketing pitch to peers.<br><br>Role: Project Manager</p>
-                        
                         <button class="cta-button">
                             <a class="cta" href="./projects/alpinearmour">
-                                Read more
+                                Read More
                                 <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                             </a>
                         </button>
@@ -136,17 +135,53 @@
                 </div>
             </div>
 
-            <div class="project" id="project-uiux">
+            <div class="project" id="project-crystal">
                 <div class="project-info"  id="project-info4">
                     <div class="left-side-info">
                         <img src="/media/img/projects/uiuxprojectcover.png" alt="UIUX Project" class="mobile-cover">
-                        <h2>UI/UX</h2>
-                        <h3>Interface Design + User Testing</h3>
-                        <p class="project-type">New Media, BCIT</p>
+                        <h2>Crystal Lodge</h2>
+                        <h3>Interview with Ian McIntosh</h3>
+                        <p class="project-type">Social Media Videos</p>
                         <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
                         <button class="cta-button">
-                            <a class="cta" href="./projects/uiux">
-                                Read more
+                            <a class="cta" href="./projects/crystal">
+                                Watch + Read More
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                            </a>
+                        </button>
+                    </div> 
+                </div>
+            </div>
+
+            <div class="project" id="project-ubcsnb">
+                <div class="project-info"  id="project-info8">
+                    <div class="left-side-info">
+                        <img src="/media/img/projects/uiuxprojectcover.png" alt="UIUX Project" class="mobile-cover">
+                        <h2>UBC Ski and Snowboard Club</h2>
+                        <h3>Content Creation</h3>
+                        <p class="project-type">Photo/Video Reels for Social Media</p>
+                        <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
+                        <button class="cta-button">
+                            <a class="cta" href="./projects/ubcsnb">
+                                Watch + Read More
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                            </a>
+                        </button>
+                    </div> 
+                </div>
+            </div>
+
+            <div class="project" id="project-sscs">
+                <div class="project-info"  id="project-info7">
+                    <div class="left-side-info">
+                        <img src="/media/img/projects/uiuxprojectcover.png" alt="UIUX Project" class="mobile-cover">
+                        <h2>Tummy Time Video Series</h2>
+                        <h3>Videos for New Parents</h3>
+                        <p class="project-type">Sea to Sky Communtiy Services</p>
+                        <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
+                        <button class="cta-button">
+                            <a class="cta" href="./projects/tummytime">
+                                Watch + Read More
                                 <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                             </a>
                         </button>
@@ -155,17 +190,17 @@
             </div>
             
             <div class="project-banner-container">
-            <div class="project" id="project-bodyboost">
+            <div class="project" id="project-worca">
                 <div class="project-info"  id="project-info5">
                     <div class="left-side-info">
                         <img src="/media/img/projects/bodyboost/bodyboost1.jpeg" alt="Body Boost Project" class="mobile-cover">
-                        <h2>Body Boost</h2>
-                        <h3>Project Managment</h3>
-                        <p class="project-type">New Media, BCIT</p>
+                        <h2>WORCA</h2>
+                        <h3>Weekly Social Media Reels</h3>
+                        <p class="project-type">Summer 2022</p>
                         <p class="project-desc">In a group of four , we designed high-fidelity mockups for a mobile application to gain experience with linear (waterfall) projects.<br><br>As the project manager , I planned out what tasks needed to be completed when and by who, based on each designer's strengths/preferences.<br><br>Role: Project Manager</p>
                         <button class="cta-button">
-                            <a class="cta" href="projects/bodyboost">
-                                Read more
+                            <a class="cta" href="projects/worca">
+                                Watch + Read More
                                 <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                             </a>
                         </button>
