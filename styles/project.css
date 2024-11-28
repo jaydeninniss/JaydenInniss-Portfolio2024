@@ -1,5 +1,9 @@
-#nav-newmedia {
+#nav-project {
     text-decoration: underline;
+}
+
+#nav-video {
+    text-decoration: none;
 }
 
 /* HERO IMAGE SETUP */
