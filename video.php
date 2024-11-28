@@ -22,6 +22,7 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="../styles/project.css">
     <link rel="stylesheet" href="../styles/video.css">
 
     <!-- GSAP -->
@@ -49,10 +50,11 @@
     <?php include "./parts/header.php" ?>
     <?php include "./parts/hamburger.php" ?>
 
-    <!-- HERO IMAGE -->
+    <!-- HERO VIDEO -->
     <div id="video-hero">
+        <video src=""></video>
     </div>
-    <!-- END HERO IMAGE -->
+    <!-- END HERO VIDEO -->
 
     <div class="content-container">
 
@@ -72,37 +74,43 @@
                     </button> -->
                 </section>
 
-                <section class="video-holder broadcast-card">
-                    <a href="/projects/broadcast" class="broadcast-link">
-                    <h3>Broadcast Television Experience</h3>    
-                    <div class="broadcast-image"></div>
-                    </a>
-                </section>
+                <div class="project-banner-container">
 
-                <section class="video-holder">
-                    <h3>Tummy Time Video Series - Sea to Sky Community Services</h3>
-                    <iframe class="yt-video" src="https://www.youtube.com/embed/izV_ByRCgYA?si=o4UHkEoRDAIuEiMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <iframe class="yt-video" src="https://www.youtube.com/embed/j9KbEd3iXu4?si=BqCjDCyqSFojXLj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <p>In collaboration with SSCS, I produced two videos explaining newborn babies' growth and development from crawling to walking. These educational videos are currently being used by local physicians as a resource for new parents.</p>
-                    <!-- <button class="cta-button">
-                        <a class="cta" href="">
-                            Read More
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                        </a>
-                    </button> -->
-                </section>
+                    <div class="project" id="project-broadcast">
+                        <div class="project-info" id="project-info6">
+                            <div class="left-side-info">
+                                <img src="/media/img/broadcast-banner.jpg" class="mobile-cover">
+                                <h2>Broadcast Televison</h2>
+                                <h3>Work Experience</h3>
+                                <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
+                                <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                                <button class="cta-button">
+                                    <a class="cta" href="projects/broadcast">
+                                        Read More
+                                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                    </a>
+                                </button>
+                            </div> 
+                        </div>
+                    </div>
 
-                <section class="video-holder">
-                    <h3>Crystal Lodge - Interview with Ian McIntosh</h3>
-                    <iframe class="yt-video" src="https://www.youtube.com/embed/WUKQpHO5CeU?si=KpOMjsHg8wotM9ra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <!-- <p>Description</p> -->
-                    <!-- <button class="cta-button">
-                        <a class="cta" href="">
-                            Read More
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                        </a>
-                    </button> -->
-                </section>
+                    <div class="project" id="project-indigenousvideo">
+                        <div class="project-info" id="project-info1">
+                            <div class="left-side-info">
+                                <img src="/media/img/projects/tanina-banner.jpg" class="mobile-cover">
+                                <h2>TITLE</h2>
+                                <h3>Community Fundraising Event</h3>
+                                <p class="project-type">Video Project</p>
+                                <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                                <button class="cta-button">
+                                    <a class="cta" href="projects/stsfilmfest">
+                                        Watch + Read More
+                                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                    </a>
+                                </button>
+                            </div> 
+                        </div>
+                    </div>
 
                 <div class="header-banner" id="caboose">
                     <h3><a href="#video-hero">Back to Top</a></h3>
@@ -111,6 +119,8 @@
         <?php include "./parts/footer.php" ?>
     </div>
     </main>
+
+    <script src="./js/projects.js"></script>
 
 </body>
 </html>

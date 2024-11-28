@@ -66,7 +66,7 @@
             <div class="project" id="project-broadcast">
                 <div class="project-info" id="project-info6">
                     <div class="left-side-info">
-                        <img src="/media/img/projects/broadcastcover.png" class="mobile-cover">
+                        <img src="/media/img/broadcast-banner.jpg" class="mobile-cover">
                         <h2>Broadcast Televison</h2>
                         <h3>Work Experience</h3>
                         <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
@@ -84,7 +84,7 @@
             <div class="project" id="project-indigenousvideo">
                 <div class="project-info" id="project-info1">
                     <div class="left-side-info">
-                        <img src="/media/img/projects/indigenousvideocover.png" class="mobile-cover">
+                        <img src="/media/img/projects/tanina-banner.jpg" class="mobile-cover">
                         <h2>TITLE</h2>
                         <h3>Community Fundraising Event</h3>
                         <p class="project-type">Video Project</p>
