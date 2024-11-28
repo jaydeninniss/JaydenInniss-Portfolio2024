@@ -48,10 +48,10 @@ gsap.to(airpods, {
   scrollTrigger: {
     trigger: ".bio-video",
     start: "top top",
-    end: "+=4500",
+    end: "+=3000",
     markers: false,
     pin: true,
-    scrub: 0.5,
+    scrub: 1.5,
   },
   onUpdate: render, // use animation onUpdate instead of scrollTrigger's onUpdate
 });
