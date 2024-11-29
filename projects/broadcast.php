@@ -61,7 +61,33 @@
                         <h2>Experience as a Broadcast Camera Operator</h2>
                         <p>Since July 2023</p>
                 </div>
-                <h3 class="question" id="first">Crankworx 2023 - Camera Operator</h3>
+
+                <h3 class="question"  id="first">Crankworx 2024 - TVA Utility</h3>
+                <p class="answer">
+                    When Crankworx came around again for Whistler in July 2024, I was approached to work with the broadcast team in a different role than the previous year. I was brought on as a TVA Utility which meant I was part of the setup and take-down crew. We were tasked with running over 100km of cable, first up a 3km 35˚ plus course, followed by running cabling for 4 simultaneous bike events at the Whistler Mountain base. 
+                </p>
+
+                <p class="answer">
+                    It was an incredibly physical week of hauling equipment into places they were not designed to be used in. It took four days to run cables up the mountain through the incredibly dense forest to reach remote camera positions. A total of 18 cameras lined the course for the downhill event in Creekside and another 22 at Whistler base. Throughout this hectic week, I learned so much about the inner workings of a television broadcast event and feel more comfortable working with the different departments within a broadcast truck! The entire experience was amazing and I am very grateful for how willing my colleagues were to take the time to teach me the ropes (and the cables). 
+                </p>
+
+                <h3 class="question">FIL Luge World Championships 2023</h3>
+                <p class="answer">
+                    In December 2023, the Luge World Cup came to The Whistler Sliding Centre. I was approached to work as a camera operator for the week of races.
+                </p>
+
+                <div class="image-container">
+                    <img src="../media/img/projects/broadcast/lugecam.jpeg" alt="">
+                    <img src="../media/img/projects/broadcast/lugeselfie2.jpeg" alt="">
+                </div>
+
+                <p class="answer">
+                    This was a full-circle opportunity for me, as I trained as a luge athlete for 9 years. I started sliding when I was 7 years old and competed in numerous national and international championships until I was 16 years old. Returning to the sliding center to film the championships was an incredible opportunity to give back to the sport that had given me so much!
+                
+                    My previous knowledge of the sport of Luge and this venue helped out within our broadcast team. This event was a perfect blend of both of my hobbies, which made it a ton of fun to work on!
+                </p>
+
+                <h3 class="question">Crankworx 2023 - Camera Operator</h3>
                 <p class="answer">
                     In June 2023, I was approached to work as a camera operator for Crankworx's television broadcast produced by Mesh Productions. I was over the moon to have an opportunity to work for Crankworx, as I grew up as a spectator of the yearly mountain bike event. 
                     
@@ -93,39 +119,12 @@
                     <div class="video-container"><video src="../media/img/projects/broadcast/corral.mp4" autoplay loop muted></video></div>
                     <div class="video-container"><video src="../media/img/projects/broadcast/joyridetower.mp4" autoplay loop muted></video></div>
                     <div class="video-container"><video src="../media/img/projects/broadcast/camera.mp4" autoplay loop muted></video></div>
-
-
                 </div>
                 
                 <p class="answer">
                     Overall, the week of events was amazing! I learned so much in such a short amount of time and I am so grateful to have the opportunity to see so many sides of this epic event!
                 </p>
                 
-                <h3 class="question">FIL Luge World Championships 2023</h3>
-                <p class="answer">
-                    In December 2023, the Luge World Cup came to The Whistler Sliding Centre. I was approached to work as a camera operator for the week of races.
-                </p>
-
-                <div class="image-container">
-                    <img src="../media/img/projects/broadcast/lugecam.jpeg" alt="">
-                    <img src="../media/img/projects/broadcast/lugeselfie2.jpeg" alt="">
-                </div>
-
-                <p class="answer">
-                    This was a full-circle opportunity for me, as I trained as a luge athlete for 9 years. I started sliding when I was 7 years old and competed in numerous national and international championships until I was 16 years old. Returning to the sliding center to film the championships was an incredible opportunity to give back to the sport that had given me so much!
-                
-                    My previous knowledge of the sport of Luge and this venue helped out within our broadcast team. This event was a perfect blend of both of my hobbies, which made it a ton of fun to work on!
-                </p>
-
-                <h3 class="question">Crankworx 2024 - TVA Utility</h3>
-                <p class="answer">
-                    When Crankworx came around again for Whistler in July 2024, I was approached to work with the broadcast team in a different role than the previous year. I was brought on as a TVA Utility which meant I was part of the setup and take-down crew. We were tasked with running over 100km of cable, first up a 3km 35˚ plus course, followed by running cabling for 4 simultaneous bike events at the Whistler Mountain base. 
-                </p>
-
-
-                <p class="answer">
-                    It was an incredibly physical week of hauling equipment into places they were not designed to be used in. It took four days to run cables up the mountain through the incredibly dense forest to reach remote camera positions. A total of 18 cameras lined the course for the downhill event in Creekside and another 22 at Whistler base. Throughout this hectic week, I learned so much about the inner workings of a television broadcast event and feel more comfortable working with the different departments within a broadcast truck! The entire experience was amazing and I am very grateful for how willing my colleagues were to take the time to teach me the ropes (and the cables). 
-                </p>
             </div>
         </div>
         <?php include "../parts/footer.php" ?>
