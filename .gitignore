@@ -7,3 +7,5 @@ JaydenInniss-Portfolio2024.code-workspace
 js/mburger-webcomponent-master.zip
 js/._mburger-webcomponent-master.zip
 node_modules
+.*
+!.*/
