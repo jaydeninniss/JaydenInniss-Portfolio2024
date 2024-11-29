@@ -141,8 +141,8 @@
         </a>
 
         <a href="project">
-            <div class="newmedia">
-                <h3>RECENT PROJECTS</h3>
+            <div class="project">
+                <h3 id="project-header">RECENT PROJECTS</h3>
                 <div class="seemore-container">
                     <p class="seemore-text">See All Projects →</p>
                 </div>
