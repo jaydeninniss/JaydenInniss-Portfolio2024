@@ -213,42 +213,13 @@
         }
     }
 
-    #project-uiux {
-        background-image: none;
-        background-size: cover;
-        background-position: center;
-
-        @media screen and (min-width: 1200px) {
-            background-image: url("../media/img/projects/uiuxprojectcover.png");
-        }
-    }
-
-    #project-bodyboost {
-        background-image: none;
-        background-size: cover;
-        background-position: center;
-
-        @media screen and (min-width: 1200px) {
-            height: 566px;
-            background-image: url("../media/img/projects/bodyboost/bodyboost1.jpeg");
-
-            .project-info {
-                height: 566px;
-            }
-        }
-    }
     #project-indigenousvideo {
         background-image: none;
         background-size: cover;
         background-position: center;
 
         @media screen and (min-width: 1200px) {
-            height: 566px;
             background-image: url("../media/img/tanina-banner.jpg");
-
-            .project-info {
-                height: 566px;
-            }
         }
     }
     #project-broadcast {
@@ -257,12 +228,35 @@
         background-position: center;
 
         @media screen and (min-width: 1200px) {
-            height: 566px;
-            background-image: url("../media/img/broadcast-banner.jpg");
 
-            .project-info {
-                height: 566px;
-            }
+            background-image: url("../media/img/broadcast-banner-bob.jpg");
+        }
+    }
+    #project-ubcsnb {
+        background-image: none;
+        background-size: cover;
+        background-position: center;
+
+        @media screen and (min-width: 1200px) {
+            background-image: url("../media/img/ubcsnb-banner.jpg");
+        }
+    }
+    #project-cyrstal {
+        background-image: none;
+        background-size: cover;
+        background-position: center;
+
+        @media screen and (min-width: 1200px) {
+            background-image: url("../media/img/crystal-banner.jpg");
+        }
+    }
+    #project-worca {
+        background-image: none;
+        background-size: cover;
+        background-position: center;
+
+        @media screen and (min-width: 1200px) {
+            background-image: url("../media/img/worca-banner.jpg");
         }
     }
 }

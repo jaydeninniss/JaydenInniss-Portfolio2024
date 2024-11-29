@@ -121,7 +121,7 @@
             <div class="project" id="project-broadcast">
                 <div class="project-info" id="project-info6">
                     <div class="left-side-info">
-                        <img src="/media/img/broadcast-banner.jpg" class="mobile-cover">
+                        <img src="/media/img/broadcast-banner-bob.jpg" class="mobile-cover">
                         <h2>Broadcast Televison</h2>
                         <h3>Work Experience</h3>
                         <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
@@ -139,7 +139,7 @@
             <div class="project" id="project-crystal">
                 <div class="project-info"  id="project-info4">
                     <div class="left-side-info">
-                        <img src="/media/img/projects/uiuxprojectcover.png" alt="UIUX Project" class="mobile-cover">
+                        <img src="/media/img/projects/crystal-banner.jpg" alt="Crystal Project" class="mobile-cover">
                         <h2>Crystal Lodge</h2>
                         <h3>Interview with Ian McIntosh</h3>
                         <p class="project-type">Social Media Videos</p>
@@ -157,7 +157,7 @@
             <div class="project" id="project-ubcsnb">
                 <div class="project-info"  id="project-info8">
                     <div class="left-side-info">
-                        <img src="/media/img/projects/uiuxprojectcover.png" alt="UIUX Project" class="mobile-cover">
+                        <img src="/media/img/ubcsnb-banner.jpg" alt="UIUX Project" class="mobile-cover">
                         <h2>UBC Ski and Snowboard Club</h2>
                         <h3>Content Creation</h3>
                         <p class="project-type">Photo/Video Reels for Social Media</p>
@@ -171,30 +171,12 @@
                     </div> 
                 </div>
             </div>
-
-            <div class="project" id="project-sscs">
-                <div class="project-info"  id="project-info7">
-                    <div class="left-side-info">
-                        <img src="/media/img/projects/uiuxprojectcover.png" alt="UIUX Project" class="mobile-cover">
-                        <h2>Tummy Time Video Series</h2>
-                        <h3>Videos for New Parents</h3>
-                        <p class="project-type">Sea to Sky Communtiy Services</p>
-                        <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
-                        <button class="cta-button">
-                            <a class="cta" href="./projects/tummytime">
-                                Watch + Read More
-                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                            </a>
-                        </button>
-                    </div> 
-                </div>
-            </div>
             
             <div class="project-banner-container">
             <div class="project" id="project-worca">
                 <div class="project-info"  id="project-info5">
                     <div class="left-side-info">
-                        <img src="/media/img/projects/bodyboost/bodyboost1.jpeg" alt="Body Boost Project" class="mobile-cover">
+                        <img src="/media/img/worca-banner.jpg" alt="WORCA Project" class="mobile-cover">
                         <h2>WORCA</h2>
                         <h3>Weekly Social Media Reels</h3>
                         <p class="project-type">Summer 2022</p>
