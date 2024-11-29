@@ -68,10 +68,11 @@
                 <div class="project-info" id="project-info1">
                     <div class="left-side-info">
                         <img src="/media/img/projects/tanina-banner.jpg" class="mobile-cover">
-                        <h2>TITLE</h2>
-                        <h3>Community Fundraising Event</h3>
-                        <p class="project-type">Video Project</p>
-                        <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                        <h2>Indigenous Teachings Video</h2>
+                        <h3>School District 48</h3>
+                        <p class="project-type">Paid Video Project</p>
+                        <p class="project-desc">Tanina Williams taught school staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and
+                        Lil̓wat7úl game during a professional development day in Pemberton BC.<br><br>Role: Videographer + Editor</p>
                         <button class="cta-button">
                             <a class="cta" href="projects/stsfilmfest">
                                 Watch + Read More
@@ -125,7 +126,7 @@
                         <h2>Broadcast Televison</h2>
                         <h3>Work Experience</h3>
                         <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
-                        <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
+                        <p class="project-desc">Nov. 2024 - Grey Cup for TSN<br>July 2024 - Crankworx 2024<br>Dec. 2023 - Luge World Cup<br>July 2023 - Crankworx 2023<br><br>Roles: TVA Utility + Camera Oprator</p>
                         <button class="cta-button">
                             <a class="cta" href="projects/broadcast">
                                 Read More
@@ -143,7 +144,7 @@
                         <h2>Crystal Lodge</h2>
                         <h3>Interview with Ian McIntosh</h3>
                         <p class="project-type">Social Media Videos</p>
-                        <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
+                        <p class="project-desc">Interview with proffesional skier Ian McIntosh to promote Crystal Lodge's accomidation offerings. 2 social media reels and one long-form interview for Youtube.<br><br>Role: Videographer + Editor</p>
                         <button class="cta-button">
                             <a class="cta" href="./projects/crystal">
                                 Watch + Read More
@@ -161,7 +162,7 @@
                         <h2>UBC Ski and Snowboard Club</h2>
                         <h3>Content Creation</h3>
                         <p class="project-type">Photo/Video Reels for Social Media</p>
-                        <p class="project-desc">After designing an interface following UI/UX principles, I improved the interface by conducting user testing and interpreting the results into a final report.<br><br>Role: UI/UX Designer</p>
+                        <p class="project-desc">The UBC Ski and Board Club has invited me out to a number of events including: 50th Anniversary Gala, Rail Jam @ Cypress, and 2024 Beach Kegger.<br><br>Role: Photographer + Videographer</p>
                         <button class="cta-button">
                             <a class="cta" href="./projects/ubcsnb">
                                 Watch + Read More
@@ -179,7 +180,7 @@
                         <h2>WORCA</h2>
                         <h3>Weekly Social Media Reels</h3>
                         <p class="project-type">Summer 2022</p>
-                        <p class="project-desc">In a group of four , we designed high-fidelity mockups for a mobile application to gain experience with linear (waterfall) projects.<br><br>As the project manager , I planned out what tasks needed to be completed when and by who, based on each designer's strengths/preferences.<br><br>Role: Project Manager</p>
+                        <p class="project-desc">Weekly Toonie Races - I created imagery and 60 second reels for social media + newsletter uses, turned around in less than 48 hours.<br><br>Role: Photographer/Videographer/Editor</p>
                         <button class="cta-button">
                             <a class="cta" href="projects/worca">
                                 Watch + Read More
