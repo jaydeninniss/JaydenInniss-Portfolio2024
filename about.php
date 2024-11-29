@@ -59,8 +59,6 @@
 <!-- END HERO IMAGE -->
 
         <div class="content-container">
-            <div id="grey-cover"></div>
-
 
             <div class="header-container">
                 <h1>Jayden Inniss</h1>

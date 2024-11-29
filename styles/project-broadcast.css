@@ -1,14 +1,6 @@
 /* Add stuff here if you need for Broadcast only*/
 /* This loads after and overwrites project-master.css */
 
-h1 {
-    width: 1000px;
-}
-
-.question {
-    margin-top: 40px !important;
-}
-
 @media screen and (min-height: 1200px) {
     .question {
         margin-top: 180px;
@@ -31,19 +23,21 @@ h1 {
     flex-direction: row;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     padding-top: 40px;
     padding-bottom: 40px;
     gap: 20px;
-    height: 500px;
 
     img {
         height: 100%;
+        width: 200px;
         aspect-ratio: 3/4;
         border-radius: 10px;
     }
 
     .video-container {
         height: 100%;
+        width: 200px;
         aspect-ratio: 3/4;
 
         video {

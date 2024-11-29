@@ -55,17 +55,12 @@
         </div>
         <!-- END Header Img -->
 
-        <div class="project-description">
-            <div class="left-col">
-            </div>
-
-            <div class="right-col">
-                <h2>Experience as a Broadcast Camera Operator</h2>
-                <p>Since July 2023</p>
-            </div>
-        </div>
         <div class="content-container">
             <div class="qa-container">
+                <div class="project-description">
+                        <h2>Experience as a Broadcast Camera Operator</h2>
+                        <p>Since July 2023</p>
+                </div>
                 <h3 class="question" id="first">Crankworx 2023 - Camera Operator</h3>
                 <p class="answer">
                     In June 2023, I was approached to work as a camera operator for Crankworx's television broadcast produced by Mesh Productions. I was over the moon to have an opportunity to work for Crankworx, as I grew up as a spectator of the yearly mountain bike event. 

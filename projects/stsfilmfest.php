@@ -55,17 +55,12 @@
         </div>
         <!-- END Header Img -->
 
-        <div class="project-description">
-            <div class="left-col">
-            </div>
-
-            <div class="right-col">
-                <h2>Community Fundraiser</h2>
-                <p>Whistler Secondary Grad Class 2023</p>
-            </div>
-        </div>
         <div class="content-container">
             <div class="qa-container">
+                <div class="project-description">
+                        <h2>Community Fundraiser</h2>
+                        <p>Whistler Secondary Grad Class 2023</p>
+                </div>
                 <h3 class="question" id="first">Overview</h3>
                 <p class="answer">My two peers and I created a film festival designed for youth in Whistler to showcase their filmmaking talent. Sho Brooks, Kenta Tanaka and I led this initiative. The competition was designed as a fundraiser for our graduating class at Whistler Secondary School. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. This event was a huge success: We exceeded our projected profit by $4,000, doubled our expected audience and gave a platform for young aspiring filmmakers to display their work in front of the community. <br><br>Our judging panel was composed of 5 local professional photographers/videographers. The Whistler community generously donated over $2,000 worth of prizes including a brand-new GoPro, which was awarded to the filmmakers and the audience in raffle draws. <br><br>The event would not have been a success without the help of Shauna Hardy and John Hall.</p>
                 
