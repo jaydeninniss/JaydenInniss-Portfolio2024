@@ -4,7 +4,7 @@ const project3 = document.querySelector("#project-alpinearmour")
 const project4 = document.querySelector("#project-crystal")
 const project5 = document.querySelector("#project-worca")
 const project6 = document.querySelector("#project-broadcast")
-const project7 = document.querySelector("#project-sscs")
+// const project7 = document.querySelector("#project-sscs")
 const project8 = document.querySelector("#project-ubcsnb")
 
 gsap.set("#project-info1", { x: -900 });
@@ -13,7 +13,7 @@ gsap.set("#project-info3", { x: -900 });
 gsap.set("#project-info4", { x: -900 });
 gsap.set("#project-info5", { x: -900 });
 gsap.set("#project-info6", { x: -900 });
-gsap.set("#project-info7", { x: -900 });
+// gsap.set("#project-info7", { x: -900 });
 gsap.set("#project-info8", { x: -900 });
 
 let revealInfo1 = gsap.to("#project-info1", {
@@ -58,12 +58,12 @@ let revealInfo6 = gsap.to("#project-info6", {
     ease: true,
 });
 
-let revealInfo7 = gsap.to("#project-info7", {
-    paused: true,
-    x: 0,
-    duration: 0.3,
-    ease: true,
-});
+// let revealInfo7 = gsap.to("#project-info7", {
+//     paused: true,
+//     x: 0,
+//     duration: 0.3,
+//     ease: true,
+// });
 
 let revealInfo8 = gsap.to("#project-info8", {
     paused: true,
@@ -92,8 +92,8 @@ if(window.innerWidth > 1200){
     project6.addEventListener("mouseenter", () => revealInfo6.play());
     project6.addEventListener("mouseleave", () => revealInfo6.reverse());
 
-    project7.addEventListener("mouseenter", () => revealInfo7.play());
-    project7.addEventListener("mouseleave", () => revealInfo7.reverse());
+    // project7.addEventListener("mouseenter", () => revealInfo7.play());
+    // project7.addEventListener("mouseleave", () => revealInfo7.reverse());
 
     project8.addEventListener("mouseenter", () => revealInfo8.play());
     project8.addEventListener("mouseleave", () => revealInfo8.reverse());
@@ -104,6 +104,6 @@ if(window.innerWidth > 1200){
     project4.style.transform = "translateX(900px)";
     project5.style.transform = "translateX(900px)";
     project6.style.transform = "translateX(900px)";
-    project7.style.transform = "translateX(900px)";
+    // project7.style.transform = "translateX(900px)";
     project8.style.transform = "translateX(900px)";
 }

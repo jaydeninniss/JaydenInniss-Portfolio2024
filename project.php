@@ -121,7 +121,7 @@
             <div class="project" id="project-broadcast">
                 <div class="project-info" id="project-info6">
                     <div class="left-side-info">
-                        <img src="/media/img/broadcast-banner-bob.jpg" class="mobile-cover">
+                        <img src="/media/img/broadcast-banner-wsc.jpg" class="mobile-cover">
                         <h2>Broadcast Televison</h2>
                         <h3>Work Experience</h3>
                         <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
@@ -172,7 +172,6 @@
                 </div>
             </div>
             
-            <div class="project-banner-container">
             <div class="project" id="project-worca">
                 <div class="project-info"  id="project-info5">
                     <div class="left-side-info">
@@ -187,7 +186,7 @@
                                 <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                             </a>
                         </button>
-                    </div> 
+                    </div>
                 </div>
             </div>
         </div>
