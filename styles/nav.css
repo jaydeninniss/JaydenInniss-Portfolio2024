@@ -48,7 +48,6 @@
 }
 
 #nav-about {
-    color: #B4D5E4;
     transition: all 0.2s ease;
 }
 
@@ -57,7 +56,6 @@
     text-decoration: underline;
 }
 
-
 /* THIS TOGGLES THE HAMBURGER */
 
 #global-nav {
@@ -65,7 +63,6 @@
 
     @media screen and (min-width: 1200px){
         display: flex;
-        
     }
 }
 
@@ -74,6 +71,5 @@
 
     @media screen and (min-width: 1200px){
         display: none;
-        
     }
 }

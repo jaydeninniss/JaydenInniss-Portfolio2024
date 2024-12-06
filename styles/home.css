@@ -18,7 +18,6 @@ h3 {
     font-style: normal;
     font-weight: 900;
     line-height: normal;
-    padding-top: 45px;
     font-size: 32px;
     margin-left: 20px;
 
@@ -430,7 +429,7 @@ h3 {
         height: 80px;
         position: absolute;
         margin-top: -75px;
-        margin-left: 225px;
+        margin-left: 124px;
         overflow: hidden;
         align-items: start;
         text-align: start;
@@ -453,28 +452,23 @@ h3 {
     }
 }
 
-/* .videography:hover {
-    @media screen and (min-width: 1200px) {
-    background-size: 106%;
-    transition: all 0.4s ease;
-    background-position: center;
-    }
-} */
 .videography:hover > .seemore-container > .seemore-text {
     transform: translateY(-15px);
 }
 
-.newmedia {
+.project {
     height: 100vw;
     width: 100vw;
-    background-image: url("/media/img/newmediabanner.webp");
+    background-image: url("/media/img/project-banner.jpg");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: row-reverse;
-    transition: all 0.6s;
+    transition: all 0.3s;
+    background-color: rgba(0, 0, 0, 0); /* Initially transparent */
+    background-blend-mode: overlay;
 
     @media screen and (min-width: 1200px) {
         height: 800px;
@@ -486,12 +480,13 @@ h3 {
         width: 1100px;
         text-align: right;
         margin-right: 60px;
+        margin-top: 0px;
     }
 
     .seemore-container {
         height: 80px;
         position: absolute;
-        margin-top: 197px;
+        margin-top: 135px;
         margin-right: 60px; 
         overflow: hidden;
         align-items: start;
@@ -515,14 +510,11 @@ h3 {
     }
 }
 
-/* .newmedia:hover {
-    @media screen and (min-width: 1200px) {
-    background-size: 106%;
-    background-position: center;
-    }
-} */
+.project:hover {
+    background-color: rgba(0, 0, 0, 0.6);
+}
 
-.newmedia:hover > .seemore-container > .seemore-text {
+.project:hover > .seemore-container > .seemore-text {
     transform: translateY(-15px);
 }
 
@@ -533,9 +525,6 @@ h3 {
     height: 300%;
 
     background-color: #141414;
-
-
-
 
     @media screen and (min-width: 1200px) {
         height: 100vh;

@@ -1,90 +1,96 @@
 footer {
     display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    position: relative;
-    height: 200px;
+    flex-direction: column; /* Stack sections vertically */
+    align-items: center;
+    justify-content: space-between;
     width: 100vw;
     background-color: var(--jiolive);
-    text-align: center !important;
-    align-items: center;
-
+    padding: 10px 0; /* Reduced padding above and below */
     background-image: url("../media/topo/footer/left.png"), url("../media/topo/footer/right.png");
     background-position: top left, top right;
     background-repeat: no-repeat;
     background-size: 60%;
 
     @media screen and (min-width: 1200px) {
-        height: 200px;
         background-size: auto;
-    }
-
-    .leftfoot {
-        width: 50%;
-        background-size: 100%;
-        background-repeat: no-repeat;
-        display: flex;
-        flex-direction: column;
-        gap: 40px;
-
-
-        @media screen and (min-width: 1200px) {
-            flex-direction: column;
-            padding-left: 180px;
-        }
-
-        p {
-            font-family: "Anybody", sans-serif;
-            font-size: 28px;
-            margin-top: -10px;
-            color: white;
-            font-optical-sizing: auto;
-            font-weight: 800;
-            font-style: normal;
-            font-variation-settings:
-                "wdth" 100;
-
-            @media screen and (min-width: 1200px) {
-                font-size: 54px;
-                margin-top: 10px;
-            }
-        }
-    }
-
-    .rightfoot {
-        width: 48%;
-        text-align: left;
-
-        p {
-            line-height: 1.6;
-            font-weight: 300;
-            color: white;
-            font-size: 18px;
-
-            @media screen and (min-width: 1200px) {
-                font-size: 24px;
-            }
-        }
-    }
-
-    .socials {
-        margin-top: -70px;
-
-        @media screen and (min-width: 1200px) {
-            margin-top: -105px;
-        }        
-
-    }
-    .social-icon {
-        width: 32px;
-        margin: 8px;
     }
 }
 
-#email {
-    font-size: 14px;
+.footer-content {
+    display: flex;
+    justify-content: space-between; 
+    width: 80%; 
+    margin-bottom: 10px; 
+    margin-top: 10px;
+
+
+}
+
+.leftfoot, .rightfoot {
+    width: 48%; /* Share the space */
+}
+
+.leftfoot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+
+    p {
+        font-family: "Anybody", sans-serif;
+        font-size: 28px;
+        color: white;
+        font-weight: 800;
+        margin-top: 10px;
+
+        @media screen and (min-width: 1200px) {
+            font-size: 54px;
+        }
+    }
+}
+
+.rightfoot {
+    text-align: center;
+    justify-content: center;
+
+    p {
+        line-height: 1; /* Slightly tighter line spacing */
+        font-weight: 300;
+        margin-top: 30px;
+        color: white;
+        font-size: 18px;
+
+        @media screen and (min-width: 1200px) {
+            font-size: 20px;
+        }
+    }
+}
+
+.socials {
+    margin-top: -60px; /* Slightly reduced negative margin */
+    display: flex;
+    justify-content: center;
 
     @media screen and (min-width: 1200px) {
-        font-size: 24px;
+        margin-top: -70px; /* Adjusted for larger screens */
+    }        
+}
+
+.social-icon {
+    width: 32px;
+    margin: 8px;
+}
+
+#land {
+    width: 80%;
+    text-align: center;
+    margin-top: 10px; /* Minimal spacing above the land text */
+    font-size: 16px;
+    font-weight: 300;
+
+
+    @media screen and (min-width: 1200px) {
+        font-size: 12px;
     }
 }

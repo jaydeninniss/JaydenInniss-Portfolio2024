@@ -140,9 +140,9 @@
             </div>
         </a>
 
-        <a href="newmedia">
-            <div class="newmedia">
-                <h3>NEW MEDIA PROJECTS</h3>
+        <a href="project">
+            <div class="project">
+                <h3 id="project-header">RECENT PROJECTS</h3>
                 <div class="seemore-container">
                     <p class="seemore-text">See All Projects →</p>
                 </div>
