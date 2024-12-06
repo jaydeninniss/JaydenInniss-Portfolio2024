@@ -90,7 +90,6 @@ main {
         .qa-container {
             display: flex;
             flex-direction: column;
-            align-items: center;
             width: 90vw;
             text-align: left;
             position: relative;

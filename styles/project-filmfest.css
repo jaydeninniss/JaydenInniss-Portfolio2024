@@ -15,3 +15,12 @@ h1 {
         margin-top: 180px;
     }
 }
+
+.qa-container {
+    align-items: left !important;
+}
+
+.highlight{
+    color: var(--jilightgreen);
+    font-weight: bold;
+}
