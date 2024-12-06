@@ -88,9 +88,9 @@ footer {
     margin-top: 10px; /* Minimal spacing above the land text */
     font-size: 16px;
     font-weight: 300;
-    color: var(--jilightgreen);
+
 
     @media screen and (min-width: 1200px) {
-        font-size: 14px;
+        font-size: 12px;
     }
 }
