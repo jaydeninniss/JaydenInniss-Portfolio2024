@@ -60,16 +60,16 @@
     <div class="content-container">
 
                 <div class="header-banner">
-                    <h2>Most Recent Project</h2>
+                    <h2>Most Recent Video Project</h2>
                 </div>
 
                 <section class="video-holder">
                     <h3>Indigenous Teachings at School District 48</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <p>The goal was to create an informational video featuring School District 48 teachers and trustees participating in a day of learning the traditional ways of the Sk̲wx̲wú7mesh and Lil̓wat7úl peoples. <br>Tanina Williams taught staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game during a professional development day in Pemberton BC.</p>
+                    <p>The goal was to create an <span class = "highlight">educational video</span> that would help to raise awareness about the traditional ways of the Sk̲wx̲ẃ7mesh and Lil̓wat7́l peoples. The <span class = "highlight">12-minute video</span> featured School District 48 teachers and trustees participating in a day of learning during a proffesional development day.<br><br><span class = "highlight">Tanina Williams taught staff how to make Plank Drums</span> and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game at Signal Hill Elemntary School in Pemberton, BC.</p>
                     <button class="cta-button">
                         <a class="cta" href="#">
-                            Read More
+                            Read More + Watch
                             <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                         </a>
                     </button>

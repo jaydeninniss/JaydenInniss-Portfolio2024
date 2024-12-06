@@ -57,3 +57,8 @@ ul {
     font-style: normal;
     color: white;
 }
+
+.highlight{
+  color: #fff;
+  font-weight: bold;
+}
