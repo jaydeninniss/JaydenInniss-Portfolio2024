@@ -80,3 +80,7 @@ main {
     transition: all 0.2s ease;
     background-image: none;
 }
+
+iframe {
+    border-radius: 40px;
+}
