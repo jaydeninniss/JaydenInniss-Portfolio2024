@@ -139,6 +139,7 @@ h3 {
         p {
             max-width: 80%;
             margin-bottom: 40px;
+            text-align: left;
         }
 
         @media screen and (min-width: 1200px) {
@@ -163,7 +164,7 @@ h3 {
         }
 
         p {
-            max-width: 65%;
+            max-width: 80%;
             display: flex;
             justify-content: center;
             text-align: left;
@@ -207,10 +208,6 @@ h3 {
                 flex-grow: 1;
             }
 
-            .daysoff {
-                max-width: 80vw;
-            }
-
             @media screen and (min-width: 1200px){
                 .value-title {
                     font-weight: 800;
@@ -251,9 +248,9 @@ h3 {
                     flex-shrink: 2;
                     height: 100%;
                     width: 100%;
-                    background-image: url("../media/img/about1.jpeg");
+                    background-image: url("../media/img/about4.jpg");
                     background-size: cover;
-                    background-position: center;
+                    background-position: center top;
                 }
 
                 #img2 {

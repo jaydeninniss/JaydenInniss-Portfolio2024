@@ -61,7 +61,7 @@
         <div class="content-container">
 
             <div class="header-container">
-                <h1>Jayden Inniss</h1>
+                <h1>About Me</h1>
             </div>
 
             <div class="description-container">
