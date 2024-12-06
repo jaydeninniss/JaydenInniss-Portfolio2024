@@ -44,9 +44,14 @@ h1 {
     gap: 20px;
 
     img {
-        height: 600px;
+        height: 45vw;
         width: auto;
         border-radius: 10px;
+    }
+
+    .smaller {
+        height: 20vw;
+
     }
 
     .video-container {
