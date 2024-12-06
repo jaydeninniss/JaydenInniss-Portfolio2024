@@ -91,7 +91,7 @@
                             <p class="project-desc">Tanina Williams taught school staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and
                             Lil̓wat7úl game during a professional development day in Pemberton BC.<br><br>Role: Videographer + Editor</p>
                             <button class="cta-button">
-                                <a class="cta" href="projects/stsfilmfest">
+                                <a class="cta" href="projects/indigenousteachings">
                                     Watch + Read More
                                     <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                                 </a>
