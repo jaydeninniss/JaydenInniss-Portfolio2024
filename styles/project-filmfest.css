@@ -16,10 +16,6 @@ h1 {
     }
 }
 
-.qa-container {
-    align-items: left !important;
-}
-
 .highlight{
     color: var(--jilightgreen);
     font-weight: bold;
