@@ -137,24 +137,6 @@
                 </div>
             </div>
 
-            <div class="project" id="project-crystal">
-                <div class="project-info"  id="project-info4">
-                    <div class="left-side-info">
-                        <img src="/media/img/projects/crystal-banner.jpg" alt="Crystal Project" class="mobile-cover">
-                        <h2>Crystal Lodge</h2>
-                        <h3>Interview with Ian McIntosh</h3>
-                        <p class="project-type">Social Media Videos</p>
-                        <p class="project-desc">Interview with proffesional skier Ian McIntosh to promote Crystal Lodge's accomidation offerings. 2 social media reels and one long-form interview for Youtube.<br><br>Role: Videographer + Editor</p>
-                        <button class="cta-button">
-                            <a class="cta" href="./projects/crystal">
-                                Watch + Read More
-                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                            </a>
-                        </button>
-                    </div> 
-                </div>
-            </div>
-
             <div class="project" id="project-ubcsnb">
                 <div class="project-info"  id="project-info8">
                     <div class="left-side-info">
