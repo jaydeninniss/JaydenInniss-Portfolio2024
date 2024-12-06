@@ -385,3 +385,19 @@ h3 {
         }
     }
 }
+
+.bio-video {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 60vw;
+    aspect-ratio: 16/9;
+
+
+    iframe {
+        width: 100%;
+        height: 100%;
+        border-radius: 20px;
+    }
+}

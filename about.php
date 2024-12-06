@@ -98,6 +98,10 @@
                         </div>
                         Dear future Jayden: Bento BOX! - HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
 
+                <div class="bio-video">
+                <iframe src="https://www.youtube.com/embed/0tTPn1UYHRY?controls=1&info=0&title=0&modestbranding=1&rel=0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                </div>
 
 
                 <div class="question">
