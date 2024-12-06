@@ -65,7 +65,7 @@
             </div>
 
             <div class="description-container">
-                <p>Over the past five years, I have built a freelance business, collaborating with various companies and organizations to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in both extreme sports and digital marketing, I create specialized marketing content tailored to outdoor enthusiasts like myself. I always make room in my pack for my camera!</p>
+                <p>Over the past five years, I have built a freelance business, collaborating with companies and organizations in the outdoor industry to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in both extreme sports and digital marketing, I create specialized marketing content tailored to outdoor enthusiasts like myself. I always make room in my pack for my camera!</p>
             </div>
 
             <!-- <div class="image-container"><img src="../media/img/jaydeninniss-profilepic.jpeg" id="about-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand"></div> -->
@@ -122,7 +122,7 @@
                     <h2>My Days Off</h2>
                 </div>
                 <div class="answer">
-                    <p class="daysoff">I definitely fit the stereotype of a “Whistler Kid”. <br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping in my backyard, the Sea to Sky corridor!<br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
+                    <p class="daysoff">Whenever I have the chance, I am on the hill skiing, riding or backcountry camping in my backyard, the Sea to Sky corridor! I definitely fit into the stereotype of a “Whistler Kid”. </p>
                     
                     <div class="image-holder">
                         <div class="images" id="img1"  alt="Jayden Inniss smiling holding a camera">
