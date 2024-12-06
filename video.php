@@ -22,6 +22,7 @@
 
     <!-- CSS -->
     <link rel="stylesheet" href="../styles/style.css">
+    <link rel="stylesheet" href="../styles/project.css">
     <link rel="stylesheet" href="../styles/video.css">
 
     <!-- GSAP -->
@@ -49,60 +50,109 @@
     <?php include "./parts/header.php" ?>
     <?php include "./parts/hamburger.php" ?>
 
-    <!-- HERO IMAGE -->
+    <!-- HERO VIDEO -->
     <div id="video-hero">
+        <video src="/media/video/highlight.mp4" type="video/mp4" autoplay loop muted></video>
+        <!-- <iframe src="https://www.youtube.com/embed/y8ER6FzXbqA?autoplay=1&mute=1&controls=0&autohide=1&showinfo=0&loop=1?vq=hd1080p" width="1571" height="880" title="" frameborder="0" allow="accelerometer; autoplay; loop; muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
     </div>
-    <!-- END HERO IMAGE -->
+    <!-- END HERO VIDEO -->
 
     <div class="content-container">
 
                 <div class="header-banner">
-                    <h2>Video Projects</h2>
+                    <h2>Most Recent Video Project</h2>
                 </div>
 
                 <section class="video-holder">
                     <h3>Indigenous Teachings at School District 48</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <p>The goal was to create an informational video featuring School District 48 teachers and trustees participating in a day of learning the traditional ways of the Sk̲wx̲wú7mesh and Lil̓wat7úl peoples. <br>Tanina Williams taught staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game during a professional development day in Pemberton BC.</p>
-                    <!-- <button class="cta-button">
+                    <p>The goal was to create an <span class = "highlight">educational video</span> that would help to raise awareness about the traditional ways of the Sk̲wx̲ẃ7mesh and Lil̓wat7́l peoples. The <span class = "highlight">10-minute video</span> featured School District 48 teachers and trustees participating in a day of learning during a proffesional development day.<br><br><span class = "highlight">Tanina Williams taught staff how to make Plank Drums</span> and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game at Signal Hill Elemntary School in Pemberton, BC.</p>
+                    <button class="cta-button">
                         <a class="cta" href="#">
-                            Read More
+                            Read More + Watch
                             <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                         </a>
-                    </button> -->
+                    </button>
                 </section>
 
-                <section class="video-holder broadcast-card">
-                    <a href="/projects/broadcast" class="broadcast-link">
-                    <h3>Broadcast Television Experience</h3>    
-                    <div class="broadcast-image"></div>
-                    </a>
-                </section>
+                <div class="header-banner">
+                    <h2>All Video Projects</h2>
+                </div>
 
-                <section class="video-holder">
-                    <h3>Tummy Time Video Series - Sea to Sky Community Services</h3>
-                    <iframe class="yt-video" src="https://www.youtube.com/embed/izV_ByRCgYA?si=o4UHkEoRDAIuEiMo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <iframe class="yt-video" src="https://www.youtube.com/embed/j9KbEd3iXu4?si=BqCjDCyqSFojXLj0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <p>In collaboration with SSCS, I produced two videos explaining newborn babies' growth and development from crawling to walking. These educational videos are currently being used by local physicians as a resource for new parents.</p>
-                    <!-- <button class="cta-button">
-                        <a class="cta" href="">
-                            Read More
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                        </a>
-                    </button> -->
-                </section>
+                <div class="project-banner-container">
 
-                <section class="video-holder">
-                    <h3>Crystal Lodge - Interview with Ian McIntosh</h3>
-                    <iframe class="yt-video" src="https://www.youtube.com/embed/WUKQpHO5CeU?si=KpOMjsHg8wotM9ra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <!-- <p>Description</p> -->
-                    <!-- <button class="cta-button">
-                        <a class="cta" href="">
-                            Read More
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                        </a>
-                    </button> -->
-                </section>
+                <div class="project" id="project-indigenousvideo">
+                    <div class="project-info" id="project-info-tanina">
+                        <div class="left-side-info">
+                            <img src="/media/img/projects/tanina-banner.jpg" class="mobile-cover">
+                            <h2>Indigenous Teachings Video</h2>
+                            <h3>School District 48</h3>
+                            <p class="project-type">Paid Video Project</p>
+                            <p class="project-desc">Tanina Williams taught school staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and
+                            Lil̓wat7úl game during a professional development day in Pemberton BC.<br><br>Role: Videographer + Editor</p>
+                            <button class="cta-button">
+                                <a class="cta" href="projects/indigenousteachings">
+                                    Watch + Read More
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                </a>
+                            </button>
+                        </div> 
+                    </div>
+                </div>
+
+                <div class="project" id="project-broadcast">
+                    <div class="project-info" id="project-info-broadcast">
+                        <div class="left-side-info">
+                            <img src="/media/img/broadcast-banner-wsc.jpg" class="mobile-cover">
+                            <h2>Broadcast Televison</h2>
+                            <h3>Work Experience</h3>
+                            <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
+                            <p class="project-desc">Nov. 2024 - Grey Cup for TSN<br>July 2024 - Crankworx 2024<br>Dec. 2023 - Luge World Cup<br>July 2023 - Crankworx 2023<br><br>Roles: TVA Utility + Camera Oprator</p>
+                            <button class="cta-button">
+                                <a class="cta" href="projects/broadcast">
+                                    Read More
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                </a>
+                            </button>
+                        </div> 
+                    </div>
+                </div>
+
+                <div class="project" id="project-ubcsnb">
+                    <div class="project-info"  id="project-info-ubcsnb">
+                        <div class="left-side-info">
+                            <img src="/media/img/ubcsnb-banner.jpg" alt="UIUX Project" class="mobile-cover">
+                            <h2>UBC Ski and Snowboard Club</h2>
+                            <h3>Content Creation</h3>
+                            <p class="project-type">Photo/Video Reels for Social Media</p>
+                            <p class="project-desc">The UBC Ski and Board Club has invited me out to a number of events including: 50th Anniversary Gala, Rail Jam @ Cypress, and 2024 Beach Kegger.<br><br>Role: Photographer + Videographer</p>
+                            <button class="cta-button">
+                                <a class="cta" href="./projects/ubcsnb">
+                                    Watch + Read More
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                </a>
+                            </button>
+                        </div> 
+                    </div>
+                </div>
+                
+                <div class="project" id="project-worca">
+                    <div class="project-info"  id="project-info-worca">
+                        <div class="left-side-info">
+                            <img src="/media/img/worca-banner.jpg" alt="WORCA Project" class="mobile-cover">
+                            <h2>WORCA</h2>
+                            <h3>Weekly Social Media Reels</h3>
+                            <p class="project-type">Summer 2022</p>
+                            <p class="project-desc">Weekly Toonie Races - I created imagery and 60 second reels for social media + newsletter uses, turned around in less than 48 hours.<br><br>Role: Photographer/Videographer/Editor</p>
+                            <button class="cta-button">
+                                <a class="cta" href="projects/worca">
+                                    Watch + Read More
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                </a>
+                            </button>
+                        </div>
+                    </div>
+                </div>
 
                 <div class="header-banner" id="caboose">
                     <h3><a href="#video-hero">Back to Top</a></h3>
@@ -111,6 +161,8 @@
         <?php include "./parts/footer.php" ?>
     </div>
     </main>
+
+    <script src="./js/video.js"></script>
 
 </body>
 </html>

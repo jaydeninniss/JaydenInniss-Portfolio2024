@@ -59,15 +59,13 @@
 <!-- END HERO IMAGE -->
 
         <div class="content-container">
-            <div id="grey-cover"></div>
-
 
             <div class="header-container">
-                <h1>Jayden Inniss</h1>
+                <h1>About Me</h1>
             </div>
 
             <div class="description-container">
-                <p>Over the past five years, I have built a freelance business, collaborating with various companies and organizations to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in both extreme sports and digital marketing, I create specialized marketing content tailored to outdoor enthusiasts like myself. I always make room in my pack for my camera!</p>
+                <p>Over the past <span class = "highlight">five years,</span> I have built a <span class = "highlight">freelance business,</span> collaborating with companies and organizations in the outdoor industry to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in <span class = "highlight">both extreme sports and digital marketing,</span> I create specialized marketing content tailored to outdoor enthusiasts like myself. <br><br>I always make room in my pack for my camera!</p>
             </div>
 
             <!-- <div class="image-container"><img src="../media/img/jaydeninniss-profilepic.jpeg" id="about-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand"></div> -->
@@ -100,6 +98,10 @@
                         </div>
                         Dear future Jayden: Bento BOX! - HERE it would be cool to have somesort of interactivity like unfolding cards or flexbasis shenanigans? -->
 
+                <div class="bio-video">
+                <iframe src="https://www.youtube.com/embed/0tTPn1UYHRY?controls=1&info=0&title=0&modestbranding=1&rel=0" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+                </div>
 
 
                 <div class="question">
@@ -123,14 +125,9 @@
                 <div class="question">
                     <h2>My Days Off</h2>
                 </div>
-                <div class="answer" id='last-answer'>
-                    <p class="daysoff">I definitely fit the stereotype of a “Whistler Kid”. <br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping in my backyard, the Sea to Sky corridor!<br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
-                    <button class="cta-button">
-                        <a class="cta" href="/media/resume-jaydeninniss.pdf" target="_blank">
-                            View My Resume
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                        </a>
-                    </button>
+                <div class="answer">
+                    <p class="daysoff">Whenever I have the chance, I am on the hill skiing, riding or backcountry camping in my backyard, the Sea to Sky corridor! I definitely fit into the stereotype of a “Whistler Kid”. </p>
+                    
                     <div class="image-holder">
                         <div class="images" id="img1"  alt="Jayden Inniss smiling holding a camera">
                         </div>
@@ -140,6 +137,30 @@
                         </div>
                     </div>
                 </div> 
+
+                <div class="question">
+                    <h2>Reach out!</h2>
+                </div>
+                <div class="answer" id='last-answer'>
+                    <p>
+                    Whether you're looking to collaborate on content creation or simply want to go skiing together, don't hesitate to reach out!
+                    </p>
+                    <button class="cta-button">
+                        <a class="cta" href="/media/resume-jaydeninniss.pdf" target="_blank">
+                            View My Resume
+                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        </a>
+                    </button>
+                    
+                    <p><br></p>
+                    
+                    <button class="cta-button">
+                        <a class="cta" href="mailto:contact@jaydeninniss.com">
+                            Contact@jaydeninniss.com
+                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        </a>
+                    </button>
+                </div>
 
             </div> 
             <?php include "./parts/footer.php" ?>

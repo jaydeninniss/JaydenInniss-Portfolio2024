@@ -43,18 +43,18 @@ main {
     }
 
     .project-description {
-        padding: 0 30px 0 30px;
         display: flex;
-        justify-content: space-between;
+        flex-direction: column;
+        place-self: start;
 
         h2 {
             color: #FFF;
-            text-align: right;
             font-family: "Anybody";
             font-size: 18px;
             font-style: normal;
             font-weight: 500;
             line-height: 1.2;
+            margin: 0;
 
             @media screen and (min-width: 1200px) {
                 font-size: 32px;
@@ -63,7 +63,6 @@ main {
         }
 
         p {
-            text-align: right;
             font-family: "Be Vietnam Pro";
             font-size: 24px;
             font-style: normal;
@@ -79,7 +78,7 @@ main {
     .content-container {
         display: flex;
         flex-direction: column;
-        align-content: center;
+        align-items: center;
         padding-bottom: 160px;
         padding-top: 60px;
         text-align: left;
@@ -91,7 +90,7 @@ main {
         .qa-container {
             display: flex;
             flex-direction: column;
-            width: 100vw;
+            width: 90vw;
             text-align: left;
             position: relative;
 
@@ -110,32 +109,27 @@ main {
                 font-weight: 500;
                 line-height: normal;
                 height: 50px;
-                margin-left: 20px;
                 margin-top: 180px;
 
                 @media screen and (min-width: 1200px) {
-                    margin-left: 60px;
                     font-size: 42px;
                 }
             }
 
             .answer {
-                max-width: 80vw;
+                width: 100%;
                 position: relative;
                 font-family: "Be Vietnam Pro";
                 font-style: normal;
-                margin-left: 50px;
                 line-height: 1.4;
                 font-weight: 200;
                 font-size: 14px;
                 margin-top: -30px;
 
                 @media screen and (min-width: 1200px) {
-                    margin-left: 120px;
                     line-height: 1.4;
                     font-weight: 200;
                     font-size: 20px;
-                    max-width: 1000px;
                     margin-top: 0px;
                 }
             }
@@ -195,18 +189,6 @@ main {
             width: 40%;
             margin: 0 auto;
             padding-top: 30px;
-
-            p {
-                color: white;
-            }
-        }
-
-        .right-col {
-            flex: 0 0 1;
-            width: 40%;
-            margin: 0 auto;
-            padding-top: 30px;
-            color: white;
 
             p {
                 color: white;
