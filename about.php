@@ -123,12 +123,7 @@
                 </div>
                 <div class="answer">
                     <p class="daysoff">I definitely fit the stereotype of a “Whistler Kid”. <br>Whenever I have the chance, I am up the hill skiing, riding or out backcountry camping in my backyard, the Sea to Sky corridor!<br><br>Of course, I don't have many photos of myself because I am always taking the photos, but here's a few shots of me in front of the lens!</p>
-                    <button class="cta-button">
-                        <a class="cta" href="/media/resume-jaydeninniss.pdf" target="_blank">
-                            View My Resume
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                        </a>
-                    </button>
+                    
                     <div class="image-holder">
                         <div class="images" id="img1"  alt="Jayden Inniss smiling holding a camera">
                         </div>
@@ -146,6 +141,15 @@
                     <p>
                     Whether you're looking to collaborate on content creation or simply want to go skiing together, don't hesitate to reach out!
                     </p>
+                    <button class="cta-button">
+                        <a class="cta" href="/media/resume-jaydeninniss.pdf" target="_blank">
+                            View My Resume
+                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        </a>
+                    </button>
+                    
+                    <p><br></p>
+                    
                     <button class="cta-button">
                         <a class="cta" href="mailto:contact@jaydeninniss.com">
                             Contact@jaydeninniss.com
