@@ -52,27 +52,31 @@
 
     <!-- HERO VIDEO -->
     <div id="video-hero">
-        <video src=""></video>
+        <iframe src="https://www.youtube.com/embed/y8ER6FzXbqA?autoplay=1&mute=1&controls=0&autohide=1&showinfo=0&loop=1?vq=hd1080p" width="1571" height="880" title="" frameborder="0" allow="accelerometer; autoplay; loop; muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <!-- END HERO VIDEO -->
 
     <div class="content-container">
 
                 <div class="header-banner">
-                    <h2>Video Projects</h2>
+                    <h2>Most Recent Project</h2>
                 </div>
 
                 <section class="video-holder">
                     <h3>Indigenous Teachings at School District 48</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <p>The goal was to create an informational video featuring School District 48 teachers and trustees participating in a day of learning the traditional ways of the Sk̲wx̲wú7mesh and Lil̓wat7úl peoples. <br>Tanina Williams taught staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game during a professional development day in Pemberton BC.</p>
-                    <!-- <button class="cta-button">
+                    <button class="cta-button">
                         <a class="cta" href="#">
                             Read More
                             <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                         </a>
-                    </button> -->
+                    </button>
                 </section>
+
+                <div class="header-banner">
+                    <h2>All Video Projects</h2>
+                </div>
 
                 <div class="project-banner-container">
 
