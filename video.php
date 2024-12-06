@@ -66,7 +66,7 @@
                 <section class="video-holder">
                     <h3>Indigenous Teachings at School District 48</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                    <p>The goal was to create an <span class = "highlight">educational video</span> that would help to raise awareness about the traditional ways of the Sk̲wx̲ẃ7mesh and Lil̓wat7́l peoples. The <span class = "highlight">12-minute video</span> featured School District 48 teachers and trustees participating in a day of learning during a proffesional development day.<br><br><span class = "highlight">Tanina Williams taught staff how to make Plank Drums</span> and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game at Signal Hill Elemntary School in Pemberton, BC.</p>
+                    <p>The goal was to create an <span class = "highlight">educational video</span> that would help to raise awareness about the traditional ways of the Sk̲wx̲ẃ7mesh and Lil̓wat7́l peoples. The <span class = "highlight">10-minute video</span> featured School District 48 teachers and trustees participating in a day of learning during a proffesional development day.<br><br><span class = "highlight">Tanina Williams taught staff how to make Plank Drums</span> and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game at Signal Hill Elemntary School in Pemberton, BC.</p>
                     <button class="cta-button">
                         <a class="cta" href="#">
                             Read More + Watch
@@ -81,41 +81,78 @@
 
                 <div class="project-banner-container">
 
-                    <div class="project" id="project-broadcast">
-                        <div class="project-info" id="project-info6">
-                            <div class="left-side-info">
-                                <img src="/media/img/broadcast-banner.jpg" class="mobile-cover">
-                                <h2>Broadcast Televison</h2>
-                                <h3>Work Experience</h3>
-                                <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
-                                <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
-                                <button class="cta-button">
-                                    <a class="cta" href="projects/broadcast">
-                                        Read More
-                                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                                    </a>
-                                </button>
-                            </div> 
-                        </div>
+                <div class="project" id="project-indigenousvideo">
+                    <div class="project-info" id="project-info-tanina">
+                        <div class="left-side-info">
+                            <img src="/media/img/projects/tanina-banner.jpg" class="mobile-cover">
+                            <h2>Indigenous Teachings Video</h2>
+                            <h3>School District 48</h3>
+                            <p class="project-type">Paid Video Project</p>
+                            <p class="project-desc">Tanina Williams taught school staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and
+                            Lil̓wat7úl game during a professional development day in Pemberton BC.<br><br>Role: Videographer + Editor</p>
+                            <button class="cta-button">
+                                <a class="cta" href="projects/stsfilmfest">
+                                    Watch + Read More
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                </a>
+                            </button>
+                        </div> 
                     </div>
+                </div>
 
-                    <div class="project" id="project-indigenousvideo">
-                        <div class="project-info" id="project-info1">
-                            <div class="left-side-info">
-                                <img src="/media/img/projects/tanina-banner.jpg" class="mobile-cover">
-                                <h2>TITLE</h2>
-                                <h3>Community Fundraising Event</h3>
-                                <p class="project-type">Video Project</p>
-                                <p class="project-desc">Two peers and I created an event as a grad fundraiser for our high school. After receiving 9 submitted films, we held a viewing night at our school for an audience of over 300. <br><br>Role: Co-Founder</p>
-                                <button class="cta-button">
-                                    <a class="cta" href="projects/stsfilmfest">
-                                        Watch + Read More
-                                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
-                                    </a>
-                                </button>
-                            </div> 
+                <div class="project" id="project-broadcast">
+                    <div class="project-info" id="project-info-broadcast">
+                        <div class="left-side-info">
+                            <img src="/media/img/broadcast-banner-wsc.jpg" class="mobile-cover">
+                            <h2>Broadcast Televison</h2>
+                            <h3>Work Experience</h3>
+                            <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
+                            <p class="project-desc">Nov. 2024 - Grey Cup for TSN<br>July 2024 - Crankworx 2024<br>Dec. 2023 - Luge World Cup<br>July 2023 - Crankworx 2023<br><br>Roles: TVA Utility + Camera Oprator</p>
+                            <button class="cta-button">
+                                <a class="cta" href="projects/broadcast">
+                                    Read More
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                </a>
+                            </button>
+                        </div> 
+                    </div>
+                </div>
+
+                <div class="project" id="project-ubcsnb">
+                    <div class="project-info"  id="project-info-ubcsnb">
+                        <div class="left-side-info">
+                            <img src="/media/img/ubcsnb-banner.jpg" alt="UIUX Project" class="mobile-cover">
+                            <h2>UBC Ski and Snowboard Club</h2>
+                            <h3>Content Creation</h3>
+                            <p class="project-type">Photo/Video Reels for Social Media</p>
+                            <p class="project-desc">The UBC Ski and Board Club has invited me out to a number of events including: 50th Anniversary Gala, Rail Jam @ Cypress, and 2024 Beach Kegger.<br><br>Role: Photographer + Videographer</p>
+                            <button class="cta-button">
+                                <a class="cta" href="./projects/ubcsnb">
+                                    Watch + Read More
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                </a>
+                            </button>
+                        </div> 
+                    </div>
+                </div>
+                
+                <div class="project" id="project-worca">
+                    <div class="project-info"  id="project-info-worca">
+                        <div class="left-side-info">
+                            <img src="/media/img/worca-banner.jpg" alt="WORCA Project" class="mobile-cover">
+                            <h2>WORCA</h2>
+                            <h3>Weekly Social Media Reels</h3>
+                            <p class="project-type">Summer 2022</p>
+                            <p class="project-desc">Weekly Toonie Races - I created imagery and 60 second reels for social media + newsletter uses, turned around in less than 48 hours.<br><br>Role: Photographer/Videographer/Editor</p>
+                            <button class="cta-button">
+                                <a class="cta" href="projects/worca">
+                                    Watch + Read More
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                </a>
+                            </button>
                         </div>
                     </div>
+                </div>
 
                 <div class="header-banner" id="caboose">
                     <h3><a href="#video-hero">Back to Top</a></h3>
@@ -125,7 +162,7 @@
     </div>
     </main>
 
-    <script src="./js/projects.js"></script>
+    <script src="./js/video.js"></script>
 
 </body>
 </html>
