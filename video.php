@@ -52,11 +52,7 @@
 
     <!-- HERO VIDEO -->
     <div id="video-hero">
-<<<<<<< Updated upstream
-        <video src="/media/video/highlight.mp4" type="video/mp4" autoplay loop muted></video>
-=======
         <video src="/media/video/highlightreel.mp4" type="video/mp4" autoplay loop muted></video>
->>>>>>> Stashed changes
         <!-- <iframe src="https://www.youtube.com/embed/y8ER6FzXbqA?autoplay=1&mute=1&controls=0&autohide=1&showinfo=0&loop=1?vq=hd1080p" width="1571" height="880" title="" frameborder="0" allow="accelerometer; autoplay; loop; muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
     </div>
     <!-- END HERO VIDEO -->
