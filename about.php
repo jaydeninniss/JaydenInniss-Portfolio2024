@@ -65,7 +65,7 @@
             </div>
 
             <div class="description-container">
-                <p>Over the past five years, I have built a freelance business, collaborating with companies and organizations in the outdoor industry to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in both extreme sports and digital marketing, I create specialized marketing content tailored to outdoor enthusiasts like myself. I always make room in my pack for my camera!</p>
+                <p>Over the past <span class = "highlight">five years,</span> I have built a <span class = "highlight">freelance business,</span> collaborating with companies and organizations in the outdoor industry to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in <span class = "highlight">both extreme sports and digital marketing,</span> I create specialized marketing content tailored to outdoor enthusiasts like myself. <br><br>I always make room in my pack for my camera!</p>
             </div>
 
             <!-- <div class="image-container"><img src="../media/img/jaydeninniss-profilepic.jpeg" id="about-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand"></div> -->

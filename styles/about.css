@@ -393,7 +393,7 @@ h3 {
     height: auto;
     width: 60vw;
     aspect-ratio: 16/9;
-
+    margin-bottom: 60px;
 
     iframe {
         width: 100%;
