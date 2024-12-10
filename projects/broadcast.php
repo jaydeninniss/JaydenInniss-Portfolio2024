@@ -101,9 +101,9 @@
                 </p>
 
                 <div class="image-container">
-                    <img src="../media/img/projects/broadcast/crankworxcam2.jpeg" alt="">
-                    <img src="../media/img/projects/broadcast/crankworxcamalex.jpeg" alt="">
-                    <img src="../media/img/projects/broadcast/crankworxcam3.jpeg" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcam2.jpeg" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcamalex.jpeg" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcam3.jpeg" alt="">
                 </div>
 
                 <p class="answer">
@@ -111,10 +111,10 @@
                 </p>
 
                 <div class="image-container">
-                    <img src="../media/img/projects/broadcast/crankworxvip.jpeg" alt="">
-                    <video src="../media/img/projects/broadcast/viewfinder.mp4" autoplay loop muted></video>
-                    <img src="../media/img/projects/broadcast/clintedit1.jpeg" alt="">
-                    <video src="../media/img/projects/broadcast/clint.mp4" autoplay loop muted></video>
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxvip.jpeg" alt="">
+                    <video class = "smaller" src="../media/img/projects/broadcast/viewfinder.mp4" autoplay loop muted></video>
+                    <img class = "smaller" src="../media/img/projects/broadcast/clintedit1.jpeg" alt="">
+                    <video class = "smaller" src="../media/img/projects/broadcast/clint.mp4" autoplay loop muted></video>
                 </div>
                 
                 <p class="answer">
