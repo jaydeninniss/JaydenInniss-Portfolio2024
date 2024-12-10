@@ -33,7 +33,7 @@
     <!-- SEO -->
     <meta property="og:title" content="Broadcast Camera Op - Jayden Inniss">
     <meta property="og:type" content="website">
-    <meta property="og:URL" content="https://www.jaydeninniss.com/projects/stsfilmfest">
+    <meta property="og:URL" content="https://www.jaydeninniss.com/projects/broadcast">
     <meta property="og:image" content="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
     <meta property="og:description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
     <meta name="robots" content="all"> 

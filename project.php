@@ -31,7 +31,7 @@
     <!-- SEO -->
     <meta property="og:title" content="Projects - Jayden Inniss">
     <meta property="og:type" content="website">
-    <meta property="og:URL" content="https://www.jaydeninniss.com/newmedia">
+    <meta property="og:URL" content="https://www.jaydeninniss.com/project">
     <meta property="og:image" content="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
     <meta property="og:description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
     <meta name="robots" content="all"> 
@@ -68,8 +68,8 @@
                 <div class="project-info" id="project-info1">
                     <div class="left-side-info">
                         <img src="/media/img/banners/tanina-banner.webp" class="mobile-cover">
-                        <h2>Indigenous Teachings Video</h2>
-                        <h3>School District 48</h3>
+                        <h2>Day of Indigenous Teachings Video</h2>
+                        <h3>For School District 48</h3>
                         <p class="project-type">Paid Video Project</p>
                         <p class="project-desc">Tanina Williams taught school staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and
                         Lil̓wat7úl game during a professional development day in Pemberton BC.<br><br>Role: Videographer + Editor</p>

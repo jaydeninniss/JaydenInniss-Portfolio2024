@@ -64,7 +64,7 @@
                 </div>
 
                 <section class="video-holder">
-                    <h3>Indigenous Teachings at School District 48</h3>
+                    <h3>Day of Indigenous Teachings at School District 48</h3>
                     <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <p>The goal was to create an <span class = "highlight">educational video</span> that would help to raise awareness about the traditional ways of the Sk̲wx̲ẃ7mesh and Lil̓wat7́l peoples. The <span class = "highlight">10-minute video</span> featured School District 48 teachers and trustees participating in a day of learning during a proffesional development day.<br><br><span class = "highlight">Tanina Williams taught staff how to make Plank Drums</span> and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game at Signal Hill Elemntary School in Pemberton, BC.</p>
                     <button class="cta-button">
@@ -85,8 +85,8 @@
                     <div class="project-info" id="project-info-tanina">
                         <div class="left-side-info">
                             <img src="/media/img/projects/tanina-banner.jpg" class="mobile-cover">
-                            <h2>Indigenous Teachings Video</h2>
-                            <h3>School District 48</h3>
+                            <h2>Day of Indigenous Teachings Video</h2>
+                            <h3>For School District 48</h3>
                             <p class="project-type">Paid Video Project</p>
                             <p class="project-desc">Tanina Williams taught school staff how to make Plank Drums and play a traditional Sk̲wx̲wú7mesh and
                             Lil̓wat7úl game during a professional development day in Pemberton BC.<br><br>Role: Videographer + Editor</p>
