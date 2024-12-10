@@ -1,0 +1,28 @@
+iframe {
+    border-radius: 40px;
+}
+
+
+.video-holder {
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding-bottom: 100px;
+
+    h2 {
+        font-size: 42px;
+        margin: 0;
+    }
+
+    .yt-video {
+        width: 100%;
+        aspect-ratio: 16/9;
+    }
+}
+
+#goal {
+    margin-top: 0;
+}
