@@ -40,7 +40,8 @@
     <meta name="author" content="Jayden Inniss">
     <meta name="description" content="Jayden Inniss is a sports/adventure photographer and videographer proudly based in Whistler, BC.">
     <meta name="keywords" content="Photography, Videography, Jayden Inniss, Whistler, Camera, Photography Services in Whistler, Filmer in Whistler, Biking, Skiing, Hiking, Camping, Whistler British Columbia Photo/Video, Sport Photographer, Landscape Photography, Action Sport Photography and Videography">
-    <link rel="icon" type="image/x-icon" href="./media/logo/jaydeninniss_logo.svg">
+    <link rel="icon" type="image/x-icon" href="https://www.jaydeninniss.com/media/logo/jaydeninniss_logo.svg">
+
     <!-- End of SEO -->
 </head>
 <body>
