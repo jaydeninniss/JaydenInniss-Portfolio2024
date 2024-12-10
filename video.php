@@ -81,7 +81,7 @@
 
                 <div class="project-banner-container">
 
-                <div class="project" id="project-indigenousvideo">
+                <!-- <div class="project" id="project-indigenousvideo">
                     <div class="project-info" id="project-info-tanina">
                         <div class="left-side-info">
                             <img src="/media/img/projects/tanina-banner.jpg" class="mobile-cover">
@@ -98,7 +98,7 @@
                             </button>
                         </div> 
                     </div>
-                </div>
+                </div> -->
 
                 <div class="project" id="project-broadcast">
                     <div class="project-info" id="project-info-broadcast">
