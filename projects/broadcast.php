@@ -62,7 +62,13 @@
                         <p>Since July 2023</p>
                 </div>
 
-                <h3 class="question"  id="first">Crankworx 2024 - TVA Utility</h3>
+                <h3 class="question"  id="first">Grey Cup Football Game 2024 - TVA Utility</h3>
+                <p class="answer">
+                I worked with the broadcast team to cover the 2024 Grey Cup held at BC Place. I worked for Dome Productions + TSN. </p><p class="answer">Arriving at BC Place seven days before the event, we set up the <span class="highlight">50 cameras</span>and their respective cabling/infastructure. Over the course of the week we worked <span class="highlight">10 hour days</span> as a team of about 15 people, setting up all the necessary gear for this huge event to be covered for the television broadcast.</p><p class="answer">On game day, I was positioned on the field with three camera operators to help them with cable management, battery swaps, crowd control and ensure the safety of our camera team during the game by acting as their 'eyes' while they filmed. </p><p class="answer">This entire experience was mind-blowing to be working in such a unique and massive venue! <span class="highlight">I learned a ton from the very experienced broadcast team and I feel much more comfortable taking initiaive with tasks and projects on future broadcast events.</span>
+                </p>
+
+
+                <h3 class="question">Crankworx 2024 - TVA Utility</h3>
                 <p class="answer">
                     When Crankworx came around again for Whistler in July 2024, I was approached to work with the broadcast team in a different role than the previous year. I was brought on as a TVA Utility which meant I was part of the setup and take-down crew. We were tasked with running over 100km of cable, first up a 3km 35˚ plus course, followed by running cabling for 4 simultaneous bike events at the Whistler Mountain base. 
                 </p>
