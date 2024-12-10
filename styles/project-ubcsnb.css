@@ -1,0 +1,99 @@
+/* Add stuff here if you need for Film Fest only*/
+/* This loads after and overwrites project-master.css */
+
+
+h1 {
+    width: 1000px;
+}
+
+.question {
+    margin-top: 40px !important;
+}
+
+.answer {
+    max-width: 80%;;
+}
+
+@media screen and (min-height: 1200px) {
+    .question {
+        margin-top: 180px;
+    }
+}
+
+* {
+    p{
+        line-height: 1.6 !important;
+    }
+
+}
+
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    gap: 20px;
+
+    img {
+        height: auto;
+        width: 48%;
+        border-radius: 10px;
+    }
+
+    .smaller {
+        height: 20vw;
+    }
+
+    video {
+        width: auto;
+        height: 35vw;
+        object-fit: cover;
+        border-radius: 10px;
+    }
+}
+
+
+.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 5px;
+    flex-grow: 1;
+    flex-shrink: 1;
+    justify-content: center;
+}
+
+.grid-item {
+    flex-basis: 48%;
+
+    @media screen and (min-width: 1200px) {
+        flex-basis: 24%;
+    }
+
+    img {
+        border-radius: 0;
+        width: 100%;
+        object-fit: fill;
+        object-position: center;
+    }
+}
+
+
+@media screen and (min-width: 1200px) {
+    .third {
+        flex-basis: 29%;
+    }
+
+    .half {
+        flex-basis: 48%;
+    }
+
+    .full {
+        flex-basis: 98%;
+    }
+
+}
