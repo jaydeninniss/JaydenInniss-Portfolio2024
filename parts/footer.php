@@ -14,7 +14,7 @@
         <div class="rightfoot">
             <p>
             <a href="mailto:contact@jaydeninniss.com" id="email">Contact@jaydeninniss.com</a><br><br>
-            778.793.5323</p>
+            778-793-5323</p>
         </div>
     </div>
     <p id="land">I am grateful to live, work, and adventure on the unceded shared traditional territory of the Squamish and Lil'wat nations.</p>
