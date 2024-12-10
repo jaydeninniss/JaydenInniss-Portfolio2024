@@ -65,10 +65,8 @@
             </div>
 
             <div class="description-container">
-                <p>Over the past <span class = "highlight">five years,</span> I have built a <span class = "highlight">freelance business,</span> collaborating with companies and organizations in the outdoor industry to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in <span class = "highlight">both extreme sports and digital marketing,</span> I create specialized marketing content tailored to outdoor enthusiasts like myself. <br><br>I always make room in my pack for my camera!</p>
+                <p>Over the past <span class = "highlight">five years,</span> I have built a <span class = "highlight">freelance business,</span> collaborating with companies and organizations in the outdoor industry to produce photo/video marketing content. Recently, I have worked as a camera operator for sports broadcast events. <br><br>With proficiency in <span class = "highlight">both extreme sports and digital marketing,</span> I create specialized marketing content tailored to outdoor enthusiasts like myself. </p>
             </div>
-
-            <!-- <div class="image-container"><img src="../media/img/jaydeninniss-profilepic.jpeg" id="about-insertimg" alt="Jayden Inniss giving a thumbs up with a camera in-hand"></div> -->
             
             <h3>I bring to the team a <span id="green-highlight"> high-energy infectious positivity!</span></h3>
         
@@ -110,15 +108,15 @@
                 <div class="answer">
                     <div class="values">
                         <p class="value-title">Positivity</p>
-                        <p class="value-desc">I am a very positive person and often find myself only seeing the positive side of problems. I believe that bringing a positive mindset to the table allows people to relax and start seeing solutions rather than problems. Once one person has a positive mindset, it spreads through a full team, leading to a more fun project overall!</p>
+                        <p class="value-desc"><span class="highlight">I am a very positive person </span>and often find myself only seeing the positive side of problems. I believe that bringing a positive mindset to the table allows people to relax and start seeing solutions rather than problems. Once one person has a positive mindset,<span class="highlight"> it spreads through a full team,</span> leading to a more fun project overall!</p>
                     </div>
                     <div class="values">
                         <p class="value-title">Genuine Relationships</p>
-                        <p class="value-desc">I believe that honest and genuine relationships with team members/clients are crucial to all projects' success. A strong and positive relationship allows for open and honest communication and for an easier time handling disagreements.</p>
+                        <p class="value-desc"><span class="highlight">I believe that honest and genuine relationships with team members/clients are crucial to all projects' success.</span> A strong and positive relationship allows for open and honest communication and for an easier time handling disagreements.</p>
                     </div>
                     <div class="values">
                         <p class="value-title">Constant Learning</p>
-                        <p class="value-desc">I thrive when I can constantly continue learning new things. I appreciate when a safe space or dedicated time is set aside for growth in a job. I believe that you can never finish learning, whether it be a new perspective or technique, the process of learning and honing your craft is never complete!</p>
+                        <p class="value-desc">I thrive when I can constantly continue learning new things. I appreciate when a safe space or <span class="highlight">dedicated time is set aside for growth in a job.</span> I believe that you can never finish learning, whether it be a new perspective or technique, the process of learning and <span class="highlight">honing your craft is never complete!</span></p>
                     </div>
                 </div>    
 
@@ -126,7 +124,11 @@
                     <h2>My Days Off</h2>
                 </div>
                 <div class="answer">
-                    <p class="daysoff">Whenever I have the chance, I am on the hill skiing, riding or backcountry camping in my backyard, the Sea to Sky corridor! I definitely fit into the stereotype of a “Whistler Kid”. </p>
+                    <p class="daysoff">When I'm not working, you'll <span class="highlight"> usually find me skiing, riding, or backcountry camping </span>somewhere in the Sea to Sky corridor. I'm definitely a classic <span class="highlight">“Whistler kid”</span>! My time outdoors isn't just for fun—it's where I find my inspiration and build the skills/experiences that help me grow. <span class="highlight">My passion lies in extreme sports and adventures</span>, so this is where I am drawn back to over and over.</p>
+                    
+                    <p class="daysoff">Planning a backcountry trip, for example, is very <span class="highlight">similar to running a creative project.</span> You are juggling people, resources, time, skill levels and expectations to make it all run smoothly. It's a balance of preparation, teamwork, and always looking for solutions rather than problems when you run into speedbumps. This <span class="highlight">positive outlook</span> is something I try to bring to every project!</p>
+
+                    <p><span class="highlight">I always make room in my pack for my camera!</span></p>
                     
                     <div class="image-holder">
                         <div class="images" id="img1"  alt="Jayden Inniss smiling holding a camera">
