@@ -51,7 +51,6 @@
     <main>
         <!-- Header Img -->
         <div class="hero">
-            <img src="../media/img/broadcast-banner.jpeg" alt="Photo of Jayden holding a broadcast camera">
         </div>
         <!-- END Header Img -->
 
@@ -93,20 +92,20 @@
                 </p>
 
                 <div class="image-container">
-                    <video src="../media/img/projects/broadcast/crankworx24/opening.mp4" autoplay loop muted></video>
-                    <video src="../media/img/projects/broadcast/crankworx24/joyride.mp4" autoplay loop muted></video>
+                    <video loading="lazy" src="../media/img/projects/broadcast/crankworx24/opening.mp4" autoplay loop muted></video>
+                    <video loading="lazy" src="../media/img/projects/broadcast/crankworx24/joyride.mp4" autoplay loop muted></video>
                 </div>
 
                 <p class="answer">
                     It was an incredibly physical week of hauling equipment into places they were not designed to be used in. It took four days to run cables up the mountain through the incredibly dense forest to reach remote camera positions. A total of 18 cameras lined the course for the downhill event in Creekside and another 22 at Whistler base. Throughout this hectic week, I learned so much about the inner workings of a television broadcast event and feel more comfortable working with the different departments within a broadcast truck! The entire experience was amazing and I am very grateful for how willing my colleagues were to take the time to teach me the ropes (and the cables). 
                 </p>
                 <div class="image-container">
-                    <video src="../media/img/projects/broadcast/crankworx24/camera.mp4" autoplay loop muted></video>
-                    <img src="../media/img/projects/broadcast/crankworx24/sunrise.webp" alt="">
-                    <video src="../media/img/projects/broadcast/crankworx24/cabling2.mp4" autoplay loop muted></video>
-                    <video src="../media/img/projects/broadcast/crankworx24/cabling.mp4" autoplay loop muted></video>
-                    <img src="../media/img/projects/broadcast/crankworx24/seflie.webp" alt="">
-                    <video src="../media/img/projects/broadcast/crankworx24/fibre.mp4" autoplay loop muted></video>
+                    <video loading="lazy" src="../media/img/projects/broadcast/crankworx24/camera.mp4" autoplay loop muted></video>
+                    <img loading="lazy" src="../media/img/projects/broadcast/crankworx24/sunrise.webp" alt="">
+                    <video loading="lazy" src="../media/img/projects/broadcast/crankworx24/cabling2.mp4" autoplay loop muted></video>
+                    <video loading="lazy" src="../media/img/projects/broadcast/crankworx24/cabling.mp4" autoplay loop muted></video>
+                    <img loading="lazy" src="../media/img/projects/broadcast/crankworx24/seflie.webp" alt="">
+                    <video loading="lazy" src="../media/img/projects/broadcast/crankworx24/fibre.mp4" autoplay loop muted></video>
                 </div>
 
                 <h3 class="question">FIL Luge World Championships 2023</h3>
@@ -115,8 +114,8 @@
                 </p>
 
                 <div class="image-container">
-                    <img src="../media/img/projects/broadcast/lugecam.webp" alt="">
-                    <img src="../media/img/projects/broadcast/lugeselfie2.webp" alt="">
+                    <img loading="lazy" src="../media/img/projects/broadcast/lugecam.webp" alt="">
+                    <img loading="lazy" src="../media/img/projects/broadcast/lugeselfie2.webp" alt="">
                 </div>
 
                 <p class="answer">
@@ -133,9 +132,9 @@
                 </p>
 
                 <div class="image-container">
-                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcam2.webp" alt="">
-                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcamalex.webp" alt="">
-                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcam3.webp" alt="">
+                    <img loading="lazy" class = "smaller" src="../media/img/projects/broadcast/crankworxcam2.webp" alt="">
+                    <img loading="lazy" class = "smaller" src="../media/img/projects/broadcast/crankworxcamalex.webp" alt="">
+                    <img loading="lazy" class = "smaller" src="../media/img/projects/broadcast/crankworxcam3.webp" alt="">
                 </div>
 
                 <p class="answer">
@@ -143,10 +142,10 @@
                 </p>
 
                 <div class="image-container">
-                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxvip.webp" alt="">
-                    <video class = "smaller" src="../media/img/projects/broadcast/viewfinder.mp4" autoplay loop muted></video>
-                    <img class = "smaller" src="../media/img/projects/broadcast/clintedit1.webp" alt="">
-                    <video class = "smaller" src="../media/img/projects/broadcast/clint.mp4" autoplay loop muted></video>
+                    <img loading="lazy" class = "smaller" src="../media/img/projects/broadcast/crankworxvip.webp" alt="">
+                    <video loading="lazy" class = "smaller" src="../media/img/projects/broadcast/viewfinder.mp4" autoplay loop muted></video>
+                    <img loading="lazy" class = "smaller" src="../media/img/projects/broadcast/clintedit1.webp" alt="">
+                    <video loading="lazy" class = "smaller" src="../media/img/projects/broadcast/clint.mp4" autoplay loop muted></video>
                 </div>
                 
                 <p class="answer">
@@ -154,9 +153,9 @@
                 </p>
 
                 <div class="image-container">
-                    <video src="../media/img/projects/broadcast/corral.mp4" autoplay loop muted></video>
-                    <video src="../media/img/projects/broadcast/joyridetower.mp4" autoplay loop muted></video>
-                    <video src="../media/img/projects/broadcast/camera.mp4" autoplay loop muted></video>
+                    <video loading="lazy" src="../media/img/projects/broadcast/corral.mp4" autoplay loop muted></video>
+                    <video loading="lazy" src="../media/img/projects/broadcast/joyridetower.mp4" autoplay loop muted></video>
+                    <video loading="lazy" src="../media/img/projects/broadcast/camera.mp4" autoplay loop muted></video>
                 </div>
                 
                 <p class="answer">
