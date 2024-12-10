@@ -62,7 +62,7 @@
     <div class="content">
         <div class="about">
             <div class="about-profile">
-                <img src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss Profile Picture" id="profile-pic">
+                <img src="./media/img/jayden24profilepic.webp" alt="Jayden Inniss Profile Picture" id="profile-pic">
             </div>
             <div class="about-right">
                 <h1>Jayden Inniss<span id='jaydenstitle'><br>Photographer, Videographer, Multimedia Designer</span></h1>
