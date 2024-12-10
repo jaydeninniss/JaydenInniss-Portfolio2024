@@ -51,7 +51,7 @@
     <main>
         <!-- Header Img -->
         <div class="hero">
-            <img src="../media/img/projects/stsfilmfestprojectcover.png" alt="Sea to Sky Student Short Film Festival Hero Image">
+            <img src="../media/img/banners/stsfilmfestprojectcover.webp" alt="Sea to Sky Student Short Film Festival Hero Image">
         </div>
         <!-- END Header Img -->
 
