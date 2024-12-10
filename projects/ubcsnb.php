@@ -86,8 +86,8 @@
         <div class="content-container">
             <div class="qa-container">
                 <div class="project-description">
-                        <h2>Sea to Sky Student Short Film Festival</h2>
-                        <p>Whistler Secondary Grad Class 2023 - Community Fundraiser</p>
+                        <h2>UBC Ski and Board Club</h2>
+                        <p>Photography & Videography for social media</p>
                 </div>
 
 
