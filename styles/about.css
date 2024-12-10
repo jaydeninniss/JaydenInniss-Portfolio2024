@@ -246,7 +246,7 @@ h3 {
                     flex-shrink: 2;
                     height: 100%;
                     width: 100%;
-                    background-image: url("../media/img/about4.jpg");
+                    background-image: url("../media/img/about4.webp");
                     background-size: cover;
                     background-position: center top;
                 }
@@ -255,7 +255,7 @@ h3 {
                     /* margin-left: 20px; */
                     height: 100%;
                     width: 100%;
-                    background-image: url("../media/img/about3.jpeg");
+                    background-image: url("../media/img/about3.webp");
                     background-size: cover;
                     background-position: center;
                 }
@@ -265,7 +265,7 @@ h3 {
                     /* margin-left: 20px; */
                     height: 100%;
                     width: 100%;
-                    background-image: url("../media/img/about2.jpeg");
+                    background-image: url("../media/img/about2.webp");
                     background-size: cover;
                     background-position: center;
                 }
