@@ -39,7 +39,7 @@ h1 {
     gap: 20px;
 
     img {
-        height: 45vw;
+        height: 40vw;
         width: auto;
         border-radius: 10px;
     }
@@ -50,7 +50,7 @@ h1 {
 
     video {
         width: auto;
-        height: 45vw;
+        height: 40vw;
         object-fit: cover;
         border-radius: 10px;
     }

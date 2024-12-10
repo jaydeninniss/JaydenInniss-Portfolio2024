@@ -117,7 +117,7 @@
 
                 <div class="image-container">
                     <video src="../media/img/projects/filmfest/winners.mp4" autoplay loop muted></video>
-                    <img src="../media/img/projects/filmfest/sho.JPG" alt="">
+                    <img src="../media/img/projects/filmfest/sho.jpg" alt="">
                     <video src="../media/img/projects/filmfest/prizes.mp4" autoplay loop muted></video>
                 </div>
 
