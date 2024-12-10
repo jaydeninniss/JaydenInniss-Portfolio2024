@@ -1,6 +1,13 @@
 /* Add stuff here if you need for Film Fest only*/
 /* This loads after and overwrites project-master.css */
 
+#nav-project {
+    text-decoration: underline;
+}
+
+#nav-photo {
+    text-decoration: none;
+}
 
 h1 {
     width: 1000px;

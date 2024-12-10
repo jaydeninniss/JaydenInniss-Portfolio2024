@@ -1,6 +1,10 @@
 /* This is applied to all project pages */
 /* DONT EDIT - Jayden to Jayden */
 
+#nav-project {
+    text-decoration: underline;
+}
+
 main {
     position: absolute;
     display: flex;
