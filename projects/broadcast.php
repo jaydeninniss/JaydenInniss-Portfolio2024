@@ -63,8 +63,27 @@
                 </div>
 
                 <h3 class="question"  id="first">Grey Cup Football Game 2024 - TVA Utility</h3>
-                <p class="answer">
-                I worked with the broadcast team to cover the 2024 Grey Cup held at BC Place. I worked for Dome Productions + TSN. </p><p class="answer">Arriving at BC Place seven days before the event, we set up the <span class="highlight">50 cameras</span>and their respective cabling/infastructure. Over the course of the week we worked <span class="highlight">10 hour days</span> as a team of about 15 people, setting up all the necessary gear for this huge event to be covered for the television broadcast.</p><p class="answer">On game day, I was positioned on the field with three camera operators to help them with cable management, battery swaps, crowd control and ensure the safety of our camera team during the game by acting as their 'eyes' while they filmed. </p><p class="answer">This entire experience was mind-blowing to be working in such a unique and massive venue! <span class="highlight">I learned a ton from the very experienced broadcast team and I feel much more comfortable taking initiaive with tasks and projects on future broadcast events.</span>
+                <p class="answer">I worked with the broadcast team to cover the 2024 Grey Cup held at BC Place. I worked for Dome Productions + TSN. </p>
+                
+                <div class="image-container">
+                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/extbcplace.JPG" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/truckint.JPG" alt="">
+                </div>
+
+                <p class="answer">Arriving at BC Place seven days before the event, we set up the <span class="highlight">50 cameras</span>and their respective cabling/infastructure. Over the course of the week we worked <span class="highlight">10 hour days</span> as a team of about 15 people, setting up all the necessary gear for this huge event to be covered for the television broadcast.</p>
+
+                <p class="answer">On game day, I was positioned on the field with three camera operators to help them with cable management, battery swaps, crowd control and ensure the safety of our camera team during the game by acting as their 'eyes' while they filmed. </p>
+                
+                <div class="image-container">
+                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/camera1.JPG" alt="">
+                    <video class = "smaller" src="../media/img/projects/broadcast/greycup/gameday1.mp4" autoplay loop muted></video>
+                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/camera3.JPG" alt="">
+                    <video src="../media/img/projects/broadcast/greycup/halftime2.mp4" autoplay loop muted></video>
+                    <img src="../media/img/projects/broadcast/greycup/halftimestill.JPG" alt="">
+                    <video src="../media/img/projects/broadcast/greycup/halftime3.mp4" autoplay loop muted></video>
+                </div>
+
+                <p class="answer">This entire experience was mind-blowing to be working in such a unique and massive venue! <span class="highlight">I learned a ton from the very experienced broadcast team and I feel much more comfortable taking initiaive with tasks and projects on future broadcast events.</span>
                 </p>
 
 
@@ -72,6 +91,11 @@
                 <p class="answer">
                     When Crankworx came around again for Whistler in July 2024, I was approached to work with the broadcast team in a different role than the previous year. I was brought on as a TVA Utility which meant I was part of the setup and take-down crew. We were tasked with running over 100km of cable, first up a 3km 35˚ plus course, followed by running cabling for 4 simultaneous bike events at the Whistler Mountain base. 
                 </p>
+
+                <div class="image-container">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworx24/" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworx24/" alt="">
+                </div>
 
                 <p class="answer">
                     It was an incredibly physical week of hauling equipment into places they were not designed to be used in. It took four days to run cables up the mountain through the incredibly dense forest to reach remote camera positions. A total of 18 cameras lined the course for the downhill event in Creekside and another 22 at Whistler base. Throughout this hectic week, I learned so much about the inner workings of a television broadcast event and feel more comfortable working with the different departments within a broadcast truck! The entire experience was amazing and I am very grateful for how willing my colleagues were to take the time to teach me the ropes (and the cables). 
