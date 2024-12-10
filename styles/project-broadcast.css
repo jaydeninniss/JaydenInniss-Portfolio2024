@@ -18,7 +18,7 @@
     }
 }
 
-.image-container {
+/* .image-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -46,5 +46,33 @@
             object-fit: cover;
             border-radius: 10px;
         }
+    }
+} */
+
+.image-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    gap: 20px;
+
+    img {
+        height: 35vw;
+        width: auto;
+        border-radius: 10px;
+    }
+
+    .smaller {
+        height: 20vw;
+    }
+
+    video {
+        width: auto;
+        height: 35vw;
+        object-fit: cover;
+        border-radius: 10px;
     }
 }

@@ -112,9 +112,9 @@
 
                 <div class="image-container">
                     <img src="../media/img/projects/broadcast/crankworxvip.jpeg" alt="">
-                    <div class="video-container"><video src="../media/img/projects/broadcast/viewfinder.mp4" autoplay loop muted></video></div>
+                    <video src="../media/img/projects/broadcast/viewfinder.mp4" autoplay loop muted></video>
                     <img src="../media/img/projects/broadcast/clintedit1.jpeg" alt="">
-                    <div class="video-container"><video src="../media/img/projects/broadcast/clint.mp4" autoplay loop muted></video></div>
+                    <video src="../media/img/projects/broadcast/clint.mp4" autoplay loop muted></video>
                 </div>
                 
                 <p class="answer">
@@ -122,9 +122,9 @@
                 </p>
 
                 <div class="image-container">
-                    <div class="video-container"><video src="../media/img/projects/broadcast/corral.mp4" autoplay loop muted></video></div>
-                    <div class="video-container"><video src="../media/img/projects/broadcast/joyridetower.mp4" autoplay loop muted></video></div>
-                    <div class="video-container"><video src="../media/img/projects/broadcast/camera.mp4" autoplay loop muted></video></div>
+                    <video src="../media/img/projects/broadcast/corral.mp4" autoplay loop muted></video>
+                    <video src="../media/img/projects/broadcast/joyridetower.mp4" autoplay loop muted></video>
+                    <video src="../media/img/projects/broadcast/camera.mp4" autoplay loop muted></video>
                 </div>
                 
                 <p class="answer">
