@@ -50,7 +50,7 @@
     <main>
         <!-- Header Img -->
         <div class="hero">
-            <img src="../media/img/projects/alpinearmourhero.png" alt="Alpine Armour Hero Image">
+            <img src="../media/img/banners/alpinearmourcover.webp" alt="Alpine Armour Hero Image">
             <div class="project-title">
                 <h1>Alpine Armour</h1>
             </div>
