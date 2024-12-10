@@ -293,7 +293,7 @@ h3 {
         }
 
         #adventure {
-            background-image: url("../media/img/adventure-banner.jpg");
+            background-image: url("../media/img/banners/adventure-banner.webp");
             background-position: center;
             background-size: cover;
             background-blend-mode: darken;
@@ -305,7 +305,7 @@ h3 {
         }
 
         #landscape {
-            background-image: url("../media/img/landscape-banner.jpeg");
+            background-image: url("../media/img/banners/landscape-banner.webp");
             background-position: center;
             background-size: cover;
             background-blend-mode: darken;
@@ -317,7 +317,7 @@ h3 {
         }
 
         #commercial {
-            background-image: url("../media/img/commercial-banner.jpeg");
+            background-image: url("../media/img/banners/commercial-banner.webp");
             background-position: center;
             background-size: cover;
             background-blend-mode: darken;
@@ -414,7 +414,7 @@ h3 {
 .videography {
     height: 100vw;
     width: 100vw;
-    background-image: url("/media/img/video-banner.webp");
+    background-image: url("/media/img/banners/video-banner.webp");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -459,7 +459,7 @@ h3 {
 .project {
     height: 100vw;
     width: 100vw;
-    background-image: url("/media/img/project-banner.webp");
+    background-image: url("/media/img/banners/project-banner.webp");
     background-size: 100%;
     background-position: center;
     background-repeat: no-repeat;

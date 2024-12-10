@@ -103,7 +103,7 @@
                 <div class="project" id="project-broadcast">
                     <div class="project-info" id="project-info-broadcast">
                         <div class="left-side-info">
-                            <img src="/media/img/broadcast-banner-wsc.jpg" class="mobile-cover">
+                            <img src="/media/img/banners/broadcast-banner-wsc.webp" class="mobile-cover">
                             <h2>Broadcast Televison</h2>
                             <h3>Work Experience</h3>
                             <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
@@ -121,7 +121,7 @@
                 <div class="project" id="project-ubcsnb">
                     <div class="project-info"  id="project-info-ubcsnb">
                         <div class="left-side-info">
-                            <img src="/media/img/ubcsnb-banner.jpg" alt="UIUX Project" class="mobile-cover">
+                            <img src="/media/img/banners/ubcsnb-banner.webp" alt="UIUX Project" class="mobile-cover">
                             <h2>UBC Ski and Snowboard Club</h2>
                             <h3>Content Creation</h3>
                             <p class="project-type">Photo/Video Reels for Social Media</p>
@@ -139,7 +139,7 @@
                 <div class="project" id="project-worca">
                     <div class="project-info"  id="project-info-worca">
                         <div class="left-side-info">
-                            <img src="/media/img/worca-banner.jpg" alt="WORCA Project" class="mobile-cover">
+                            <img src="/media/img/banners/worca-banner.webp" alt="WORCA Project" class="mobile-cover">
                             <h2>WORCA</h2>
                             <h3>Weekly Social Media Reels</h3>
                             <p class="project-type">Summer 2022</p>
