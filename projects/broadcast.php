@@ -66,8 +66,8 @@
                 <p class="answer">I worked with the broadcast team to cover the 2024 Grey Cup held at BC Place. I worked for Dome Productions + TSN. </p>
                 
                 <div class="image-container">
-                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/extbcplace.JPG" alt="">
-                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/truckint.JPG" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/extbcplace.webp" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/truckint.webp" alt="">
                 </div>
 
                 <p class="answer">Arriving at BC Place seven days before the event, we set up the <span class="highlight">50 cameras</span>and their respective cabling/infastructure. Over the course of the week we worked <span class="highlight">10 hour days</span> as a team of about 15 people, setting up all the necessary gear for this huge event to be covered for the television broadcast.</p>
@@ -75,11 +75,11 @@
                 <p class="answer">On game day, I was positioned on the field with three camera operators to help them with cable management, battery swaps, crowd control and ensure the safety of our camera team during the game by acting as their 'eyes' while they filmed. </p>
                 
                 <div class="image-container">
-                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/camera1.JPG" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/camera1.webp" alt="">
                     <video class = "smaller" src="../media/img/projects/broadcast/greycup/gameday1.mp4" autoplay loop muted></video>
-                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/camera3.JPG" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/greycup/camera3.webp" alt="">
                     <video src="../media/img/projects/broadcast/greycup/halftime2.mp4" autoplay loop muted></video>
-                    <img src="../media/img/projects/broadcast/greycup/halftimestill.JPG" alt="">
+                    <img src="../media/img/projects/broadcast/greycup/halftimestill.webp" alt="">
                     <video src="../media/img/projects/broadcast/greycup/halftime3.mp4" autoplay loop muted></video>
                 </div>
 
