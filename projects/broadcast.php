@@ -107,8 +107,8 @@
                 </p>
 
                 <div class="image-container">
-                    <img src="../media/img/projects/broadcast/lugecam.jpeg" alt="">
-                    <img src="../media/img/projects/broadcast/lugeselfie2.jpeg" alt="">
+                    <img src="../media/img/projects/broadcast/lugecam.webp" alt="">
+                    <img src="../media/img/projects/broadcast/lugeselfie2.webp" alt="">
                 </div>
 
                 <p class="answer">
@@ -125,9 +125,9 @@
                 </p>
 
                 <div class="image-container">
-                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcam2.jpeg" alt="">
-                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcamalex.jpeg" alt="">
-                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcam3.jpeg" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcam2.webp" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcamalex.webp" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxcam3.webp" alt="">
                 </div>
 
                 <p class="answer">
@@ -135,9 +135,9 @@
                 </p>
 
                 <div class="image-container">
-                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxvip.jpeg" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/crankworxvip.webp" alt="">
                     <video class = "smaller" src="../media/img/projects/broadcast/viewfinder.mp4" autoplay loop muted></video>
-                    <img class = "smaller" src="../media/img/projects/broadcast/clintedit1.jpeg" alt="">
+                    <img class = "smaller" src="../media/img/projects/broadcast/clintedit1.webp" alt="">
                     <video class = "smaller" src="../media/img/projects/broadcast/clint.mp4" autoplay loop muted></video>
                 </div>
                 
