@@ -65,7 +65,7 @@
                 <p class="answer">My two peers and I created a film festival designed for youth in The Sea to Sky Corridor to showcase their filmmaking talent. Sho Brooks, Kenta Tanaka and I led this initiative. </p><p class="answer"> The competition was designed as a fundraiser for our graduating class at Whistler Secondary School. After receiving <span class="highlight">9 submitted films,</span> we held a viewing night at our school for an <span class="highlight">audience of over 300.</span> This event was a huge success: We <span class="highlight">exceeded our projected profit by $4,000,</span> doubled our expected audience and gave a platform for young aspiring filmmakers to display their work in front of the community. </p>
 
                 <div class="image-container">
-                <img src="/media/img/projects/stsfilmfestprojectcover.png" alt="">
+                <img src="/media/img/banners/stsfilmfestprojectcover.webp" alt="">
                 </div>
                 
                 <h3 class="question">Competition Details</h3>
@@ -127,7 +127,7 @@
                 Providing an opportunity for youth filmmakers in Whistler was <span class="highlight">a way to give back to the community for everything it has provided to me. </span></p><p class="answer">In 2017, the World Ski and Snowboard Festival's Olympus 72-Hour Filmmaker Showdown chose my film as one of the top 10 films. It was screened in front of 1,600, which was mind-blowing when I was in grade 7. <span class="highlight">This event was full circle for me </span>as I was able to give filmmakers a similar opportunity to present their films and gain exposure within the community.<br><br>This whole event was so rewarding and I enjoyed every second of planning, developing and finally MCing the event alongside my incredibly talented peers: Sho Brooks and Kenta Tanaka.</p>
 
                 <div class="image-container">
-                    <img src="../media/img/projects/stsfilmfestprojectcover.png" alt="">
+                    <img src="../media/img/banners/stsfilmfestprojectcover.webp" alt="">
                 </div>
 
                 <button class="cta-button">
