@@ -70,7 +70,7 @@
                     <img class = "smaller" src="../media/img/projects/broadcast/greycup/truckint.webp" alt="">
                 </div>
 
-                <p class="answer">Arriving at BC Place seven days before the event, we set up the <span class="highlight">50 cameras</span>and their respective cabling/infastructure. Over the course of the week we worked <span class="highlight">10 hour days</span> as a team of about 15 people, setting up all the necessary gear for this huge event to be covered for the television broadcast.</p>
+                <p class="answer">Arriving at BC Place seven days before the event, we set up the <span class="highlight">50 cameras</span> and their respective cabling/infastructure. Over the course of the week we worked <span class="highlight">10 hour days</span> as a team of about 15 people, setting up all the necessary gear for this huge event to be covered for the television broadcast.</p>
 
                 <p class="answer">On game day, I was positioned on the field with three camera operators to help them with cable management, battery swaps, crowd control and ensure the safety of our camera team during the game by acting as their 'eyes' while they filmed. </p>
                 
