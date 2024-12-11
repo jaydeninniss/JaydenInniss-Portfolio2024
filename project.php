@@ -164,7 +164,7 @@
                         <p class="project-type">Summer 2022</p>
                         <p class="project-desc">Weekly Toonie Races - I created imagery and 60 second reels for social media + newsletter uses, turned around in less than 48 hours.<br><br>Role: Photographer/Videographer/Editor</p>
                         <button class="cta-button">
-                            <a class="cta" href="projects/worca">
+                            <a class="cta" href="#">
                                 Watch + Read More
                                 <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
                             </a>
