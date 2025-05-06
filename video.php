@@ -53,7 +53,7 @@
     <!-- HERO VIDEO -->
     <div id="video-hero">
         <!-- <video src="/media/video/highlightreel.mp4" type="video/mp4" autoplay loop muted></video> -->
-        <iframe src="https://www.youtube.com/embed/y8ER6FzXbqA?autoplay=1&mute=1&controls=0&autohide=1&showinfo=0&loop=1?vq=hd1080p" width="1571" height="880" title="" frameborder="0" allow="accelerometer; autoplay; loop; muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe src="https://www.youtube.com/embed/y8ER6FzXbqA?autoplay=1&mute=1&controls=0&autohide=1&showinfo=0&loop=1&vq=hd1080p&rel=0&playlist=y8ER6FzXbqA" width="1571" height="880" title="" frameborder="0" allow="accelerometer; autoplay; loop; muted; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <!-- END HERO VIDEO -->
 
@@ -64,8 +64,13 @@
                 </div>
 
                 <section class="video-holder">
+                    <h3>Arc'teryx Backcountry Ski Touring Spec Ad</h3>
+                    <iframe class="yt-video" src="https://www.youtube.com/embed/J5cIRyT4HFM?si=6dywO9CfwzxakctL&rel=0&playlist=J5cIRyT4HFM&loop=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </section>
+
+                <section class="video-holder">
                     <h3>Day of Indigenous Teachings at School District 48</h3>
-                    <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                    <iframe class="yt-video" src="https://www.youtube-nocookie.com/embed/S4su3ClgqJk?si=IILFCfgJULBgErk5&rel=0&playlist=S4su3ClgqJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                     <p>The goal was to create an <span class = "highlight">educational video</span> that would help to raise awareness about the traditional ways of the Sk̲wx̲ẃ7mesh and Lil̓wat7́l peoples. The <span class = "highlight">10-minute video</span> featured School District 48 teachers and trustees participating in a day of learning during a proffesional development day.<br><br><span class = "highlight">Tanina Williams taught staff how to make Plank Drums</span> and play a traditional Sk̲wx̲wú7mesh and Lil̓wat7úl game at Signal Hill Elemntary School in Pemberton, BC.</p>
                     <button class="cta-button">
                         <a class="cta" href="projects/sd48indigenousteachings">
