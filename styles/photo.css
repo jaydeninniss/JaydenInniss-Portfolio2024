@@ -153,7 +153,7 @@ h3:hover {
   background: var(--jigrey);
   display: flex;
   margin: 5px;
-  flex-basis: 22%;
+  flex-basis: 21%;
   flex-direction: row;
   flex-wrap: wrap;
   overflow: hidden;
