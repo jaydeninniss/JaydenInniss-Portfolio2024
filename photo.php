@@ -97,7 +97,7 @@
                                 <img src="<?php echo $title['set_cover']; ?>">
                                 <figcaption>
                                     <h3 class="client-title-desktop"><?php echo $title['set_title']; ?></h3>
-                                    <p><?php echo $title['set_desc']; ?></p>
+
                                 </figcaption>
                                 <a href="photo-project?id=<?php echo $title['set_id']; ?>"></a>
                             </figure>

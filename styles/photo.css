@@ -21,11 +21,14 @@ main {
   }
 }
 
+h3 {
+  font-size: unset;
+}
+
 .content-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
-
 
   .header-banner {
     display: flex;
@@ -149,8 +152,8 @@ h3:hover {
 .figure {
   background: var(--jigrey);
   display: flex;
-  margin: 10px;
-  flex-basis: 48%;
+  margin: 5px;
+  flex-basis: 22%;
   flex-direction: row;
   flex-wrap: wrap;
   overflow: hidden;
@@ -160,8 +163,8 @@ h3:hover {
 }
 
 .figure * {
-  -webkit-transition: all 0.35s ease;
-  transition: all 0.35s ease;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
 
 /* -------------------------------------------------------------------- */
@@ -280,8 +283,8 @@ h3:hover {
   content: "";
   background-color: var(--jilightgreen);
   z-index: 1;
-  -webkit-transition: all 0.35s ease-in;
-  transition: all 0.35s ease-in;
+  -webkit-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in;
   opacity: 1 !important;
 }
 
