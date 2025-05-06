@@ -25,6 +25,10 @@
     <link rel="stylesheet" href="../styles/about.css">
     <link rel="stylesheet" href="../styles/footer.css">
 
+    <!-- LENIS - SMOOTH SCROLL -->
+    <script src="https://unpkg.com/lenis@1.3.1/dist/lenis.min.js"></script> 
+    <link rel="stylesheet" href="https://unpkg.com/lenis@1.3.1/dist/lenis.css">
+
     <!-- GSAP -->
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
@@ -171,6 +175,7 @@
     </main>
 
     <script src="./js/parallaxhero/parallaxhero_about.js"></script>
+    <script src="/js/lenis.js"></script>
 
 </body>
 </html>

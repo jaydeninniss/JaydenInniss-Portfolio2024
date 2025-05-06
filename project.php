@@ -28,6 +28,10 @@
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
 
+    <!-- LENIS - SMOOTH SCROLL -->
+    <script src="https://unpkg.com/lenis@1.3.1/dist/lenis.min.js"></script> 
+    <link rel="stylesheet" href="https://unpkg.com/lenis@1.3.1/dist/lenis.css">
+
     <!-- SEO -->
     <meta property="og:title" content="Projects - Jayden Inniss">
     <meta property="og:type" content="website">
@@ -180,6 +184,7 @@
 
     <script src="./js/parallaxhero/parallaxhero_projects.js"></script>
     <script src="./js/projects.js"></script>
+    <script src="/js/lenis.js"></script>
 
 </body>
 </html>

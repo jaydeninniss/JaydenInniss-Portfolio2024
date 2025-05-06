@@ -23,6 +23,10 @@
     <!-- ScrollReveal -->
     <script src="https://unpkg.com/scrollreveal"></script>
 
+    <!-- LENIS - SMOOTH SCROLL -->
+    <script src="https://unpkg.com/lenis@1.3.1/dist/lenis.min.js"></script> 
+    <link rel="stylesheet" href="https://unpkg.com/lenis@1.3.1/dist/lenis.css">
+
     <!-- SEO -->
     <meta property="og:title" content="Photo - Jayden Inniss">
     <meta property="og:type" content="website">
@@ -118,6 +122,7 @@
     </main>
 
     <script src="/js/scrollReveal.js"></script>
+    <script src="/js/lenis.js"></script>
 
 </body>
 </html>
