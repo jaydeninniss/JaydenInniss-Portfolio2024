@@ -56,7 +56,7 @@
     <main>
         <!-- Header Img -->
         <div class="hero">
-            <img src="../media/img/projects/bodyboost/bodyboost1.jpeg" alt="Body Boost Hero Image">
+            <img src="../media/img/projects/bodyboost/bodyboost1.jpeg" alt="Body Boost Hero Image" loading="lazy">
             <div class="project-title">
                 <h1>Body Boost</h1>
             </div>
@@ -68,13 +68,13 @@
                 <button class="cta-button">
                     <a class="cta" href="https://drive.google.com/file/d/1xteQcFC9ixnHZZlICdYbnTDwHzegpeLa/view?usp=sharing" target="_blank">
                         Final Report
-                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                     </a>
                 </button>
                 <button class="cta-button">
                     <a class="cta" target="_blank" href="https://www.figma.com/file/8kine4f3VewD7X5HHf794g/Jayden-Inniss---UIUX-Phase-3---Final?type=design&node-id=2029%3A856&mode=design&t=zx3nnFA1V12LmJND-1">
                         Final Presentation
-                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                     </a>
                 </button>
             </div>
@@ -136,14 +136,14 @@
                 <button class="cta-button">
                     <a class="cta" target="_blank" href="https://docs.google.com/document/d/1LdOCagpwQt0vaBTGCICWyTX-3ccbMul4kpANg5EdqTQ/edit?usp=sharing">
                         Work Breakdown Structure
-                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                     </a>
                 </button>
 
                 <button class="cta-button">
                     <a class="cta" target="_blank" href="https://docs.google.com/spreadsheets/d/1qAeil-M4dJIVpsZF98nob9NqT2180aRHqvy3iba6g-Q/edit?usp=sharing">
                         Gantt Chart
-                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                        <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                     </a>
                 </button>
 
@@ -191,28 +191,28 @@
         <button class="cta-button">
             <a class="cta" target="_blank" href="https://docs.google.com/document/d/1DFZHwD6zzjIu05iDbAjbaW-zSqOjx0imoUnsT9CkGTM/edit?usp=sharing">
                 Final Report
-                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
             </a>
         </button>
 
         <button class="cta-button">
             <a class="cta" target="_blank" href="https://www.canva.com/design/DAGBgBM_cuA/0n6_t2GBP4XoUnynEBKh2A/view?utm_content=DAGBgBM_cuA&utm_campaign=designshare&utm_medium=link&utm_source=viewer">
                 Final Presentation
-                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
             </a>
         </button>
 
         <button class="cta-button">
             <a class="cta" target="_blank" href="https://docs.google.com/document/d/1LdOCagpwQt0vaBTGCICWyTX-3ccbMul4kpANg5EdqTQ/edit?usp=sharing">
                 Work Breakdown Structure
-                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
             </a>
         </button>
 
         <button class="cta-button">
             <a class="cta" target="_blank" href="https://docs.google.com/spreadsheets/d/1qAeil-M4dJIVpsZF98nob9NqT2180aRHqvy3iba6g-Q/edit?usp=sharing">
                 Gantt Chart
-                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
             </a>
         </button>
     </div>

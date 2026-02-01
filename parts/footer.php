@@ -4,10 +4,10 @@
             <p>Jayden Inniss</p>
             <div class="socials">
                 <a href="https://www.linkedin.com/in/jaydeninniss/" target="_blank">
-                    <img src="../media/icons/linkedin.svg" alt="Jayden Inniss - LinkedIn" class="social-icon">
+                    <img src="../media/icons/linkedin.svg" alt="Jayden Inniss - LinkedIn" class="social-icon" loading="lazy">
                 </a>
                 <a href="https://www.instagram.com/jayden.inniss/" target="_blank">
-                    <img src="../media/icons/instagram.svg" alt="Jayden Inniss - Instagram" class="social-icon">
+                    <img src="../media/icons/instagram.svg" alt="Jayden Inniss - Instagram" class="social-icon" loading="lazy">
                 </a>
             </div>
         </div>

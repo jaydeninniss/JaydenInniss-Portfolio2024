@@ -98,7 +98,7 @@
                         <?php while($title = $result2->fetch_assoc()) { ?>
                             <h3 class="client-title-mobile"><?php echo $title['set_title']; ?></h3>
                             <figure class="figure client">
-                                <img src="<?php echo $title['set_cover']; ?>">
+                                <img src="<?php echo $title['set_cover']; ?>" loading="lazy">
                                 <figcaption>
                                     <h3 class="client-title-desktop"><?php echo $title['set_title']; ?></h3>
 
@@ -129,7 +129,7 @@
                     data-pswp-width="<?php echo $img['width']; ?>"
                     data-pswp-height="<?php echo $img['height']; ?>"
                     target="_blank">
-                    <img src="<?php echo $img['photo_path']; echo $img['file'];?>" alt=""/>
+                    <img src="<?php echo $img['photo_path']; echo $img['file'];?>" alt="" loading="lazy"/>
                 </a>
 
                 <?php }; ?>

@@ -56,7 +56,7 @@
     <main>
         <!-- Header Img -->
         <div class="hero">
-            <img src="../media/img/banners/stsfilmfestprojectcover.webp" alt="Sea to Sky Student Short Film Festival Hero Image">
+            <img loading="lazy" src="../media/img/banners/stsfilmfestprojectcover.webp" alt="Sea to Sky Student Short Film Festival Hero Image">
         </div>
         <!-- END Header Img -->
 
@@ -70,14 +70,14 @@
                 <p class="answer">My two peers and I created a film festival designed for youth in The Sea to Sky Corridor to showcase their filmmaking talent. Sho Brooks, Kenta Tanaka and I led this initiative. </p><p class="answer"> The competition was designed as a fundraiser for our graduating class at Whistler Secondary School. After receiving <span class="highlight">9 submitted films,</span> we held a viewing night at our school for an <span class="highlight">audience of over 300.</span> This event was a huge success: We <span class="highlight">exceeded our projected profit by $4,000,</span> doubled our expected audience and gave a platform for young aspiring filmmakers to display their work in front of the community. </p>
 
                 <div class="image-container">
-                <img src="/media/img/banners/stsfilmfestprojectcover.webp" alt="">
+                <img loading="lazy" src="/media/img/banners/stsfilmfestprojectcover.webp" alt="">
                 </div>
                 
                 <h3 class="question">Competition Details</h3>
                 <p class="answer">To celebrate what makes the Sea to Sky region unique, the Whistler Secondary Short Film Festival debuts as a student filmmaking competition produced by the graduating class of 2023 where you <span class="highlight">could win great prizes!</span></p><p class="answer"><span class="highlight">The competition is open to anyone in grades 8 to 12</span> residing in Squamish, Whistler, Pemberton and Mt. Currie, and attending an SD48 public or independent school with a phone, GoPro, or camera with a story to tell. </p>
 
                 <div class="image-container">
-                    <img src="/media/img/projects/filmfest/criteria.png" alt="">
+                    <img loading="lazy" src="/media/img/projects/filmfest/criteria.png" alt="">
                 </div>
 
                 <h3 class="question">Advertising</h3>
@@ -95,7 +95,7 @@
                 <p class="answer">The judging panel was composed of a hand-picked group of <span class="highlight">proffessional filmmakers </span>from the Sea to Sky corridor.<br><br>Films will be judged based on their application's overall concept, creativity, and originality.</p>
 
                 <div class="image-container">
-                    <img src="../media/img/projects/filmfest/judgecriteria.png" alt="">
+                    <img loading="lazy" src="../media/img/projects/filmfest/judgecriteria.png" alt="">
                 </div>
                 
                 <p class="answer">There are no restrictions on your creativity or how you choose to capture the magic that makes the Sea to Sky region so unique.</p>
@@ -122,7 +122,7 @@
 
                 <div class="image-container">
                     <video src="../media/img/projects/filmfest/winners.mp4" autoplay loop muted></video>
-                    <img src="../media/img/projects/filmfest/sho.jpg" alt="">
+                    <img loading="lazy" src="../media/img/projects/filmfest/sho.jpg" alt="">
                     <video src="../media/img/projects/filmfest/prizes.mp4" autoplay loop muted></video>
                 </div>
 
@@ -132,13 +132,13 @@
                 Providing an opportunity for youth filmmakers in Whistler was <span class="highlight">a way to give back to the community for everything it has provided to me. </span></p><p class="answer">In 2017, the World Ski and Snowboard Festival's Olympus 72-Hour Filmmaker Showdown chose my film as one of the top 10 films. It was screened in front of 1,600, which was mind-blowing when I was in grade 7. <span class="highlight">This event was full circle for me </span>as I was able to give filmmakers a similar opportunity to present their films and gain exposure within the community.<br><br>This whole event was so rewarding and I enjoyed every second of planning, developing and finally MCing the event alongside my incredibly talented peers: Sho Brooks and Kenta Tanaka.</p>
 
                 <div class="image-container">
-                    <img src="../media/img/banners/stsfilmfestprojectcover.webp" alt="">
+                    <img loading="lazy" src="../media/img/banners/stsfilmfestprojectcover.webp" alt="">
                 </div>
 
                 <button class="cta-button">
                         <a class="cta" href="https://www.youtube.com/@SeatoSkyStudentFilmFest/featured" target ="_blank">
                             Binge the films on YouTube
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                            <img loading="lazy" src="../media/icons/button-arrow.svg" alt="Right Arrow">
                         </a>
                     </button>
             </div>

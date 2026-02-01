@@ -62,7 +62,7 @@
     <main>
         <div class="about">
             <div class="about-profile">
-                <img id="profile-pic" src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss Profile Picture">
+                <img id="profile-pic" src="./media/img/jayden24profilepic.jpeg" alt="Jayden Inniss Profile Picture" loading="lazy">
             </div>
             <div class="about-right">
                 <h1>Reach out!</h1>

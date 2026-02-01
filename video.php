@@ -79,7 +79,7 @@
                     <button class="cta-button">
                         <a class="cta" href="projects/sd48indigenousteachings">
                             Read More + Watch
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                         </a>
                     </button>
                 </section>
@@ -102,7 +102,7 @@
                             <button class="cta-button">
                                 <a class="cta" href="projects/sd48indigenousteachings">
                                     Watch + Read More
-                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                                 </a>
                             </button>
                         </div> 
@@ -112,7 +112,7 @@
                 <div class="project" id="project-broadcast">
                     <div class="project-info" id="project-info-broadcast">
                         <div class="left-side-info">
-                            <img src="/media/img/banners/broadcast-banner-wsc.webp" class="mobile-cover">
+                            <img src="/media/img/banners/broadcast-banner-wsc.webp" class="mobile-cover" loading="lazy">
                             <h2>Broadcast Televison</h2>
                             <h3>Work Experience</h3>
                             <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
@@ -120,7 +120,7 @@
                             <button class="cta-button">
                                 <a class="cta" href="projects/broadcast">
                                     Read More
-                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                                 </a>
                             </button>
                         </div> 
@@ -130,7 +130,7 @@
                 <div class="project" id="project-ubcsnb">
                     <div class="project-info"  id="project-info-ubcsnb">
                         <div class="left-side-info">
-                            <img src="/media/img/banners/ubcsnb-banner.webp" alt="UIUX Project" class="mobile-cover">
+                            <img src="/media/img/banners/ubcsnb-banner.webp" alt="UIUX Project" class="mobile-cover" loading="lazy">
                             <h2>UBC Ski and Snowboard Club</h2>
                             <h3>Content Creation</h3>
                             <p class="project-type">Photo/Video Reels for Social Media</p>
@@ -138,7 +138,7 @@
                             <button class="cta-button">
                                 <a class="cta" href="./projects/ubcsnb">
                                     Watch + Read More
-                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                                 </a>
                             </button>
                         </div> 
@@ -148,7 +148,7 @@
                 <div class="project" id="project-worca">
                     <div class="project-info"  id="project-info-worca">
                         <div class="left-side-info">
-                            <img src="/media/img/banners/worca-banner.webp" alt="WORCA Project" class="mobile-cover">
+                            <img src="/media/img/banners/worca-banner.webp" alt="WORCA Project" class="mobile-cover" loading="lazy">
                             <h2>WORCA</h2>
                             <h3>Weekly Social Media Reels</h3>
                             <p class="project-type">Summer 2022</p>
@@ -156,7 +156,7 @@
                             <button class="cta-button">
                                 <a class="cta" href="#">
                                     Watch + Read More
-                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                    <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                                 </a>
                             </button>
                         </div>

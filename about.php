@@ -155,16 +155,16 @@
                     <button class="cta-button">
                         <a class="cta" href="/media/resume-jaydeninniss.pdf" target="_blank">
                             View My Resume
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                         </a>
                     </button>
-                    
+
                     <p><br></p>
-                    
+
                     <button class="cta-button">
                         <a class="cta" href="mailto:contact@jaydeninniss.com">
                             Contact@jaydeninniss.com
-                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                            <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                         </a>
                     </button>
                 </div>

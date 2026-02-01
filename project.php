@@ -71,7 +71,7 @@
             <div class="project" id="project-indigenousvideo">
                 <div class="project-info" id="project-info1">
                     <div class="left-side-info">
-                        <img src="/media/img/banners/tanina-banner.webp" class="mobile-cover">
+                        <img src="/media/img/banners/tanina-banner.webp" class="mobile-cover" loading="lazy">
                         <h2>Day of Indigenous Teachings Video</h2>
                         <h3>For School District 48</h3>
                         <p class="project-type">Paid Video Project</p>
@@ -80,7 +80,7 @@
                         <button class="cta-button">
                             <a class="cta" href="projects/sd48indigenousteachings">
                                 Watch + Read More
-                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                             </a>
                         </button>
                     </div> 
@@ -90,7 +90,7 @@
             <div class="project" id="project-stsfilmfest">
                 <div class="project-info"  id="project-info2">
                     <div class="left-side-info">
-                        <img src="/media/img/banners/stsfilmfestprojectcover.webp" alt="Sea to Sky Film Festival" class="mobile-cover">
+                        <img src="/media/img/banners/stsfilmfestprojectcover.webp" alt="Sea to Sky Film Festival" class="mobile-cover" loading="lazy">
                         <h2>SEA TO SKY STUDENT SHORT FILM FESTIVAL</h2>
                         <h3>Community Fundraising Event</h3>
                         <p class="project-type">Self-Directed</p>
@@ -98,7 +98,7 @@
                         <button class="cta-button">
                             <a class="cta" href="projects/stsfilmfest">
                                 Read More
-                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                             </a>
                         </button>
                     </div> 
@@ -108,7 +108,7 @@
             <div class="project" id="project-alpinearmour">
                 <div class="project-info"  id="project-info3">
                     <div class="left-side-info">
-                        <img src="/media/img/banners/alpinearmourcover.webp" alt="Alpine Armour" class="mobile-cover">
+                        <img src="/media/img/banners/alpinearmourcover.webp" alt="Alpine Armour" class="mobile-cover" loading="lazy">
                         <h2>Alpine Armour</h2>
                         <h3>Marketing Campaign Pitch</h3>
                         <p class="project-type">New Media, BCIT</p>
@@ -116,7 +116,7 @@
                         <button class="cta-button">
                             <a class="cta" href="./projects/alpinearmour">
                                 Read More
-                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                             </a>
                         </button>
                     </div> 
@@ -126,7 +126,7 @@
             <div class="project" id="project-broadcast">
                 <div class="project-info" id="project-info6">
                     <div class="left-side-info">
-                        <img src="/media/img/banners/broadcast-banner-wsc.webp" class="mobile-cover">
+                        <img src="/media/img/banners/broadcast-banner-wsc.webp" class="mobile-cover" loading="lazy">
                         <h2>Broadcast Televison</h2>
                         <h3>Work Experience</h3>
                         <p class="project-type">Clients include Dome, Mesh,JFM Sports, TSN</p>
@@ -134,7 +134,7 @@
                         <button class="cta-button">
                             <a class="cta" href="projects/broadcast">
                                 Read More
-                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                             </a>
                         </button>
                     </div> 
@@ -144,7 +144,7 @@
             <div class="project" id="project-ubcsnb">
                 <div class="project-info"  id="project-info8">
                     <div class="left-side-info">
-                        <img src="/media/img/banners/ubcsnb-banner.webp" alt="UIUX Project" class="mobile-cover">
+                        <img src="/media/img/banners/ubcsnb-banner.webp" alt="UIUX Project" class="mobile-cover" loading="lazy">
                         <h2>UBC Ski and Snowboard Club</h2>
                         <h3>Content Creation</h3>
                         <p class="project-type">Photo/Video Reels for Social Media</p>
@@ -152,7 +152,7 @@
                         <button class="cta-button">
                             <a class="cta" href="./projects/ubcsnb">
                                 Watch + Read More
-                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                             </a>
                         </button>
                     </div> 
@@ -162,7 +162,7 @@
             <div class="project" id="project-worca">
                 <div class="project-info"  id="project-info5">
                     <div class="left-side-info">
-                        <img src="/media/img/banners/worca-banner.webp" alt="WORCA Project" class="mobile-cover">
+                        <img src="/media/img/banners/worca-banner.webp" alt="WORCA Project" class="mobile-cover" loading="lazy">
                         <h2>WORCA</h2>
                         <h3>Weekly Social Media Reels</h3>
                         <p class="project-type">Summer 2022</p>
@@ -170,7 +170,7 @@
                         <button class="cta-button">
                             <a class="cta" href="#">
                                 Watch + Read More
-                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow">
+                                <img src="../media/icons/button-arrow.svg" alt="Right Arrow" loading="lazy">
                             </a>
                         </button>
                     </div>

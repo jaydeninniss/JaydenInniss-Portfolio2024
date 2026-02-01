@@ -55,7 +55,7 @@
     <main>
     <!-- Header Img -->
     <div class="hero">
-        <img src="../media/img/banners/tanina-banner.webp" alt="">
+        <img src="../media/img/banners/tanina-banner.webp" alt="" loading="lazy">
     </div>
     <!-- END Header Img -->
 
