@@ -15,5 +15,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
         server:  82.198.236.70
-        username: u982216266
+        username: u982216266.jaydeninnissautodeploygithubaction
         password: ${{ secrets.ftp_password }}
