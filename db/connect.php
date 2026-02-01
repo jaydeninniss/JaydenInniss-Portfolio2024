@@ -1,14 +1,5 @@
 <?php
-        $db_host = 'localhost';
-        $db_user = 'innis301_jayden';
-        $db_password = 'Whistler19!';
-        $db_db = 'innis301_img-gallery';
-
-    // LIVE SERVER VERSION
-        // $db_host = 'localhost';
-        // $db_user = 'root';
-        // $db_password = 'root';
-        // $db_db = 'inniss301_img-gallery';
+        require_once __DIR__ . '/config.php';
 
         $imgs = @new mysqli(
             $db_host,
