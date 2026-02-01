@@ -14,6 +14,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.5
       with:
-        server: ftp.jaydeninniss.com
-        username: jaydeninniss@jaydeninniss.com
+        server: ftp://jaydeninniss.com
+        username: jaydeninnissautodeploygithubaction
         password: ${{ secrets.ftp_password }}
