@@ -3,8 +3,8 @@
 
             $db_host = 'localhost';
     $db_user = 'innis301_jayden';
-    $db_password = 'Whistler19!';
-    $db_db = 'innis301_img-gallery';
+    $db_password = 'Whistler2026!';
+    $db_db = 'u982216266_img_gallery';
 
         // LIVE SERVER VERSION
         // $db_host = 'localhost';
